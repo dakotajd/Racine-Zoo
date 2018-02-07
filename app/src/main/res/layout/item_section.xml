@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:orientation="vertical" android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/section"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#EFEFF4"-->
+        <!--android:padding="10dp"-->
+        <!--android:textSize="@dimen/animal_list_text"-->
+        <!--android:textColor="#6D6D72"/>-->
+    <!--<TextView-->
+        <!--android:id="@+id/animal_name"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:padding="10dp"-->
+        <!--android:textSize="@dimen/animal_list_text"-->
+        <!--android:background="#FFFFFF"-->
+        <!--android:textColor="#000000"/>-->
+<!--</LinearLayout>-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    >
+
+    <TextView
+        android:id="@+id/section"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="A"
+        android:gravity="center_vertical"
+        android:fontFamily="sans-serif"
+        android:layout_marginLeft="20dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/animal_name"
+        android:layout_width="275dp"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:text="Animal"
+        android:fontFamily="sans-serif"
+        android:textSize="@dimen/animal_list_text"
+        android:layout_marginLeft="60dp"
+        android:textColor="#000000"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:fontFamily="sans-serif"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="55dp"
+        android:background="#2a000000"/>
+</RelativeLayout>

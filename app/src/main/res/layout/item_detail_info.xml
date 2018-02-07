@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/item_background"
+    android:stateListAnimator="@drawable/item_selected"
+    >
+
+    <include layout="@layout/item_header"/>
+
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp">
+        <TextView
+            android:id="@+id/title_class"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="Class"
+            />
+        <TextView
+            android:id="@+id/content_class"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mamalia"
+            android:textSize="15sp"
+            android:textColor="@color/colorText"
+            android:layout_alignBaseline="@id/title_class"
+            android:layout_marginLeft="80dp"
+            />
+
+        <TextView
+            android:id="@+id/title_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@+id/title_class"
+            android:text="Order"
+            />
+        <TextView
+            android:id="@+id/content_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mamalia"
+            android:textSize="15sp"
+            android:textColor="@color/colorText"
+            android:layout_alignBaseline="@id/title_order"
+            android:layout_marginLeft="80dp"
+            />
+
+        <TextView
+            android:id="@+id/title_family"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title_order"
+            android:textSize="15sp"
+            android:text="Family"
+            />
+        <TextView
+            android:id="@+id/content_family"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Family"
+            android:textSize="15sp"
+            android:textColor="@color/colorText"
+            android:layout_alignBaseline="@id/title_family"
+            android:layout_marginLeft="80dp"
+            />
+
+        <TextView
+            android:id="@+id/title_genus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@+id/title_family"
+            android:text="Genus"
+            />
+        <TextView
+            android:id="@+id/content_genus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mamalia"
+            android:textSize="15sp"
+            android:textColor="@color/colorText"
+            android:layout_alignBaseline="@id/title_genus"
+            android:layout_marginLeft="80dp"
+            />
+
+        <TextView
+            android:id="@+id/title_species"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@+id/title_genus"
+            android:text="Species"
+            />
+        <TextView
+            android:id="@+id/content_species"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="Species"
+            android:textColor="@color/colorText"
+            android:layout_alignBaseline="@id/title_species"
+            android:layout_marginLeft="80dp"
+            />
+
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/separator"/>
+</LinearLayout>

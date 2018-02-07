@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#231F20</color>
+    <color name="colorPrimaryDark">#0d0b0c</color>
+    <color name="colorAccent">#F0B510</color>
+    <color name="colorUnactivated">#63f0b510</color>
+    <color name="colorText">#000000</color>
+    <color name="colorTextSubTitle">#787878</color>
+    <color name="colorItemBackground">#0ee7e7e7</color>
+
+    <color name="textColorPrimary">#fcfdfe</color>
+    <color name="textColorLight">#868380</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="EventItem">#393234</color>
+    <color name="EventSeparator">#EFB923</color>
+    <color name="detailSeparator">#2a545454</color>
+</resources>

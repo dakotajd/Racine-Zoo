@@ -1,0 +1,116 @@
+{
+  "locationDescriptions": [
+    {
+      "location" : "Land of Giants",
+      "description" : "Go on an African Safari and visit African mammals hailing from the savannas of the north to the mountains of the south.",
+      "animals" : [
+        "Eastern Black Rhinoceros",
+        "Masai Giraffe"
+      ]
+    },
+    {
+      "location" : "Racine Rotary West Safari Base Camp",
+      "description" : "This beautiful space overlooking Lake Michigan is perfect for a picnic. You may also rent this space for your party or other event."
+    },
+    {
+      "location" : "Pheasantry",
+      "description" : "Get up close and personal with native raptors in this exhibit. Look high up on the perches to spot one of our feathered friends!"
+    },
+    {
+      "location" : "Play Zoo",
+      "description" : "Swing like a monkey or hop like a kangaroo on our giant play zoo playground!"
+    },
+    {
+      "location" : "Helen Ireland Wildlife Theatre",
+      "description" : "Enjoy free seasonal wildlife programs, or when it’s quiet step in to enjoy a peaceful view of the native wildlife in zoo pond."
+    },
+    {
+      "location" : "A. B. Modine Pond",
+      "description" : "Home to a variety of turtles, frogs, birds, and other animals, our Zoo Pond includes great places to enjoy our native wildlife that live alongside us."
+    },
+    {
+      "location" : "Bear Ridge",
+      "description" : "Wander around bear ridge to view our charismatic Andean Bears! Be sure to visit all three windows to spot them playing, foraging, or taking a nap.",
+      "animals" : [
+        "Andean Bear"
+      ]
+    },
+    {
+      "location" : "Meerkat Manor",
+      "description" : "Home to both our meerkats and our African Penguins, this exhibit joins sand and surf for two of our most playful groups of animals!",
+      "animals" : [
+        "African Penguin"
+      ]
+    },
+    {
+      "location" : "Great Cat Canyon",
+      "description" : "Watch a tiger patrol their territory, a lynx scale a rock wall, or come face to face with a lion in our Great Cat Canyon",
+      "animals" : [
+        "Amur Tiger",
+        "Canada Lynx",
+        "African Lion"
+      ]
+    },
+    {
+      "location" : "Robinson Crusoe Adventure Land",
+      "description" : "A fun play land for the little ones in your group, this playground features climbing, small slides and a sandbox with toys to engage your child’s creativity."
+    },
+    {
+      "location" : "Max and Jenny’s Jungle Grill",
+      "description" : "Time for lunch? How about a snack? Our Jungle Grill seasonally serves up delicious food. Eat inside or enjoy your meal at a picnic table overlooking our Walkabout Creek."
+    },
+    {
+      "location" : "Walkabout Creek",
+      "description" : "G’Day Mate! Watch a kangaroo hop right in front of you in this open concept exhibit. Be sure to look for the wallaroos as well – they are smaller and darker than the kangaroos!",
+      "animals" : [
+        "Emu",
+        "Common Wallaroo",
+        "Red Kangaroo"
+      ]
+    },
+    {
+      "location" : "Benstead Discovery Center",
+      "description" : "Turtles, bats, snakes and more from all over the world are waiting to be discovered in the Benstead Discovery Center."
+    },
+    {
+      "location" : "Vanishing Kingdom",
+      "description" : "Meet endangered species from around the world and learn about what you can do to help in our Vanishing Kingdom exhibit, located inside the oldest building at the zoo!",
+      "animals" : ["Yellow-Crowned Amazon", "Black Handed Spider Monkey", "Brown-Nosed Coati", "Fossa", "Emperor Tamarin", "Emperor Tamarin", "Orangutan", "White-Handed Gibbon"]
+    },
+    {
+      "location" : "Barnyard Safari",
+      "description" : "Make some friends on the farm  - seasonally, meet and groom goats, sheep, pigs and more!",
+      "animals" : [
+        "Llama",
+        "Domestic Pig",
+        "Suri Alpaca"
+      ]
+    },
+    {
+      "location" : "Norco Aviary",
+      "description" : "Feed and visit with colorful, talkative birds that are sure to delight the whole family.",
+      "animals" : [
+        "Budgerigar",
+        "Arctic Fox"
+      ]
+    },
+    {
+      "location" : "Junior League of Racine Zoo Choo Express Train Depot",
+      "description" : "All aboard! Join us for a relaxing cruise through the zoo on our Zoo Choo Express, open seasonally."
+    },
+    {
+      "location" : "Stork Aviary",
+      "animals" : [
+        "Lesser Adjutant Stork",
+        "Tufted Deer"
+      ]
+    },
+    {
+      "location" : "Zootique",
+      "description" : "The Zootique, Racine Zoo's dynamic gift shop offers exclusive apparel, souvenirs, and gifts for the whole family. Guests can find everything from postcards to magic socks and a few four foot plush giraffes!",
+      "animals" : [
+        "Western Screech Owl"
+      ]
+    }
+  ]
+}

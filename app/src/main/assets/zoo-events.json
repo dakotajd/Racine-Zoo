@@ -1,0 +1,340 @@
+{
+  "Event": [
+    {
+      "name": "Winos for Rhinos",
+      "start": "03/04/2017 6:00PM CST",
+      "end": "03/04/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "winosforrhinos.png",
+          "winosdescription.jpg"
+      ],
+      "description": "Rhinos have existed on Earth for more than 50 million years but with increased poaching, even in protected areas, every species of rhino is now threatened with extinction.\nBy placing a bid and the winning the item you are helping to ensure the health and well-being of our gentle giants, Timu and Kianga here at the Racine Zoo.",
+      "url": "http://www.biddingOwl.com/TheRacineZoo"
+    },
+    {
+      "name": "Eggstravaganza",
+      "start": "04/15/2017 9:00AM CST",
+      "end": "04/15/2017 4:30PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "eggstravaganza.jpg"
+      ]
+    },
+    {
+      "name": "Earth Day Beach Cleanup",
+      "start": "04/22/2017 9:00AM CST",
+      "end": "04/22/2017 11:00AM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations.\nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Zooriffic Saturday--Earth Day",
+      "start": "04/22/2017 9:00AM CST",
+      "end": "04/22/2017 4:30PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations.\nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "World Wine Wednesday",
+      "start": "04/26/2017 6:00PM CST",
+      "end": "04/26/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "worldwine.jpg"
+      ],
+      "description": "World Wine Wednesday: Enjoy specially selected wines and the following: Unlimited sampling of wines, World Wine Wednesday glass, two free drink tickets, and Hors d’oeuvres. \nTickets can be purchased online, at Uncorkt or at the Zoo administration office (200 Goold Street) for $30 per person. \n\nMust be 21 or older to attend."
+    },
+    {
+      "name": "Zooriffic Saturday--Children's Mental Health Awareness Day",
+      "start": "05/06/2017 9:00AM CST",
+      "end": "05/06/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nEnjoy 5$ Admission this day."
+    },
+    {
+      "name": "Mother's Day 5K Run/Walk",
+      "start": "05/13/2017 7:00AM CST",
+      "end": "05/13/2017 9:00AM CST",
+      "notifyByDefault": false,
+      "description": "Get ready to run (or walk) wild! Join us at the Racine Zoo for our Wild 5K Run/Walk for the Animals at our beautiful lakefront location in Downtown Racine. \nAll proceeds from this event benefit the animals of the Racine Zoo. \nEach registration includes: \n-Event t-shirt \n-Free post-race refreshments \n*Limited supplies available* \nRegister: Now-May 12th: \n$30 (Zoo Members) \n$35 (Non-Zoo Members) \nDAY OF - $40 at door for everyone.",
+      "url": "http://www.racinezoo.org"
+    },
+    {
+      "name": "Mother's Day Brunch",
+      "start": "05/14/2017 10:00AM CST",
+      "end": "05/14/2017 11:30AM CST",
+      "notifyByDefault": false,
+      "description": "Let’s celebrate Mom! Join us for a special Mother’s Day brunch at the Zoo. Tickets are $25/pp for Zoo members and $35/pp for Non-zoo members and include: Catered brunch, Giraffe Encounter, Flower for Mom, Commemorative photo, Special crafts for kids to make for Mom."
+    },
+    {
+      "name": "Zooriffic Saturday--Endangered Species Day",
+      "start": "05/20/2017 9:00AM CST",
+      "end": "05/20/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members. \n\nArmed Forces Day: Free day at the Racine Zoo for all active and retired U.S. Military"
+    },
+    {
+      "name": "Member Appreciation Night",
+      "start": "05/25/2017 6:00PM CST",
+      "end": "05/25/2017 9:00PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Zooriffic Saturday--Orangutan Awareness Day",
+      "start": "06/03/2017 9:00AM CST",
+      "end": "06/03/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity station. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Roar and Pour",
+      "start": "06/07/2017 6:00PM CST",
+      "end": "06/07/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "roarandpour.jpg"
+      ],
+      "description": "Join us for Roar and Pour for unlimited beer tasting and fun! Tickets include: unlimited beer tasting, a Roar and Pour glass, two drink tickets, and hors d'oeuvres.\nTickets can be purchased online or at the Zoo office for $30 per person. A ticket must be presented to enter the event.\n\nMust be 21 or older to attend.",
+      "urlTitle": "Buy Tickets",
+      "url": "http://www.racinezoo.org/product/roar-pour"
+    },
+    {
+      "name": "Member Monday--Kick Off To Summer",
+      "start": "06/10/2017 6:00PM CST",
+      "end": "06/10/2017 8:00PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Member Monday--Kick Off To Summer",
+      "start": "06/12/2017 6:00PM CST",
+      "end": "06/12/2017 8:00PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Yappy Hour",
+      "start": "06/15/2017 4:30PM CST",
+      "end": "06/15/2017 7:30PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Father's Day Putt Putt Golf Tournament",
+      "start": "06/18/2017 12:00PM CST",
+      "end": "06/18/2017 3:00PM CST",
+      "notifyByDefault": false,
+      "description": "Your ticket includes: Catered lunch, Daddy Drafts (draft beer), Participation in the Putt-Putt Golf Tournament (18-holes, shotgun start at 9 a.m.) \n\nAccess to the “Man Cave”, Family Photo, Craft station for kid’s Father’s Day crafts.\nTickets are only $25 for Zoo members and $30 for Non-members. Space is limited so grab your tickets today!",
+      "url": "http://www.racinezoo.org"
+    },
+    {
+      "name": "Zooriffic Saturday--Giraffe Day",
+      "start": "06/24/2017 9:00AM CST",
+      "end": "06/24/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity station. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "World Wine Wednesday",
+      "start": "06/28/2017 6:00PM CST",
+      "end": "06/28/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "worldwine.jpg"
+      ],
+      "description": "World Wine Wednesday: Enjoy specially selected wines and the following: Unlimited sampling of wines, World Wine Wednesday glass, two free drink tickets, and Hors d’oeuvres. \nTickets can be purchased online, at Uncorkt or at the Zoo administration office (200 Goold Street) for $30 per person. \n\nMust be 21 or older to attend."
+    },
+    {
+      "name": "Yappy Hour",
+      "start": "07/06/2017 4:30PM CST",
+      "end": "07/06/2017 7:30PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Animal Crackers Concert",
+      "start": "07/12/2017 5:30PM CST",
+      "end": "07/12/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "animalcrackers.png"
+      ],
+      "description": "Bria Skonberg: Enjoy the upbeat music, beautiful lake view and delicious food from the numerous dining options on site. \nThe doors to the Racine Zoo open at 5:30 p.m. and the shows begin at 7:00 p.m. \nCanadian singer, trumpeter, and songwriter Bria Skonberg is described by The Wall Street Journal as one of the “most versatile and imposing musicians of her generation.",
+      "urlTitle": "Get 10% Off Season Tickets Here",
+      "url": "http://www.racinezoo.com/product/animal-crackers-season-tickets"
+    },
+    {
+      "name": "Roar and Pour",
+      "start": "07/15/2017 6:00PM CST",
+      "end": "07/15/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "roarandpour.jpg"
+      ],
+      "description": "Join us for Roar and Pour for unlimited beer tasting and fun! Tickets include: unlimited beer tasting, a Roar and Pour glass, two drink tickets, and hors d'oeuvres.\nTickets can be purchased online or at the Zoo office for $30 per person.\nA ticket must be presented to enter the event.\n\nMust be 21 or older to attend.",
+      "urlTitle": "Buy Tickets",
+      "url": "http://www.racinezoo.org/product/roar-pour"
+    },
+    {
+      "name": "World Wine Wednesday",
+      "start": "07/19/2017 6:00PM CST",
+      "end": "07/19/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "worldwine.jpg"
+      ],
+      "description": "World Wine Wednesday: Enjoy specially selected wines and the following: Unlimited sampling of wines, World Wine Wednesday glass, two free drink tickets, and Hors d’oeuvres. \nTickets can be purchased online, at Uncorkt or at the Zoo administration office (200 Goold Street) for $30 per person. \n\nMust be 21 or older to attend."
+    },
+    {
+      "name": "Cigar Dinner",
+      "start": "07/20/2017 5:30PM CST",
+      "end": "07/20/2017 11:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "cigardinner.jpg"
+      ],
+      "description": "What says relaxation more than enjoying a perfectly cooked gourmet steak dinner with all the trimmings while sitting by the lake?  The Cigar Dinner is all about indulging in rare cigars from around the world with other cigar enthusiasts in a beautiful, scenic outdoor setting.\nAn outstanding wine selection is offered by Timers Beverage Center with cigars offered by Jim Pendergast. Plus, bid on unique silent and voice auction items throughout the night.  All proceeds benefit the animals and programs of the Racine Zoo."
+    },
+    {
+      "name": "Zooriffic Saturday--Zookeeper Day",
+      "start": "07/22/2017 9:00AM CST",
+      "end": "07/22/2017 6:00PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "Animal Crackers Concert",
+      "start": "07/26/2017 5:30PM CST",
+      "end": "07/26/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "animalcrackers.png"
+      ],
+      "description": "Gerald Albright: Enjoy the upbeat music, the beautiful lake view and delicious food from the numerous dining options on site. \nThe doors to the Racine Zoo open at 5:30 p.m. and the shows begin at 7:00 p.m. \nGerald Albright, nominated for multiple GRAMMY® Awards and one of the biggest stars of R&B, Contemporary and Straight-ahead Jazz.",
+      "urlTitle": "Get 10% Off Season Tickets Here",
+      "url": "http://www.racinezoo.com/product/animal-crackers-season-tickets"
+    },
+    {
+      "name": "Yappy Hour",
+      "start": "07/27/2017 4:30PM CST",
+      "end": "07/27/2017 7:30PM CST",
+      "notifyByDefault": false
+    },
+    {
+      "name": "World Wine Wednesday",
+      "start": "08/02/2017 6:00PM CST",
+      "end": "08/02/2017 8:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "worldwine.jpg"
+      ],
+      "description": "World Wine Wednesday: Enjoy specially selected wines and the following: Unlimited sampling of wines, World Wine Wednesday glass, two free drink tickets, and Hors d’oeuvres. \nTickets can be purchased online, at Uncorkt or at the Zoo administration office (200 Goold Street) for $30 per person. \n\nMust be 21 or older to attend."
+    },
+    {
+      "name": "Animals and Artisans",
+      "start": "08/05/2017 9:00AM CST",
+      "end": "06/24/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "OPEN CALL FOR ARTISANS/CRAFTERS! \n\nFee for vendors: $50.00 for early bird registration on or before May 26, 2017; $100 on or after May 27, 2017, Booth space is 12’x12’, Limited electricity available, Event runs rain or shine, Notification of acceptance – on Monday, June 6, 2017. \nFree with zoo admission: $8 ages 16 and older, $7 ages 62 and older, $6 ages 3-15; free ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Animal Crackers Concert",
+      "start": "08/09/2017 5:30PM CST",
+      "end": "08/09/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "animalcrackers.png"
+      ],
+      "description": "Booker T. Jones: Enjoy the upbeat music, the beautiful lake view and delicious food from the numerous dining options on site. The doors to the Racine Zoo open at 5:30 p.m. and the shows begin at 7:00 p.m. \nJones was one of the architects of the Memphis soul sound of the 1960s as the leader of Booker T. & the MG’s, who scored a number of hits.",
+      "urlTitle": "Get 10% Off Season Tickets Here",
+      "url": "http://www.racinezoo.com/product/animal-crackers-season-tickets"
+    },
+    {
+      "name": "Zooriffic Saturday: Reptile & Amphibian Awareness Day",
+      "start": "08/12/2017 9:00AM CST",
+      "end": "08/12/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Whiskers & Whiskey - Fundraiser Event",
+      "start": "08/19/2017 6:00PM CST",
+      "end": "08/19/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "description": "Enjoy a 5 course whiskey and meal pairing, silent auction and BIG cat chat from our Animal Care department.\n All proceeds benefit the animals and programs of the Racine Zoo. Email aolsen@racinezoo.org for reservations."
+    },
+    {
+      "name": "Car, Truck, and Bike Show",
+      "start": "08/20/2017 9:00AM CST",
+      "end": "08/20/2017 3:30PM CST",
+      "notifyByDefault": false,
+      "description": "Join hundreds of other car, truck & motorcycle enthusiasts. Over 75 trophies Best of Show awards for cars, motorcycles & trucks, Great prizes & gifts, Local food trucks and vendors on-site, the Racine Zoo will be offering beer, soda, and water, Event held rain or shine, Great music all day long \n\nFor more information on participating in or sponsoring this year’s show, 262-636-9274"
+    },
+    {
+      "name": "Animal Crackers Concert",
+      "start": "08/23/2017 5:30PM CST",
+      "end": "08/23/2017 9:00PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "animalcrackers.png"
+      ],
+      "description": "Larry Carlton: Enjoy the upbeat music, the beautiful lake view and delicious food from the numerous dining options on site. The doors to the Racine Zoo open at 5:30 p.m. and the shows begin at 7:00 p.m. \nAmerican guitarist who built his career as a studio musician in the 1970s and ’80s for acts such as Steely Dan and Joni Mitchell.",
+      "urlTitle": "Get 10% Off Season Tickets Here",
+      "url": "http://www.racinezoo.com/product/animal-crackers-season-tickets"
+    },
+    {
+      "name": "Zooriffic Saturday: Healthy People, Healthy Animals, Healthy Planet",
+      "start": "08/26/2017 9:00AM CST",
+      "end": "08/26/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree ages 2 and younger and zoo members."
+    },
+
+    {
+      "name": "Zoo Debut: “A Wild Affair.”",
+      "start": "09/09/2017 5:00PM CST",
+      "end": "09/09/2017 11:59PM CST",
+      "notifyByDefault": false,
+      "images": [
+          "zoodebut.jpg"
+      ],
+      "description": "Enjoy dinner and dancing by the lakeside at Racine’s premier black tie affair. Live music entertainment, a Seated dinner, open bar, Attire is black tie or formal animal print apparel. Live and silent auctions, and special raffles. Proceeds benefit the Racine Zoo. \nTickets are $125 *Early bird special price through 08.13.17* \nReservations required, call 262-636-9312 to reserve your seating or email aolsen@racinezoo.org for reservations."
+    },
+    {
+      "name": "Great Lakes Brew Fest",
+      "start": "09/16/2017 9:00AM CST",
+      "end": "09/16/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "(The Zoo will Be Closed This Day For Visiting Animals)\n Unlimited Sampling, Limited to 4500 Attendees, Home Brew Island; sample award winning home brews Cider Cellar,Live Music,Rare and Limited Release Beers, Great Food Available for Purchase, Souvenir Pint Glass for all Attendees. \nFor tickets go to www.GreatLakesBrewFest.com "
+    },
+    {
+      "name": "Zooriffic Saturday: World Rhino Day",
+      "start": "09/23/2017 9:00AM CST",
+      "end": "09/23/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Zooriffic Saturday: African Penguin Awareness Day",
+      "start": "10/14/2017 9:00AM CST",
+      "end": "10/14/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Craft, activity and snacktivity stations. \nFree with zoo admission: \n$8 ages 16 and older \n$7 ages 62 and older \n$6 ages 3-15 \nfree: ages 2 and younger and zoo members."
+    },
+    {
+      "name": "Boo at the Zoo",
+      "start": "10/28/2017 9:00AM CST",
+      "end": "10/28/2017 6:00PM CST",
+      "notifyByDefault": false,
+      "description": "Calling all Trick’or’Treaters!! \nEnjoy safe trick-or-treating all day with the animals at the Racine Zoo. Boo at the Zoo is included with regular admission. \nZoo members get in FREE! \nTake part in the Snacktivities, Straw bale Maze, Spooky Crafts, Creep Crawly’s, and more!"
+    },
+    {
+      "name": "Free Admission Day",
+      "start": "11/23/2017 9:00AM CST",
+      "end": "11/23/2017 4:30PM CST",
+      "notifyByDefault": true
+    },
+    {
+      "name": "Free Admission Day",
+      "start": "01/01/2018 9:00AM CST",
+      "end": "01/01/2018 4:30PM CST",
+      "notifyByDefault": true
+    }
+  ]
+}

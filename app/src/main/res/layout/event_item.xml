@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="4dp"
+    android:paddingEnd="8dp"
+    android:paddingStart="8dp"
+    android:paddingTop="4dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/event_date_text_layout"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:orientation="vertical"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/txt_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/White"
+                tools:text="Sun"
+                android:textSize="16sp"
+                android:ellipsize="none"
+                android:scrollHorizontally="false"
+                android:gravity="center"
+                android:layout_gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/day_month"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/White"
+                tools:text="5 Feb"
+                android:textSize="12sp"
+                android:ellipsize="none"
+                android:scrollHorizontally="false"
+                android:layout_gravity="center"/>
+
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/gold_line"
+            android:layout_toRightOf="@id/event_date_text_layout"
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:background="#F9B300"
+
+            />
+
+        <LinearLayout
+            android:background="@color/EventItem"
+            android:id="@+id/dynamic_event_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/EventItem">
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:textColor="@color/White"
+            tools:text="Event"/>
+
+        <View
+            android:layout_toRightOf="@id/txt_title"
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:background="#F9B300"
+            />
+
+    </RelativeLayout>
+    -->
+
+
+
+
+</LinearLayout>

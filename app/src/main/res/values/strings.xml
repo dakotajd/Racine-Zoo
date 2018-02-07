@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Racine Zoo</string>
+    <string name="text_animal">Animals</string>
+    <string name="text_map">Map</string>
+    <string name="text_event">Events</string>
+    <string name="text_about">About</string>
+    <string name="google_api_key">PLACE HOLDER</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="enable_bt">Enable bluetooth?</string>
+    <string name="enable_bt_message">Explore mode requires bluetooth to function. Turn on bluetooth?</string>
+
+
+
+    <string-array name="category_array">
+        <item>All</item>
+        <item>Amphibian</item>
+        <item>Bird</item>
+        <item>Mammal</item>
+        <item>Reptile</item>
+        <item>Arthropod</item>
+
+    </string-array>
+
+    <!--INFO SECTION-->
+
+    <string name="hours_admissions"><![CDATA[Hours & Admissions]]></string>
+    <string name="directions"><![CDATA[Directions]]></string>
+    <string name="shows_activities"><![CDATA[Shows & Activities]]></string>
+    <string name="about_the_zoo">About The Zoo</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="administration">Administration</string>
+    <string name="food_shopping"><![CDATA[Food & Shopping]]></string>
+    <string name="contact_us">Contact Us</string>
+    <string name="detail_info"><u><b>Detail</b></u> info</string>
+    <string name="explore">Explore Mode</string>
+
+
+    <!--Hour & Admission-->
+    <string name="hours_admissions_detail"><font size="22"><b>Hours/Admissions</b></font>
+        \n\n<![CDATA[The Racine Zoo is open year round. Please note that admission/entrance gates close prior to the official Zoo closing time. ]]>
+        \n\n<font size="22"><b><![CDATA[Fall and Winter Operating Hours:]]></b></font>
+        \n\n <b><![CDATA[October 3, 2016 - April 28, 2017]]></b>
+        \n\n<![CDATA[October 3, 2016 - December 9, 2016, the Zoo\'s hours will be from 9:00 a.m. to 4:30 p.m., last paid admission at 3:30 p.m. ]]>
+        \n\n<![CDATA[December 10, 2016 - January 27, 2017, the Zoo\'s hours will be from 9:00 a.m. to 4:00 p.m., last paid admission at 3:00 p.m.]]>
+        \n\n<![CDATA[January 28, 2017 - April 28, 2017, the Zoo\'s hours will be from 9:00 a.m. to 4:30 p.m., last paid admission at 3:30 p.m. ]]></string>
+    <string name="regular_admission_rates"><font size="22"><b>Regular Admission Rates:</b></font>
+        \n\n<![CDATA[Member - FREE]]>
+        \nChildren 2 and younger - FREE</string>
+    <string name="fall_admission_rate">
+        <font size="22"><b>Fall and Winter Admission Rates:</b></font>
+        \n\n<![CDATA[Member - FREE]]>
+        \nChildren 2 and younger - FREE</string>
+    <string name="racine_county_residents_prices">
+        Racine County residents receive $1.00 off regular admission prices by showing a valid photo I.D. <b>(Does not apply during Fall and Winter hours)</b></string>
+    <string name="racine_county_residents"><font size="18"><b>Racine County Residents</b></font>
+        \n\n<![CDATA[Racine County residents receive half off all regular admission rates with valid photo ID on Wednesdays, April through October.]]>
+        \n\nRacine County residents with valid photo ID receive FREE Zoo admission on the following days:
+        \n\n<![CDATA[*Thanksgiving Day]]>
+        \n<![CDATA[*New Year\'s Day]]>
+        \n\n<b>**The Zoo is closed on Christmas Day</b></string>
+    <string name="veterans"><font size="18"><b>Veterans</b></font>
+        \n\nIn honor of serving, all Veterans receive FREE admission on Veterans Day.</string>
+    <string name="helpful_links"><font size="18"><b>Helpful Links</b></font></string>
+    <string name="membership"><a href=""><b>MEMBERSHIP</b></a></string>
+    <string name="group_rate"><a href=""><b>GROUP RATES</b></a></string>
+    <string name="zoo_manners"><a href=""><b>ZOO MANNERS</b></a></string>
+
+
+    <!--Directions & Parking-->
+    <string name="directions_info"><font size="22"><b><![CDATA[Directions & Parking]]></b></font>
+        \n\nUse MapQuest to plan your route to the Zoo!  Click on the purple dot to get directions from where you are to the Zoo.</string>
+    <string name="parking"><font size="18"><b>Parking</b></font>
+        \n\n<![CDATA[PARKING IS FREE! Parking lots are located on the corner of Walton and North Wisconsin, and a small lot is adjacent to the main entrance of the Zoo.  Street parking is also available.]]></string>
+
+    <!--Show & Activities-->
+
+    <string name="shows_activities_detail"><font size="22"><b><![CDATA[Shows & Activities]]></b></font>
+        \n\n<font size="20">Live Animal Program</font>
+        \n\n<![CDATA[Visit the Helen Ireland Wildlife Theater and spend a few minutes with a member of the Racine Zoo\'s Animal Care and Education staff, learning and asking questions about your favorite Zoo animals. Saturday before Memorial Day through Labor Day and weekends through October 4.]]></string>
+    <string name="benstead_discovery_center"><font size="20">Benstead Discovery Center</font>
+        \n\nThe Benstead Discovery Center is located near the Zoo entrance across from the Zootique. Visit with and learn about <a href="https://www.racinezoo.org/reptiles" id="reptiles"><b>reptiles</b></a> and <a href="https://www.racinezoo.org/amphibians"><b>amphibians</b></a> from around the world.  Plus, check out our aquarium and the brand new bat exhibit.</string>
+    <string name="north_shore_bank_giraffe_encounters"><font size="20">North Shore Bank Giraffe Encounters</font>
+        \n\n<![CDATA[Guests can come face-to-face with the world\'s tallest land animal. Feedings are supervised by animal care specialists who can answer questions and share information about Mac and Bo, the Zoo’s two ]]><a href="https://www.racinezoo.org/masai-giraffe-fact-sheet"><b>Masai giraffes</b></a>.<![CDATA[ Feedings are available Saturday and Sundays May 2 through May 27 and daily starting May 28 through October 4 at 11:00 a.m., 1:00 p.m., 3:00 p.m., and 5:00 p.m. Feedings are available on a first come, first served basis and have limited availability. Tickets are $4.00.]]></string>
+    <string name="barnyard_safari"><font size="20">Barnyard Safari</font>
+        \n\n<![CDATA[This isn\'t your typical barnyard!  Our new immersive Barnyard Safari exhibit promises to deliver plenty of hands on animal interaction for kids and adults alike.  Learn more about the various species of domestic animals from around the world including Tunis sheep, miniature pigs, Nigerian dwarf goats, llamas, and alpacas. Open on weekends through Nov. 1.]]></string>
+    <string name="norco_aviary"><font size="20">Norco Aviary</font>
+        \n\nThis immersive and interactive exhibit allows guests to become a member of a flock of budgies, rosellas and cockatiels by entering an open air aviary. Have the birds eat right from your hands! Open daily 10:00 am - 7:00 p.m. May 28 through Labor Day. Purchase a seed stick for $2.00.</string>
+    <string name="playzoo_playground"><font size="20">PlayZoo Playground</font>
+        \n\n<![CDATA[Modeled to resemble an actual zoo, the PlayZoo features some truly exciting elements including a two-story tall structure with three slides, lots of climbing opportunities and even a miniature zip line! The PlayZoo is further subdivided so that 2 to 5 year-olds and 5 to 12 year-olds can play to their hearts\' content on equipment designed specifically for their abilities. Conveniently situated in the Charles & Jennifer Johnson Land of the Giants, this feature is the perfect place for you to relax while the kids let their imaginations run wild!]]></string>
+    <string name="robinson_cruse"><font size="20">Robinson Crusoe Adventureland Playground</font>
+        \n\nAdjacent to Barnyard Safari, take a break and let the kids run and play at the Zoo’s wheelchair-friendly playground.</string>
+    <string name="zoo_choo_express_due_to_a_mechanical_issue_the_zoo_choo_is_closed_for_the_season_we_are_sorry_for_any_inconvenience_this_may_cause"><font size="20"><![CDATA[Zoo Choo Express--Due to a mechanical issue, the Zoo Choo is closed for the season.  We are sorry for any inconvenience this may cause. ]]></font>
+        \n\nThis colorful miniature express train is a big hit with children and adults alike. Children 2 and younger travel for free with a paid adult. Ride the Zoo Choo Express 10:00 a.m. - 5:30 p.m. daily May 28 weekend through Labor Day. The Zoo Choo is also available on weekends in April, May, September, and October from 10:00 a.m. to 4:00 p.m. The schedule is weather permitting. Tickets are $2.00 per rider.</string>
+
+
+    <!--About-->
+    <string name="about_the_zoo_detail"><font size="22"><b>About the Zoo</b></font>
+        \n\nThe Racine Zoo, located in Racine, Wisconsin, was established in March 1923 by Jacob Stoffel, Jr. That winter, the Racine Zoological Society was formed to work with the park board and to increase interest in the Zoo.
+        \n\n<![CDATA[The Zoo’s first animals were donated by Stoffel himself.  After that, many organizations throughout Racine donated animals such as badgers, foxes, and mountain goats to add to the collection.  In 1925, monkeys were added, the first species native to areas outside the United States. ]]>
+        \n\nCurrently, the Racine Zoo cares for approximately 100 different species of animals from Wisconsin and around the world.
+    </string>
+    <string name="about_bulletin1"><![CDATA[The Racine Zoo is one of only 225 zoos accredited by the]]> <a href="http://www.aza.org/"><b><![CDATA[Association of Zoos and Aquariums.]]></b></a></string>
+    <string name="about_bulletin2">Each year, more than 85,000 guests visit the Racine Zoo’s 28-acre park on the shores of Lake Michigan.</string>
+    <string name="about_bullentin3">The Racine Zoo maintains a staff of 25 full-time employees including animal care specialists, administration, and facility managers.</string>
+    <string name="mission"><b>Mission</b>
+        \n\n<![CDATA[To foster an enlightening and affordable wildlife experience that improves the bond between people and nature.  The Society will provide for the recreation and education of the people, the conservation of wildlife and wild places, and the advancement of science.]]>
+        \n\n<b>Vision</b>
+        \n\nProvide a sanctuary for positive interaction between people and the natural world.
+        \n\n<b>Education</b>
+        \n\nThe Conservation Education Department of the Racine Zoo is dedicated to promoting awareness of conservation issues through engaging, educational, and entertaining Zoo experiences.
+        \n\n<![CDATA[The Racine Zoo Conservation Education Department offers a multitude of popular programs to spread a positive message about wildlife including: live animal educational programs, ]]><a href="https://www.racinezoo.org/wild-birthday-parties"><b><![CDATA[birthday parties]]></b></a><![CDATA[, Zoo Slumber Safaris, holiday events, the Wildlife Explorers school program, Zoo summer camps, ]]><a href="https://www.racinezoo.org/school-group-prog"><b><![CDATA[scout programs]]></b></a><![CDATA[, and Behind-the-Scenes Safari.]]>
+        \n\n<b>Conservation and Animal Care</b>
+        \n\n<![CDATA[The Racine Zoo is involved in many local, national, and international conservation initiatives including the ornate box turtle head-start program, ]]><a href="https://www.aza.org/frogwatch"><b><![CDATA[Frog Watch USA]]></b></a><![CDATA[, population monitoring of the Johnstone’s frog, and many others.]]>
+    </string>
+
+    <!--privacy policy-->
+    <string name="racine_zoo_privacy_policy"><font size="22"><b>Racine Zoo Privacy Policy</b></font>
+        \n\n<![CDATA[At the Racine Zoo, we are fully committed to protecting your privacy and providing a secure online experience. The Racine Zoo is the sole owner of the information collected on this site and does not share, sell, or rent your information to others.]]>
+        \n\n<font size="22"><b>Customer Service</b></font>
+        \n\n<font size="20">Donations</font>
+        \n\nYour contact information is requested at the time of your donation. The Racine Zoo uses this information to verify your credit card transaction. The Racine Zoo does not sell or distribute this information to third parties.
+        \n\n<font size="20">Memberships</font>
+        \n\nYour contact information is requested at the time of your membership submission. The Racine Zoo uses this information to verify your credit card transaction. The Racine Zoo does not sell or distribute information relating to your membership to third parties.
+        \n\n<font size="20">Returns and Refunds</font>
+        \n\nNo returns or refunds are accepted without the prior approval of the Racine Zoo. The customer is responsible for any related shipping charges. Call (262) 636-9189 to request return or refund authorization.
+        \n\n<font size="20">Delivery</font>
+        \n\nUpon purchase of membership, gift certificates, brick engraving or submission of donations, you will be alerted to your successful transaction via email within 24 hours. Please contact us at (262) 636-9189 if you are not alerted to your transaction completion via email.
+        \n\n<font size="20">Contact</font>
+        \n\n<![CDATA[For additional questions or concerns, please contact us at (262) 636-9189 or email us at ]]><b><![CDATA[administration@racinezoo.org.]]></b>
+    </string>
+
+
+    <!--administration-->
+    <string name="admin"><font size="22"><b>Administration</b></font>
+        \n\nGeneral Phone: 262.636.9189
+        \n<![CDATA[General E-mail: ]]><b><![CDATA[info@racinezoo.org]]></b>
+    </string>
+
+    <string name="beth_heidorn">Beth Heidorn \n Executive Director \n 262.636.9291 \n <b>bheidorn@racinezoo.org</b>
+        \n\nJoanne Dean \n Bookkeeper \n 262.636.9274 \n<b>jdean@racinezoo.org</b>
+        \n\nTheresa Donarski \n Curator of Conservation and Animal Care \n 262.636.9308 \n <b>tdonarski@racinezoo.org</b>
+        \n\nAmber Olsen \n Special Events/Sales Manager \n 262.636.9312 \n <b>aolsen@racinezoo.org</b>
+        \n\nKristina Pearson \n Operations Manager \n 262.636.9411 \n <b>kpearson@racinezoo.org</b>
+        \n\nDave Williams \n Facilities Manager \n 262.636.9275 \n <b>dwilliams@racinezoo.org</b>
+        \n\nSavannah Ingram \n Marketing/PR Manager \n 262.635.7950 \n <b>singram@racinezoo.org</b>
+        \n\n<b>Racine Zoological Society Board of Directors</b>
+        \nGregg A. Albright, RPh BCACP
+        \nJulie Algrim
+        \nRichard Angel
+        \nDeanna GP Byrnes, PhD
+        \nGreg Helding
+        \nRobert Henken
+        \nDavid Lucht
+        \nDavid L. Maack
+        \nRebecca Mason
+        \nTom Molbeck
+        \nRon Molnar
+        \nMonte Osterman
+        \nChantil Ruud
+        \nSteven Smetana
+        \nVan H. Wanggaard
+    </string>
+
+    <!--contact us-->
+    <string name="contact_us_detail"><font size="22"><b>Contact Us</b></font>
+        \n\nMailing Address
+        \n\nRacine Zoological Society
+        \n200 Goold Street
+        \nRacine, WI 53402
+        \n\nPhone: (262) 636-9189
+        \n\nFax: (262) 636-9307
+        \n\nEmail: info@racinezoo.org
+        \n\n<a href=""><b>View list of administration contacts</b></a>
+    </string>
+
+    <!--food & shopping-->
+    <string name="food_shopping_detail"><font size="22"><b><![CDATA[Food & Shopping]]></b></font></string>
+
+    <string name="need_to_graze_during_your_visit_stop_by_max_jenny_s_jungle_grill_for_some_tasty_treats_our_menu_offers_a_variety_of_items_including_sandwiches_snacks_beverages_and_ice_cream">
+        <![CDATA[Need to graze during your visit?  Stop by Max & Jenny\'s Jungle Grill for some tasty treats.  Our menu offers a variety of items including sandwiches, snacks, beverages, and ice cream.]]>
+        \n\n<![CDATA[Plus, check out healthy menu items for kids and adults. The Grill offers Coca-Cola products in order to offer an improved beverage selection to guests.]]>
+        \n\n<b>Winter Hours - 2016/2017</b>
+        \n\n<![CDATA[Both the Zoo Grill and Chumba are currently closed ]]>
+    </string>
+
+    <string name="a_unique_zootique"><font size="20">A UNIQUE ZOOTIQUE</font></string>
+
+    <string name="the_zootique_racine_zoo_s_dynamic_gift_shop_offers_exclusive_apparel_souvenirs_and_gifts_for_the_whole_family_guests_can_find_everything_from_postcards_to_magic_socks_and_a_few_four_foot_plush_giraffes_looking_for_something_to_entertain_the_whole_family_check_out_our_opoly_game_inspired_by_the_famous_monopoly_game_but_with_an_animal_theme_the_zootique_is_open_every_day_from_9_a_m_until_the_zoo_closes_the_general_public_is_always_welcome_to_shop_without_having_to_purchase_admission_to_the_zoo_just_stop_at_the_admissions_window_to_check_in_with_our_nice_staff_if_you_want_to_enter_the_gift_shop">
+        <a href="https://www.racinezoo.org/gifts"><b><![CDATA[The Zootique, Racine Zoo\'s dynamic gift shop]]></b></a> <![CDATA[offers exclusive apparel, souvenirs, and gifts for the whole family. Guests can find everything from postcards to magic socks and a few four foot plush giraffes!  Looking for something to entertain the whole family?  Check out our “opoly” game inspired by the famous Monopoly game but with an animal theme! The Zootique is open every day from 9 a.m. until the Zoo closes.  The general public is always welcome to shop without having to purchase admission to the Zoo. Just stop at the admissions window to check in with our nice staff if you want to enter the gift shop.]]>
+        \n\n<![CDATA[All proceeds from gift shop sales go directly to the care and welfare of our animals.  Admission is not required to shop at the Zootique!  Call 262-636-9189 for more information.]]>
+    </string>
+
+    <string name="zoo_gift_certificates"><font size="20">Zoo Gift Certificates</font></string>
+
+    <string name="gift_certificates_are_the_perfect_gift_for_any_occasion_easy_to_give_a_joy_to_receive"><font size="20"><i><![CDATA[Gift certificates are the perfect gift for any occasion. Easy to give. A joy to receive. ]]></i></font>
+        \n\n<![CDATA[They can be used for just about everything from admission to memberships, Zootique gift shop purchases, dining at Max & Jenny\'s Jungle Grill, education programs, camp scholarships and event tickets.]]>
+        \n\n<![CDATA[To purchase a Gift Certificate, ]]><a href="https://www.racinezoo.org/product/gift-certificates"><b><![CDATA[click here.]]></b></a>
+    </string>
+
+
+</resources>

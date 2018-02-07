@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_animal"
+        android:icon="@drawable/pawprints"
+        android:title="@string/text_animal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/map"
+        android:title="@string/text_map"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_event"
+        android:icon="@drawable/calendar"
+        android:title="@string/text_event"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/info"
+        android:title="@string/text_about"
+        app:showAsAction="ifRoom" />
+</menu>

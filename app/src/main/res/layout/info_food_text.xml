@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="40dp"
+        android:clipToPadding="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="@string/food_shopping_detail"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="152dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/info_image1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="15dp"
+                android:text="@string/need_to_graze_during_your_visit_stop_by_max_jenny_s_jungle_grill_for_some_tasty_treats_our_menu_offers_a_variety_of_items_including_sandwiches_snacks_beverages_and_ice_cream"/>
+
+
+            <include layout="@layout/info_divider"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="@string/a_unique_zootique"/>
+
+            <ImageView
+                android:layout_width="294dp"
+                android:layout_height="152dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/unique_zootique" />
+
+            <TextView
+                android:id="@+id/gift"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="15dp"
+                android:text="@string/the_zootique_racine_zoo_s_dynamic_gift_shop_offers_exclusive_apparel_souvenirs_and_gifts_for_the_whole_family_guests_can_find_everything_from_postcards_to_magic_socks_and_a_few_four_foot_plush_giraffes_looking_for_something_to_entertain_the_whole_family_check_out_our_opoly_game_inspired_by_the_famous_monopoly_game_but_with_an_animal_theme_the_zootique_is_open_every_day_from_9_a_m_until_the_zoo_closes_the_general_public_is_always_welcome_to_shop_without_having_to_purchase_admission_to_the_zoo_just_stop_at_the_admissions_window_to_check_in_with_our_nice_staff_if_you_want_to_enter_the_gift_shop"/>
+
+            <include layout="@layout/info_divider"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="@string/zoo_gift_certificates"/>
+
+            <ImageView
+                android:layout_width="198dp"
+                android:layout_height="148dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/gift_certificate"/>
+
+            <TextView
+                android:id="@+id/click_here"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="@string/gift_certificates_are_the_perfect_gift_for_any_occasion_easy_to_give_a_joy_to_receive"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

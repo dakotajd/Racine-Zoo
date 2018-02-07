@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="4dp"
+    android:paddingEnd="8dp"
+    android:paddingStart="8dp"
+    android:paddingTop="4dp">
+    
+    <TextView
+        android:id="@+id/header_range_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="This week"
+        android:padding="16dp"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:layout_toRightOf="@id/header_range_title"
+        android:id="@+id/header_date_range"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_alignParentRight="true"
+        android:gravity="right"
+        tools:text="Header"/>
+</RelativeLayout>

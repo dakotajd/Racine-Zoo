@@ -1,0 +1,294 @@
+{
+  "customAnnotations": [
+    {
+      "id": 101,
+      "title" : "Zootique",
+      "latitude" : 42.74826,
+      "longitude" : -87.78452,
+      "image" : "FeaturePin",
+      "description" : "The Zootique, Racine Zoo's dynamic gift shop offers exclusive apparel, souvenirs, and gifts for the whole family. Guests can find everything from postcards to magic socks and a few four foot plush giraffes!",
+      "animals" : ["Western Screech Owl"],
+      "x" : 3550,
+      "y" : 2160
+    },
+    {
+      "id": 102,
+      "title" : "Benstead Discovery Center",
+      "latitude" : 42.748046,
+      "longitude" : -87.784365,
+      "image" : "AnimalPin",
+      "description" : "Turtles, bats, snakes and more from all over the world are waiting to be discovered in the Benstead Discovery Center.",
+      "x" : 3760,
+      "y" : 1965
+    },
+    {
+      "id": 103,
+      "title" : "Restroom",
+      "latitude" : 42.750923,
+      "longitude" : -87.782585,
+      "image" : "BathroomPin",
+      "x" : 1220,
+      "y" : 965
+    },
+    {
+      "id": 104,
+      "title" : "Max and Jenny's Jungle Grill",
+      "latitude" : 42.748872,
+      "longitude" : -87.783756,
+      "image" : "FeaturePin",
+      "description" : "Time for lunch? How about a snack? Our Jungle Grill seasonally serves up delicious food. Eat inside or enjoy your meal at a picnic table overlooking our Walkabout Creek.",
+      "x" : 2980,
+      "y" : 1700
+    },
+    {
+      "id": 105,
+      "title" : "Restroom",
+      "latitude" : 42.749346,
+      "longitude" : -87.784047,
+      "image" : "BathroomPin",
+      "x" : 2610,
+      "y" : 1850
+    },
+    {
+      "id": 106,
+      "title" : "Stork Aviary",
+      "latitude" : 42.748874,
+      "longitude" : -87.783517,
+      "image" : "AnimalPin",
+      "animals" : ["Lesser Adjutant Stork", "Tufted Deer"],
+      "x" : 2890,
+      "y" : 1557
+    },
+    {
+      "id": 107,
+      "title" : "Walkabout Creek",
+      "latitude" : 42.748468,
+      "longitude" : -87.783822,
+      "image": "AnimalPin",
+      "description" : "G’Day Mate! Watch a kangaroo hop right in front of you in this open concept exhibit. Be sure to look for the wallaroos as well – they are smaller and darker than the kangaroos!",
+      "animals" : ["Emu", "Common Wallaroo", "Red Kangaroo"],
+      "x" : 3410,
+      "y" : 1720
+    },
+    {
+      "id": 108,
+      "title" : "Norco Aviary",
+      "latitude" : 42.748441,
+      "longitude" : -87.783214,
+      "image" : "AnimalPin",
+      "description" : "Feed and visit with colorful, talkative birds that are sure to delight the whole family.",
+      "animals" : ["Budgerigar", "Arctic Fox"],
+      "x" : 3510,
+      "y" : 1320
+    },
+    {
+      "id": 109,
+      "title" : "Barnyard Safari",
+      "latitude" : 42.748294,
+      "longitude" : -87.783064,
+      "image" : "AnimalPin",
+      "description" : "Make some friends on the farm  - seasonally, meet and groom goats, sheep, pigs and more!",
+      "animals" : ["Llama", "Domestic Pig", "Suri Alpaca"],
+      "x" : 3250,
+      "y" : 1350
+    },
+    {
+      "id": 110,
+      "title" : "Robinson Crusoe Adventure Land",
+      "latitude" : 42.748684,
+      "longitude" : -87.783042,
+      "image" : "FeaturePin",
+      "description" : "A fun play land for the little ones in your group, this playground features climbing, small slides and a sandbox with toys to engage your child’s creativity.",
+      "x" : 3080,
+      "y" : 1220
+    },
+    {
+      "id": 111,
+      "title" : "Racine Zoological Society Offices",
+      "latitude" : 42.748292,
+      "longitude" : -87.782525,
+      "image" : "FeaturePin",
+      "x" : 3450,
+      "y" : 1020
+    },
+    {
+      "id": 112,
+      "title" : "Bear Ridge",
+      "latitude" : 42.748831,
+      "longitude" : -87.782456,
+      "image": "AnimalPin",
+      "description" : "Wander around bear ridge to view our charismatic Andean Bears! Be sure to visit all three windows to spot them playing, foraging, or taking a nap.",
+      "animals" : ["Andean Bear"],
+      "x" : 2800,
+      "y" : 845
+    },
+    {
+      "id": 113,
+      "title" : "Pheasantry",
+      "latitude" : 42.749220,
+      "longitude" : -87.782504,
+      "image" : "AnimalPin",
+      "description" : "Get up close and personal with native raptors in this exhibit. Look high up on the perches to spot one of our feathered friends!",
+      "x" : 2300,
+      "y" : 780
+    },
+    {
+      "id": 114,
+      "title" : "Meerkat Manor",
+      "latitude" : 42.74944,
+      "longitude" : -87.78303,
+      "image" : "AnimalPin",
+      "description" : "Home to both our meerkats and our African Penguins, this exhibit joins sand and surf for two of our most playful groups of animals!",
+      "animals" : ["African Penguin"],
+      "x" : 2585,
+      "y" : 1170
+    },
+    {
+      "id": 115,
+      "title" : "Junior League of Racine Zoo Choo Express Train Depot",
+      "latitude" : 42.74997,
+      "longitude" : -87.78284,
+      "image" : "FeaturePin",
+      "description" : "All aboard! Join us for a relaxing cruise through the zoo on our Zoo Choo Express, open seasonally.",
+      "x" : 2010,
+      "y" : 1315
+    },
+    {
+      "id": 116,
+      "title" : "Great Cat Canyon",
+      "latitude" : 42.749105,
+      "longitude" : -87.78352,
+      "image": "AnimalPin",
+      "description" : "Watch a tiger patrol their territory, a lynx scale a rock wall, or come face to face with a lion in our Great Cat Canyon",
+      "animals" : ["Amur Tiger", "Canada Lynx", "African Lion"],
+      "x" : 2624,
+      "y" : 1557
+    },
+    {
+      "id": 117,
+      "title" : "Vanishing Kingdom",
+      "latitude" : 42.749359,
+      "longitude" : -87.784195,
+      "image": "AnimalPin",
+      "description" : "Meet endangered species from around the world and learn about what you can do to help in our Vanishing Kingdom exhibit, located inside the oldest building at the zoo!",
+      "animals" : ["Yellow-Crowned Amazon", "Black Handed Spider Monkey", "Brown-Nosed Coati", "Fossa", "Emperor Tamarin", "Orangutan", "White-Handed Gibbon"],
+      "x" : 2685,
+      "y" : 1778
+    },
+    {
+      "id": 118,
+      "title" : "Restroom",
+      "latitude" : 42.748799,
+      "longitude" : -87.783760,
+      "image": "BathroomPin",
+      "x" : 3045,
+      "y" :1650
+    },
+    {
+      "id": 119,
+      "title" : "A. B. Modine Pond",
+      "latitude" : 42.750019,
+      "longitude" : -87.784048,
+      "image": "FeaturePin",
+      "description" : "Home to a variety of turtles, frogs, birds, and other animals, our Zoo Pond includes great places to enjoy our native wildlife that live alongside us.",
+      "x" : 2270,
+      "y" : 1930
+
+    },
+    {
+      "id": 120,
+      "title" : "Helen Ireland Wildlife Theatre",
+      "latitude" : 42.750105,
+      "longitude" : -87.783607,
+      "image": "FeaturePin",
+      "description" : "Enjoy free seasonal wildlife programs, or when it’s quiet step in to enjoy a peaceful view of the native wildlife in zoo pond.",
+      "x" : 1950,
+      "y" : 1455
+    },
+    {
+      "id": 121,
+      "title" : "Play Zoo",
+      "latitude" : 42.750886,
+      "longitude" : -87.782904,
+      "image": "FeaturePin",
+      "description" : "Swing like a monkey or hop like a kangaroo on our giant play zoo playground!",
+      "x" : 1610,
+      "y" : 1240
+    },
+    {
+      "id": 122,
+      "title" : "Camel Rides",
+      "latitude" : 42.751194,
+      "longitude" : -87.783126,
+      "image" : "AnimalPin",
+      "x" : 1330,
+      "y" : 1385
+    },
+    {
+      "id": 123,
+      "title" : "Giraffe Encounter",
+      "latitude" : 42.751243,
+      "longitude" : -87.783819,
+      "image" : "AnimalPin",
+      "x" : 1120,
+      "y" : 1590
+    },
+    {
+      "id": 124,
+      "title" : "Land of the Giants",
+      "latitude" : 42.751158,
+      "longitude" : -87.782669,
+      "image": "AnimalPin",
+      "description" : "Go on an African Safari and visit African mammals hailing from the savannas of the north to the mountains of the south.",
+      "animals" : ["Eastern Black Rhinoceros", "Masai Giraffe"],
+      "x" : 1100,
+      "y" : 990
+    },
+    {
+      "id": 125,
+      "title" : "Restroom",
+      "latitude" : 42.748140,
+      "longitude" : -87.784285,
+      "image" : "BathroomPin",
+      "x" : 3630,
+      "y" : 2020
+    },
+    {
+      "id": 126,
+      "title" : "Racine Rotary West Safari Base Camp",
+      "latitude" : 42.750637,
+      "longitude" : -87.782444,
+      "image": "FeaturePin",
+      "description" : "This beautiful space overlooking Lake Michigan is perfect for a picnic. You may also rent this space for your party or other event.",
+      "x" : 1550,
+      "y" : 730
+    },
+    {
+      "id": 127,
+      "title" : "Private Events Area",
+      "latitude" : 42.751136,
+      "longitude" : -87.782155,
+      "image": "FeaturePin",
+      "x" : 1140,
+      "y" : 660
+    },
+    {
+      "id": 128,
+      "title" : "Kiwanis Memorial Amphitheatre",
+      "latitude" : 42.750181,
+      "longitude" : -87.782091,
+      "image": "FeaturePin",
+      "x" : 1880,
+      "y" : 545
+    },
+    {
+      "id": 129,
+      "title" : "Zoo Beach",
+      "latitude" : 42.748004,
+      "longitude" : -87.781585,
+      "image" : "FeaturePin",
+      "x" : 2910,
+      "y" : 665
+    }
+  ]
+}

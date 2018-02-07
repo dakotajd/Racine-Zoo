@@ -1,0 +1,1872 @@
+{
+  "Animals": [
+    {
+      "id": 1,
+      "name": "African Lion",
+      "commonnames": null,
+      "order": "Carnivora",
+      "family": "Felidae",
+      "type" : "Mammal",
+      "latinname": "Panthera leo",
+      "images" : [
+        "Lion.png"
+      ],
+      "habitatAndRange": "The African lion’s native range is in the savannas and prairies of the African continent. A subspecies of lion was once found throughout India, but it is now only found in the Gir forest due to human interference.   ",
+      "description": "The color of the coat is a tannish-yellow. The males have a mane, hair that goes around their neck and shoulders. ",
+      "adultSize": "The head and body measure about 1.8 to 2.4 meters, tail length is usually around 61 to 91 cm, and they weigh between 181 and 227 kg. ",
+      "dietInTheWild": "Lions feed mainly on hoofed animals. The lion hunts singly, in pairs, or in bands or “prides.” Prides consist of both male and female members of any age. Most lions seem to have a hunting territory or “beat.”  When hunting in pairs, one lion will usually drive the victim down to the other animal. Hunting is mostly done in the morning. Once the prey is caught, the lion will gorge itself, drink a lot of water, and rest for the remainder of the day. ",
+      "reproduction": "Lions are polygamous and breed throughout the year. Gestation is 92 to 113 days, and usually 2-3 young are born. They feed only on their mother's milk for the first few weeks. She hides them in thick bush or rocks until they are old enough to come and live with the pride and begin eating meat. Lion cubs will spend a lot of time playing and learning to hunt as they follow and watch the older lions.   ",
+      "lifeSpan": "They live up to 15 years in the wild and 25 years in captivity. ",
+      "perils": "The main threat to lions in the wild is humans who cause habitat loss, and also humans who kill them out of fear and misunderstanding. ",
+      "protection": "In a group, lions are better hunters and can defend themselves from lions of other prides.",
+      "voice": "The roar of the lion is able to occur because of the hyoid structure, which is supplied with an elastic ligament. ",
+      "interestingFacts": [
+
+        "Active mainly at night, females do the hunting but the males eat first.",
+        "Since one of the major threats to lions is hunting by humans, much research is being performed to find better solutions to protecting livestock than simply killing the large cats. Researchers have invented fencing called bomas that are lion proof, decreasing the need for farmers to kill lions they find on their land.  Use of guard dogs also serve to deter lions in the wild.",
+        "The roar of a lion can be heard over 5 miles away, and both males and females can roar. "
+
+      ],
+      "ecology": "African lions are threatened by extinction. This is because their natural habitat is diminishing, and also because they are killed by hunters for their hides, as well as by farmers trying to protect their livestock. ",
+      "conservationStatus": "They are vulnerable because of continuing decreases in population size.",
+      "dietAtTheZoo": "Our lions are fed 8-14 lbs. of meat a day. A brand of meat made for zoo carnivores is used called Nebraska Diet.  The lions are also given cow legs or venison pieces once or twice a week.",
+      "atTheRacineZoo": "2.2.0 M- Aslan; F- Azizi; F – Zuri; M - Enzi"
+
+    },
+    {
+      "id": 2,
+      "name": "African Spurred Tortoise",
+      "type" : "Reptile",
+      "commonnames": "African Spurred Tortoise, Sulcata tortoise",
+      "order": "Testudines",
+      "family": "Testudinidae",
+      "latinname": "Geochelone sulcata",
+      "habitatAndRange": "African Spurred Tortoises are found across Africa from coast to coast on the southern fringes of the Sahara desert.",
+      "description": "African Spurred Tortoises have brown to yellow carapaces that are fairly flat. They have a pronounced snout with a slightly hooked upper jaw with a body that is mostly brown.",
+      "adultSize": "The third largest tortoise in the world after the Galapagos and Aldabra, and can weigh in at over 200 pounds.",
+      "behavior": null,
+      "dietInTheWild": "African Spurred Tortoises are herbivorous, relying largely on succulents for food as well as most of their water supply.",
+      "reproduction": "Males will fight over females by ramming into each other repeatedly. After mating, females will dig a nest and lay 15-30 eggs before burying them. After about eight months, the baby tortoises will hatch, ready to face the world.",
+      "lifeSpan": "African Spurred Tortoises can live to be well over 100 years old",
+      "interestingFacts":
+      [
+
+        "Living on the desert fringes is tough, but African Spurred Tortoises are superb diggers, creating burrows to avoid the harsh heat of the day and helping them avoid dehydration.",
+        "They will also smear saliva onto their arms to help keep cool."
+
+      ],
+      "conservationStatus": "Vulnerable",
+      "dietAtTheZoo": "A variety of leafy greens and vegetables supplemented with grains"
+    },
+    {
+      "id": 3,
+      "name": "Suri Alpaca",
+      "type" : "Mammal",
+      "commonnames": "alpaca",
+      "images" : [
+        "Alpaca.png"
+      ],
+      "order": "artiodactyla",
+      "family": "camelidae",
+      "latinname": "Vicugna pacos",
+      "habitatAndRange": "The native range of Lama pacos includes the central and southern Andes, from Peru to Argentina at elevations of up to 4800 meters. Remains of alpaca found at elevations closer to sea levels suggest that alpaca once had a wider geographical distribution and that the reduction of its range started with the arrival of the Spanish conquistadores and their introduced livestock. In the 1980s alpacas started to be exported to other countries for farming purposes. Nowadays, alpacas can be found in countries such as the United States, New Zealand, Australia, and the Netherlands, among others. In spite of the increase in alpaca farming outside its native territory, it has been estimated that 99% of the world population of alpacas is found in South America.",
+      "description": "Alpacas are the smallest of the domesticated camelid species. Lama pacos has a slender body and neck. The head is small and the ears are big and pointed. The coat is either uniform or multicolor. According to “The Alpaca Owners and Breeders Association” alpaca coats have up to 22 colors, from white to black and brown.",
+      "adultSize": "The weight of an adult alpaca ranges from 55 to 65 kg. Head and body length ranges from 1200 to 2250 mm, tail length ranges from 150 to 250 mm, and shoulder height from 900 to 1300 mm.",
+      "behavior": "Alpacas are social animals. They live in herds that are not only composed of other alpacas but also include other species such as llamas, goats, and sheep. Some research points to the existence of hierarchical social order in alpacas.",
+      "dietInTheWild": "Lama pacos is a strict grazer.",
+      "reproduction": "Lama pacos is a polygynous species. Some breeders report that dominant males form harems of 5 to 10 females. Alpacas are induced ovulators. They can breed year round. Ovulation occurs 24 hours after mating.Gestation takes between 242 and 345 days. Alpacas commonly have a single young. At birth, alpaca weights range from 8 to 9 kg. Alpacas are weaned at 6 to 8 months. Females reach sexual maturity at 12 to 15 months, whereas males reach it around 30 to 36 months.",
+      "lifeSpan": "The longevity of Lama pacos in the wild is 5 to 10 years, whereas in captivity it is approximately 20 years.",
+      "perils": "Predators are domestic dogs, Andean foxes, Andean condors, pumas, and wild cats. Breeders in areas outside the alpaca native range identify coyotes, wolves, large cats, and dogs as predators. Most predation will be on young, sick, or old animals.",
+      "protection": "Alpacas are vigilant and will defend themselves with their hooves and spitting their foul stomach contents into the face of a predator.",
+      "interestingFacts":
+      [
+
+        "Alpacas produce a broad range of vocalizations.",
+        "The most common is the humming vocalization, which is produced under a variety of circumstances, such as distress or a change in the environment. ",
+        "A snortling vocalization is a warning signal among alpacas. Clucking is a sound mothers use with crias. Grumbling is produced to indicate food territoriality. Screeching is produced when animals become frustrated over food.",
+        "Stressful situations cause the animals to elicit a loud scream. Danger causes alpacas to elicit high-pitched vocalizations known as alarm calls. Finally, orgling is produced when males are mating.",
+        "Due to some of their morphological characteristics such as padded soles and light weight, South American camelids do not compact the soil or destroy the vegetation in their habitat. ",
+        "Moreover, they feed on the natural forbs and grasses in the ecosystem. In brief, these animals are ideal livestock for low impact grazing."
+
+      ],
+      "conservationStatus": "Species of least concern",
+      "dietAtTheZoo": "Hay and grain"
+    },
+    {
+      "id": 4,
+      "name": "Amazon Tree Boa",
+      "type" : "Reptile",
+      "commonnames": "Amazon Tree Boa",
+      "order": "Squamata",
+      "family": "Boidae",
+      "latinname": "Corallus hortulanus",
+      "habitatAndRange": "Amazon Tree Boas are found in the rainforest trees throughout the Amazonian rainforest. While they prefer the humid rainforests, they can occasionally be found in the savannas or dry forests surrounding the Amazon.",
+      "description": "Well known for significant variation in individual coloration, from pale tan to black. They also have small claw-like vestigial hind limbs.",
+      "adultSize": "Adult Amazon Tree Boas can grow to over four feet in length.",
+      "dietInTheWild": "Amazon Tree Boas are ambush hunters, eating any vertebrate prey they can eat, and have been documented feeding on birds, bats, frogs, lizards, and small mammals.",
+      "reproduction": "These boas reach sexual maturity at three years of age. Males, triggered by the winter drop in temperature, will begin “tail writhing” to attract a mate. In 6-8 months, females will give birth to live young.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "Amazon tree boas eat a wide variety of vertebrates, waiting in an “S” coil until their prey gets close and striking quickly to feed. ",
+        "When threatened, they can also form a ball with their head tucked inside to defend themselves."
+
+      ],
+      "conservationStatus": "Not evaluated, not thought to be at risk",
+      "dietAtTheZoo": "Mice"
+    },
+    {
+      "id": 5,
+      "name": "American Alligator",
+      "type" : "Reptile",
+      "commonnames": "American alligator, alligator, gator",
+      "order": "Crocodylia",
+      "family": "Alligatoridae",
+      "latinname": "Alligator mississippiensis",
+      "habitatAndRange": "American alligators are found in fresh water marshes, ponds, lakes, rivers, swamps, and bayous. They are found throughout the southern United States.",
+      "description": "This alligator has a broad snout, and heavy, armor-like, dorsal scales. American alligators are dark grayish green to black, with pale whitish bellies.  Their young commonly have conspicuous yellow markings on the back and tail.",
+      "adultSize": "Females commonly reach lengths between 10 and 12 feet, while males can reach lengths between 13 and 15 feet. However, the largest American alligator on record was 19.2 feet.",
+      "dietInTheWild": "Their dietInTheWild predominately consists of fish, small mammals, birds, turtles, snakes, frogs, and invertebrates",
+      "reproduction": "American alligators mate from April to May, after emerging from hibernation.  Females lay 20-60 eggs in June.  9-10 inch hatchlings hatch 9 weeks later and remain with the female for 1 to 3 years.",
+      "lifeSpan": "They live up to 50 years in the wild, and up to 80 years in captivity",
+      "perils": "Young hatchlings have many predators: herons, snakes, turtles, raccoons, fish, older alligators, and various other terrestrial predators; man is the greatest threat to adults.",
+      "protection": "Young are camouflaged to blend in to the shallow pool reeds.  Adults are also camouflaged, but look more like floating logs then aquatic vegetation. Alligators are powerful swimmers and have strong jaws with sharp teeth.",
+      "voice": "Males and females will bellow, but the males roar a bit louder.  The roars are more plentiful during mating season.",
+      "interestingFacts":
+      [
+
+        "The American alligator is the largest reptile in North America.  During the breeding season, males produce a throaty, bellowing roar heard over a considerable distance.  ",
+        "Young gators grow roughly a foot a year for the first five years, depending on diet.  Adult males can weigh 600 pounds in the wild and 900 pounds in captivity.  ",
+        "Female alligators create nests by burying eggs underneath a mound of rotting vegetation.  As the vegetation decays, it gives off warmth and incubates the eggs.  ",
+        "The temperature of the nest determines the sex of the young, with an 86 degrees F or lower nest producing all females, a 93 degrees F or higher nest producing all males, and temperatures in between producing a mix of sexes.",
+        "The alligator is one of the few reptiles that care for its young.  Hatchlings sometimes stay with their mother for up to three years.  ",
+        "The young can sometimes be seen relaxing inside the mother’s mouth, or basking on her back. The clamping power of a gator’s jaws has been measured up to 1,200 pounds per square inch, but can be held shut with just one hand.  ",
+        "There are approximately 80 teeth in the alligator’s mouth at any one time.  When an alligator’s teeth are worn down, another tooth replaces it.  Alligators can go through 2000 to 3000 teeth in a lifetime. ",
+        "The alligator has two eyelids, an outer eyelid that closes from the top to bottom, serving as a cleaning mechanism, and a second inner eyelid (called a nictitating membrane), that closes from side to side serving as a semi-transparent protective eye covering underwater.  ",
+        "Alligators create “gator holes” by digging in the mud during drought.  Water collects in the gator holes and creates a little oasis that provides other species with food and water.  ",
+        "Alligators originated in the Triassic period between 213 and 248 million years ago and have changed little during that time."
+
+      ],
+      "ecology": "In their geographic range, the only other crocodilian is the American crocodile, which has a noticeably narrower and tapering snout.",
+      "conservationStatus": "Least Concern (IUCN redlist 1996). Locally Common; alligators were once hunted relentlessly for their hides, but have made a remarkable recovery under state and federal protection.",
+      "dietAtTheZoo": "crickets, wax worms, and mice"
+    },
+    {
+      "id": 6,
+      "name": "Amur Tiger",
+      "type" : "Mammal",
+      "commonnames": "siberian tiger",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "images" : [
+        "AmurTiger.png"
+      ],
+      "latinname": "Panthera tigris altaica",
+      "habitatAndRange": "Amur tigers are found in the Russian Far East and across the border in the north of China and Korea.",
+      "description": "They are powerfully built with heavy muscular forelimbs and shoulders. The hind limbs are longer than the forelimbs, an adaptation for jumping. The claws are long, sharp and retractile. They extend when attacking and retract when running or approaching prey. The surface of the tongue is covered with sharp, horny papillae that assist in keeping food in the mouth (especially liquids), licking flesh from the bone, and grooming the coat. There are uneven black stripes, dots, dashes and lines on the face, and no two tigers are marked exactly alike. The stripes are like shadow marks and make for excellent camouflage.",
+      "adultSize": "Males are overall 14 feet, including a 3 foot tail, and they can weigh up to 850 pounds. Female tigers are about 1 foot shorter and can weigh up to 500 pounds. Captive males generally weigh about 380 pounds, females about 275 pounds.",
+      "dietInTheWild": "They will feed on anything that moves from frogs, turtles, and fish to deer, antelope, and wild pigs.",
+      "reproduction": "Male and female may stay together for a few days to a few weeks courting, playing and mating. Gestation period is 92-113 days with usually 2-4 cubs born. Dens are built beneath fallen trees or in small caves. Cubs at birth weigh about 2-3 lbs. and are about 12 inches long. They are blind and helpless and will open their eyes in about 14 days. Females may move the cubs, if they suspect the hiding place is unsafe. There is a high mortality rate among cubs.",
+      "lifeSpan": "In the wild, tigers live 12-15 years, but live an average of 20 years in captivity. The maximum age recorded was 26 years old.",
+      "perils": "The predominate perils are loss of habitat and poaching.",
+      "protection": "Due to its large size this animal has almost no natural enemies.",
+      "voice": "Roaring and chuffing sounds",
+      "interestingFacts":
+      [
+
+        "Largest of all living cats, tigers are nocturnal. ",
+        "They begin to hunt at early dusk. Hunting alone, they may cover 10-20 miles before initiating a kill. ",
+        "They are excellent swimmers."
+
+      ],
+      "folklore": "It was thought by ingesting parts of the tiger that a person could take on the powers of the tiger – this unfortunately has led to poaching and eventually to this cat being added to the endangered species list.",
+      "ecology": "Amur tigers are endangered due to habitat destruction by over cutting of the forests and elimination of prey species. They are also decreasing in number due to poaching for usage in traditional medicine. The numbers of Amur tigers are 250-300 in the wild and 700 in captivity (of the 700 most of those are found in Europe and Japan). There are only 150 tigers in the United States and 90 of those are part of the Species Survival Plan. Tigers are solitary animals except during the mating season or when a nursing mother and her cubs travel together. A male's territory may cover 23-40 square miles with several females living partially within the territory of a resident male.",
+      "conservationStatus": "Endangered because of a continuing decline in numbers of mature individuals.",
+      "dietAtTheZoo": "8.5 lbs. of meat daily, bones twice a week."
+    },
+    {
+      "id": 7,
+      "name": "Andean Bear",
+      "type" : "Mammal",
+      "commonnames": "spectacled bear",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "images" : [
+        "AndeanBear.png"
+      ],
+      "latinname": "Tremarctos ornatus",
+      "habitatAndRange": "This is the only bear species found in South America, and they are endemic to that area.  They are native to the Andes Mountains. They are typically found in mountain forests, but they may also be found in grasslands, brush lands, rainforest, dry forest, & coastal scrub deserts.",
+      "description": "The fur is black to blackish brown with cream-colored markings around the eyes, and it may extend toward the cheeks and down onto the chest.  They have long, curved claws, great for climbing and digging.",
+      "adultSize": "The bear can grow to approximately 41/2 to 6 feet tall. Females tend to be 30%-40% smaller than males.  Females weigh 200-300 lbs, and males weigh up to 500 lbs.",
+      "dietInTheWild": "They eat mostly vegetation; herbivorous roots, fruits, berries, and leaves.  Sometimes the bears will eat insects, small rodents, or carrion.  Only a small amount of their diet is animal matter.",
+      "reproduction": "Mating occurs in April – June, gestation is 5-5 ½ months with a litter of 1-3 cubs from a monogamous relationship.  Birth corresponds with greatest food availability.  After birth, cubs open their eyes at 42 days, and will venture out of the den at 3 months of age.  Cubs stay with mother for about 2 years, and reach sexual maturity at about 4-7 years of age.",
+      "lifeSpan": "In the wild, they live an average of 25 years. In captivity, they have lived to a maximum of 36 years.",
+      "perils": "They are greatly threatened by farmers. Farmers believe that the bears threaten their livestock and crops (when food in the wild is limited.)   There is also a threat due to a loss of habitat.",
+      "protection": "Sharp claws used primarily for climbing.",
+      "voice": "Some vocalizations between mother and cub.",
+      "interestingFacts":
+      [
+
+        "The markings on each bear’s face are unique to that bear. ",
+        "They may be similar, but no two are exactly the same, so it is easy to tell them apart.  ",
+        "Because of the variability of the markings, early Peruvians thought there were two species of bear in the Andes, one that was a vegetarian and the other strictly a meat-eater.  ",
+        "Spectacled bears are important seed dispersers.  Many body parts are used as traditional medicine.  The bears are nocturnal.  ",
+        "They are semi-arboreal, and may create simple tree platforms with broken branches used for feeding and resting"
+
+      ],
+      "ecology": "Currently listed as vulnerable. There are only about 2000-2400 bears left in the wild.  There are protected areas and national parks in South America. Farmers have permission to farm on protected land. The government of South America supports the farmer’s ideas of more agriculture and less forestland.",
+      "conservationStatus": "Vulnerable due to decreasing populations.",
+      "dietAtTheZoo": "Omnivore nuggets, sweet potatoes, apples, kale, romaine, etc."
+    },
+    {
+      "id": 8,
+      "name": "Andean Milksnake",
+      "commonnames": "milksnake",
+      "type" : "Reptile",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "images" : [
+        "AndeanMilkSnake.png"
+      ],
+      "latinname": "Lampropeltis triangulum andesiana",
+      "habitatAndRange": "The Andean milksnake can be found in the Andes mountains of Colombia and Venezuela. Andean milksnakes inhabit high altitude forests and grasslands, of up to 9,000 feet in elevation. As mountain dwellers, Andean milksnakes can tolerate much lower temperatures. They spend much of their time in burrows or under logs, where they are safe from predators and from cold weather. Milksnakes often come out of their dens in the afternoon or evening to hunt.",
+      "description": "This is a large tri-colored milksnake with black-tipped scales. The pale bands can be white, yellow, or a pale yellow-orange; there are usually 30-36 red rings on the body and tail. The snout is white with black flecks; most of the scales on the head have some white on them. The scales on the body are domed, giving this taxon a beaded feel to the hand.",
+      "adultSize": "50\"-70\" (Up to 6 feet)",
+      "dietInTheWild": "Young milksnakes mostly eat insects. Larger milksnakes will eat small mammals, birds, eggs, amphibians, and other reptiles. Like most snakes, they only need to eat once every one or two weeks.",
+      "reproduction": "Milksnakes mate in spring. Eggs are laid from June to July in rotting logs or other woodland debris. Young appear from August through September. Females may lay up to four clutches of eggs per year, with 12 - 20 eggs per clutch. Hatchlings are about 8 - 10 inches long.",
+      "lifeSpan": "The captive lifeSpan can be more than 15 years.",
+      "perils": "Milk snakes are prey for animals such as raccoons, foxes, skunks, and coyotes. In order to protect itself, the milksnake can vibrate its tail to imitate a rattlesnake. Its coloration also closely resembles the coral snake that shares its Andean habitat. Although the protection is valuable against non-human predators, the milk snake is often killed by humans who are mistaken about the identity of the species, indirectly creating another peril.",
+      "protection": "When it feels threatened, the snake will vibrate its tail, sounding much like a rattlesnake, which may scare away some predators. Unlike most non-venomous snakes, which are mottled gray and brown for camouflage, Andean milksnakes are brilliantly colored in red, yellow, and black. These bright colors are similar to those of the coral snake, a poisonous cobra relative that lives in the same areas as the milk snakes. Andean milksnakes use this bright coloration to fool potential predators into believing that they are also poisonous and too dangerous to eat. There are several rhymes to help people remember the color difference between harmless milk snakes and the poisonous coral snake. Two rhymes that describe the stripe pattern of these snakes are: 1.\"Black 'round yellow, harmless fellow. Yellow 'round black, stay far back.\" 2.\"Red touches black, you're O.K. Jack. Red touches yellow, you're a dead fellow.\"",
+      "voice": "When it vibrates its tail, it can make a rattle snake type noise.",
+      "interestingFacts":
+      [
+
+        "This is one of the bigger milksnakes. It also is one of the calmer of the milksnakes.",
+        "This species is more tolerant of lower ambient temperatures than most captive snakes, and specimens can be kept at 65-75 degrees without supplemental heat. ",
+        "The black-tipping on the scales does not increase with age, as it does in many of the Central American forms, and this species becomes more attractive as it ages. ",
+        "This snake is a good breeder and is know to lay three and even four clutches of eggs in a calendar year."
+
+      ],
+      "folklore": "The snake got its name because it was thought to suck the milk of nursing mothers and cows until they are dry. Of course we know this to be impossible because the snake is harmless and a human mother or a cow would certainly not allow it. Also, the snake's belly could only hold a few tablespoons of milk. Instead, the snake would eat the mice that were living within in the barn, and the farmer would find the snake but not the mice.",
+      "ecology": "Milksnakes are important predators of small mammals, birds, and other snakes.",
+      "conservationStatus": "not listed on the IUCN redlist",
+      "dietAtTheZoo": "3 mice once every other week.",
+      "atTheRacineZoo": "0.1.0 F- Andrea- DOB November 23, 2001"
+    },
+    {
+      "id": 9,
+      "name": "Arctic Fox",
+      "type" : "Mammal",
+      "commonnames": "Arctic Fox",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "latinname": "Vulpes lagopus",
+      "habitatAndRange": "Arctic Foxes can be found on any land north of the Arctic Circle, across from Canada to Russia, Europe, Greenland, and Iceland. They are usually found in arctic tundra and usually stay in the coastal region.",
+      "description": "Arctic Fox fur changes seasonally. In the winter, they sport fluffy white coats that blend into the snow, but in the summer they shed these coats for brownish or grayish, shorter fur that helps them camouflage into bare rocks and dirt.",
+      "adultSize": "Males are often larger than females. Adult males range from 7-20 pounds, while females will stay between 3-7 pounds.",
+      "dietInTheWild": "Arctic Foxes are opportunistic omnivores and very curious, and will eat almost anything. While they prefer to hunt and catch small animals, they will also consume insects, fruit, and even carrion.",
+      "reproduction": "Arctic Foxes are monogamous, meaning they mate for life. These foxes can have two litters in a season, each with 5-8 cubs. They are born after a gestation period of about two months, and are will emerge from the den at about four weeks old, staying with the male and learning to hunt.",
+      "lifeSpan": "Approximately 16 years",
+      "interestingFacts":
+      [
+
+        "In their home in the arctic tundra, food can be scarce. Because of this, arctic foxes will eat almost anything, including rodents, birds, insects, and even carrion! ",
+        "In the summer months when food is plentiful, they will hide extra food under rocks to sustain them in the winter."
+
+      ],
+      "conservationStatus": "Least concern",
+      "dietAtTheZoo": "Mice, chicks, fruits, vegetables, greens, and canine chow"
+    },
+    {
+      "id": 10,
+      "name": "Eastern Black Rhinoceros",
+      "type" : "Mammal",
+      "commonnames": "black rhino, hooked-lip rhino",
+      "order": "Perissodactyla",
+      "family": "Rhinocerotidae",
+      "latinname": "Diceros bicornis michaeli",
+      "habitatAndRange": "They are found in East Africa, from the Cape to Somalia.  Generally their habitat includes transitional zones between forest and grassland; in thick thorn bush, acacia shrubs, or more open country up to 9,000 ft. in altitude",
+      "description": "Coloration is light to dark gray. They are naked except for the ear fringes and tail bristles. Hairs are present on the skin, but they do not protrude. They have two horns and a prehensile lip.",
+      "adultSize": "Body length, 9-12 ft.; shoulders height, 4.5-5 ft.; weight 2,204-3,968 lbs",
+      "dietInTheWild": "Using their prehensile lip, black rhinos are browsers, eating twigs and leaves from a wide variety of shrubs in the acacia woodlands.",
+      "reproduction": "Gestation lasts 15 months, after which the mother gives birth to a single young.  Within an hour after birth, the little rhino is standing and starting to nurse.  The calf is weaned at 1 to 2 years of age; however it may stay with its mother for 3-5 years.",
+      "lifeSpan": "45 years in captivity",
+      "perils": "Due to their large size, their only danger is man, who has hunted them for their horn.  Lions sometimes take young or sick animals.",
+      "protection": "They have a large and powerful body and a large horn to protect themselves.",
+      "voice": "If a female loses sight of her calf, she mews in a high-pitched voice that brings the calf running.  In the same way, when a calf is in distress, it lets out a bellowing squeal that calls the mother to the rescue.  They also make a variety of grunting noises.",
+      "interestingFacts":
+      [
+
+        "Rhinos, as a group, are quite fragile.  Because each female mates only once during her estrus and has young only once every 3 or 4 years, it takes a while to replace a rhino that has died.  In the days before human intervention, this was never a problem because rhinos lived long lives and their death rate was low.  Today, however, human hunters poaching for horns, drought, and loss of habitat are all dangers."
+      ,
+
+        "Ground up rhino horns are used medicinally in China, South Korea, Taiwan, and Thailand, and as an aphrodisiac in northern India.  Since raw horns can command $20,000, the ground-up powder is surely among the world’s most expensive drugs.  Ironically, there is no pharmacological basis for the powder’s supposed powers."
+      ,
+
+        "The horn is made of keratin, a perfectly ordinary protein that is found in common substances, including our fingernails."
+      ,
+
+        "In the 1980s, a surge in the demand for rhino horn came from North Yemen, where horns are used for making handles of special jambia daggers.  The daggers are given to young Yemen men, when they reach puberty, as a symbol of their manhood and devotion to the Muslim faith.",
+        "For years, only an elite group of Yemenis could afford the rhino-horn dagger, which can cost as much as $30,000 (1988 prices).  In 1970, when the Civil War ended, Yemenis began to cross the border and make high salaries in nearby oil-rich Saudi Arabia. ",
+        "As personal income increased, the demand for rhino-horn daggers increased along with it, making rhino hunting worth the risk to some poachers. "
+
+      ],
+      "folklore": "Often thought to be an angry, grumpy, aggressive animal – it is now known that the rhino has poor eyesight, which may explain why they seem to charge indiscriminately.",
+      "ecology": "Is known to charge at humans. Although rhino’s bad eyesight causes them to charge at things that are not actually a threat, a rhino could fatally injure a human or severely damage a vehicle.",
+      "conservationStatus": "Rhinos are critically endangered due to a loss of habitat. In June of 1991, biologists reported only 3,400 Black Rhinos were left in Africa, down from 2 million at the turn of the century. Numbers are increasing slightly, thanks to better protection in smaller sanctuaries, but across the continent there are only 740 left, making it the rarest subspecies.",
+      "dietAtTheZoo": "fresh fruit, herbivore pellets, timothy hay, and alfalfa",
+      "atTheRacineZoo": "1.1.0 F- Timu Mbano- DOB January 26, 2001; M- Kianga- DOB September 19, 2003"
+    },
+    {
+      "id": 11,
+      "name": "Black-Handed Spider Monkey",
+      "type" : "Mammal",
+      "commonnames": "spider monkey, Geoffroy’s spider monkey",
+      "order": "Primates",
+      "family": "Cebidae",
+      "latinname": "Ateles geoffroyi geoffroyi",
+      "images" : [
+        "SpiderMonkey.png"
+      ],
+      "habitatAndRange": "Spider monkeys are found in tropical rainforests from southern Mexico through the countries of Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Panama.  Geoffroy's Spider Monkey lives in various types of forest. This includes rainforests, semi-deciduous forests, and mangrove forests. Higher densities of Geoffroy's Spider Monkeys appear to be found in areas containing evergreen forest.",
+      "description": "Most have coarse, stringy hair, but some have a soft and fine pelage. Under fur is lacking. They have exceptionally long legs and tail. The tail is prehensile and extremely flexible. The thumbs are poorly developed or lacking. They have small heads.",
+      "adultSize": "The length of head and body is about 382 to 635 mm. The tail is about 508 to 890 mm. The weight average is 6 kg.",
+      "dietInTheWild": "They feed mainly on fruits and nuts.",
+      "reproduction": "They give birth to a single young, and this can occur any time throughout the year. Gestation lasts 139 days. The young are dependent on the mother until about ten months.",
+      "lifeSpan": "The longest recorded captive lifeSpan is 33 years.",
+      "perils": "Their predominate perils are Jaguars and man.",
+      "protection": "If approached in the wild they will sometimes break off dead branches, weighing nearly 5 kg, and drop them, attempting to hit the observer.",
+      "voice": "They also emit terrier like barks when approached. They make a sound similar to the whinnying of a horse when they are separated.",
+      "interestingFacts":
+      [
+
+        "They mostly stay up in the trees, only rarely coming down."
+      ,
+
+        "In order to bridge a gap between branches, spider monkeys are known to form chains with each other. They are usually found in large groups of 2 to 3 dozen individuals. Spider monkeys derived their name from the way they hang in the trees. They often can be found with each limb on a different branch, spread out in the tree, appearing very similar to a spider."
+
+      ],
+      "ecology": "Spider monkeys are a source of food for many Central and South American people. Due to this, they are locally extinct in many accessible areas. They are tolerant of some logging, but they depend upon large areas of tall forest. Their large group numbers and noisy habits make this species easy to find.",
+      "conservationStatus": "Critically endangered due to an estimated past and projected future population decline well exceeding 80% over three generations, primarily as a result of habitat loss.",
+      "dietAtTheZoo": "Canned primate diet, monkey chow. Vegetables: sweet potatoes, carrot, green pepper, celery, onions, romaine, spinach, kale. Fruits: banana, apple, pear, melon, grapes, oranges and others as available. Treats: peanuts, raisins",
+      "atTheRacineZoo": "1.3.0 M-Kramer- DOB January 14, 1994; F- Rosie- DOB February 25, 1994;  F- Emily- DOB February 24, 1992; F- Twiggy- DOB May 17, 1992"
+    },
+    {
+      "id": 12,
+      "name": "Blanding’s Turtle",
+      "type" : "Reptile",
+      "commonnames": "blanding’s turtle",
+      "order": "Testudines",
+      "family": "Emydidae",
+      "latinname": "Emydoidea blandingii",
+      "images" : [
+        "BlandingsTurle.png"
+      ],
+      "habitatAndRange": "The Blanding's turtle is found in and around shallow weedy ponds, marshes, swamps, lake inlets, and coves most of the year. They prefer slow-moving, shallow water, and a muddy bottom with plenty of vegetation.",
+      "description": "This semi-aquatic turtle has a moderately high, domed carapace. It is elongated and smooth, lacking sculpturing. The carapacial scutes display distinct growth annually; most prominently seen in juveniles. Coloration between individuals is highly variable. The carapace is black or gray with any variation of scattered light yellow or whitish flecks or dots. The light spots and flecks predominate in some individuals while others are almost solid black. The head of this turtle is rather flat with a short, rounded snout. This turtle has a permanent \"smile\" due to a notch in its upper jaw. As with the carapace, the top and sides of the head vary in coloration from black, brown, or olive, with yellowish spots or mottling. Contrasting greatly with the rest of the turtle, the chin, throat, and underside of the long neck are bright yellow. The hatchlings of this species have a gray, black, or brown carapace that is 3 to 3.5 cm long. A single light spot is seen in the center of each scute. The immature turtles are often more brightly marked than the adults and possess a proportionately longer and thinner tail.",
+      "adultSize": "The Blanding's turtle is a medium sized turtle, with a carapace length ranging from 15.2 to 27.4 cm.",
+      "dietInTheWild": "The Blanding's turtle is an omnivore. Its favorite food items are crustaceans, but they also feed on insects, leeches, snails, small fish, frogs, and occasionally some plants.",
+      "reproduction": "The Blanding's turtle reproduces through internal fertilization with copulation taking place in the water. Mating can occur between April and November but is most concentrated in April and May. Mostly in June, females may travel considerable distances from the water to find suitable nest sites to lay their eggs. They prefer open, sunny spots in well-drained but moist sandy soil. They also will lay their eggs in lawns, gardens, or gravel road edges. The female digs a nest cavity approximately 17 cm deep and 7 to 10 cm in diameter. She will lay 6 to 21 flexible, elliptical shaped eggs measuring about 3.6 cm long. Most hatchlings will emerge 50 to 75 days later. Blanding's turtles have temperature-dependent sex determination. Eggs incubated below 25˚C produce nearly all males and those incubated above 30˚C are nearly all females. This long-lived turtle will reach sexual maturity in 14 to 20 years and reproduce for approximately the next 40 years of its life.",
+      "lifeSpan": "Although Blanding's turtles generally reach 60 years of age, some individuals may live to be up to a century old.",
+      "perils": "Turtle eggs and hatchlings have a variety of predators to which they have virtually no defenses. Raccoons, skunks, and foxes are the major predators on the eggs, but they also prey upon the hatchlings and juveniles. Other predators to the young include large fish, frogs, snakes, wading birds, and crows.",
+      "protection": "As adults, they depend on their shell for protection. They also depend on their strong swimming capabilities to swim into deeper waters or to hide at the bottom. Rarely will the Blanding's turtle bite as a defense.",
+      "interestingFacts":
+      [
+
+        "Food is captured with a rapid thrust of this turtle's long neck. Feeding mostly occurs underwater and food seized on land is generally carried to the water for swallowing. Prey is either swallowed whole, or held by the jaws and shredded into smaller pieces by the front claws if it is too large."
+
+      ],
+      "ecology": "Blanding’s turtles depend greatly on the survival of wetland habitats.",
+      "conservationStatus": "Lower risk, near threatened (IUCN red list). Endangered in Wisconsin.",
+      "dietAtTheZoo": "reptomin pellets, pinkies, wax worms, crickets",
+      "atTheRacineZoo": "1.0.0 M- Brady- DOB September 9, 2001"
+    },
+    {
+      "id": 13,
+      "name": "Brazilian Salmon Pink Bird Eater Tarantula",
+      "type" : "Arthropod",
+      "commonnames": "Brazilian salmon pink tarantula",
+      "order": "Araneae",
+      "family": "Theraphosidae",
+      "latinname": "Lasiodora parahybana",
+      "habitatAndRange": "Tropical rainforests in eastern Brazil in South America",
+      "description": "Like their name implies, Brazilian salmon pink bird eaters are (partially) pink, with long salmon-colored hairs sticking out from their legs, abdomens and mouthparts. Except for the pink patches, these tarantulas are mostly dark brown. Coloring may be the best way to identify these tarantulas, but Brazilian salmon pink bird eaters also have a distinctive shape: they are bulky, with a fairly large body in relation to leg length.",
+      "adultSize": "7.5 to 10 inches",
+      "dietInTheWild": "Though they do snack on the occasional small bird, the bulk of their diet consists of various insects. They round out the menu with a few lizards, frogs and mice.",
+      "reproduction": "When a male tarantula reaches adulthood, he spins a small patch of silk. He deposits sperm on the silk, and then sucks up the fluid into the tips of his pedipalps. He's now ready to breed. Usually, when a male approaches a female to mate, she rears up and opens her fangs as if threatened. He reaches up and secures her fangs with the hooks on his front legs, then inserts his sperm-loaded pedipalps into her genital openings on the underside of her abdomen. Some three months later, the female spins a thick carpet of silk on which to lay her eggs (usually about 500, but sometimes as many as 2,000!). She then gathers the silk around the eggs, forming an egg sac. She'll guard this for several weeks until the spiderlings hatch.",
+      "lifeSpan": "Females live about 15-20 years and males live a year or so after reaching maturity at around 2 years of age.",
+      "perils": "Popular in pet industry but reproduce and grow quickly.",
+      "protection": "Some tarantulas release hairs upon contact, while others flick “hairs” from their abdomen using a hind leg. These hairs (actually part of the spider’s exoskeleton) are irritating -- especially if they land in the eyes or the sensitive nasal membranes of potential predators! If stinging hairs aren't enough to discourage enemies, tarantulas move to Plan B: they bite!",
+      "interestingFacts":
+      [
+
+        "With a leg-span of up to 10 inches, the Brazilian salmon pink bird eater is one of the largest tarantulas in the world. And this spider gets big fast: it can grow up to a diameter of six inches in the first year of life!"
+
+      ],
+      "ecology": "Brazilian salmon pink bird eaters are ground dwellers. During the day they can usually be found in burrows (which they make themselves) or natural hiding places on the forest floor. At night they come out to hunt or find mates.",
+      "conservationStatus": "Not listed by IUCN",
+      "atTheRacineZoo": "0.1.0 F- Shelob- DOB approximately 2008"
+    },
+    {
+      "id": 14,
+      "name": "Budgerigar",
+      "type" : "Bird",
+      "commonnames": "Budgie",
+      "order": "Psittaciformes (parrots)",
+      "family": "Psittacidae (parrots, cockatoos, and relatives)",
+      "latinname": "Melopsittacus undulatus",
+      "images" : [
+        "Budgie.png"
+      ],
+      "habitatAndRange": "Budgies are naturally distributed throughout Australia, except for the coastal areas in the far east and the far south-west. This species has also been unfortunately introduced to many areas around the world including South Africa, Japan, U.S., Puerto Rico, Switzerland, and New Zealand; however, they have only successfully been established in southwest Florida. Budgerigars occupy a wild range of semi-arid and sub-humid habitats, mainly in the interior of Australia. They sometimes can be found in the dry grasslands of the southeast. Although mainly restricted to the interior of the continent, there are budgies occasionally found on coastal interruptions in the northeast and in the central south. They seasonally migrate to the north during the winter in order to have a continuing food source.",
+      "description": "Budgerigars are small, streamlined parrots that average 18-20 cm in length. They are unlikely to be mistaken for any other parrot because of their small size, pointed wings and tails, and distinct plumage patterns. Most wild budgerigars have a predominantly yellow head. The rest of the body and the wings are often black, green, and blue. Caged species differ greatly in their plumage color and patterns.",
+      "behavior": "Budgerigars aggregate into large flocks and are strongly social. Their grouping allows for greater success in feeding and also helps in protection from predators. There does not seem to be any hierarchy in groups based upon the relative absence of battles among individuals, but females are generally more aggressive than males. Their activity, like most birds, begins just before sunrise with preening, singing, and movement within trees. After sunrise, the birds fly to the foraging area and feed throughout the day. They do not forage during midday or in extremely hot weather. Instead, they take shelter under shade and remain motionless. At the end of the day, they congregate by calling loudly and flying at high speeds around the trees. They then return to their roosting site just after sunset and remain at rest until the next morning",
+      "adultSize": "18-20 cm",
+      "dietInTheWild": "Budgerigars are highly successful exploiters of food and water resources whenever available. They are ground-feeders and thus prefer to take the seeds of grasses and crop plants, particularly spinifex and tall tussock grasses. Due to the high nutritive content of the seeds, no alternate food source is necessary. Budgerigars are very scheduled in their drinking habits and drink about 5.5% of their body weight daily. To satisfy this demand, they often locate themselves near water holes.",
+      "reproduction": "Budgerigars are monogamous and breed in large colonies throughout their range. There has been some record of extra-pair copulations, probably so the female can receive extra help raising the clutch. Breeding for budgerigars can occur during any time of the year but most frequently occurs with an abundance of seed. Most grass seeding occurs during the winter in northern Australia and during the spring and summer in southern Australia. This means budgerigars also breed after heavy rains because grass growth is dependent upon water. In fact, any good rain will set off breeding, even when they are in the costly process of molting. Budgerigars make their nests in pre-existing cavities that are available in fence posts, logs, and Eucalyptus trees. Several nests can be found on the same tree branch, measuring only 3-5 m apart from one another. They fill their nests with decayed wood dust, droppings, and any other soft material available. The female chooses the nest site and incubates while the male spends most of the time foraging and feeding those in the nests, until the chicks are ready to fledge. The parents often have several broods in succession.",
+      "lifeSpan": "15-20 years",
+      "interestingFacts":
+      [
+
+        "Budgerigars are the most widely known pet bird in the world. Their population of about 5,000,000 worldwide has allowed scientists ample opportunity to study them. In fact, more is known of their biology than of any other parrot."
+      ,
+
+        "If a budgerigar feels threatened, they will press all of their feathers into their body, or go to the highest branch that they are able to reach."
+
+      ],
+      "conservationStatus": "Species of least concern.",
+      "dietAtTheZoo": "Budgie seed mix",
+      "atTheRacineZoo": "0.0.294"
+    },
+    {
+      "id": 15,
+      "name": "Canada Lynx",
+      "type" : "Mammal",
+      "commonnames": "Lynx du Canada (French)",
+      "order": "Carnivora",
+      "family": "Felinae",
+      "latinname": "Lynx canadensis",
+      "images" : [
+        "Lynx.png"
+      ],
+      "habitatAndRange": "Canada lynx are found in the boreal forests of North America, especially in Canada and Alaska.",
+      "description": "This is a smaller sized cat, with a reddish-brown to gray coat that has a “frosted” appearance.  They have flared facial ruff and black ear tufts.  Their hind legs are long and they have a short bob tail. They are solitary animals that have a large habitat range.  Males range usually 1.6-90 square miles and females range usually 1.6-43 square miles.",
+      "adultSize": "Length:  27-43 in, tail 2-6 in.  Weight:  11-27 lbs",
+      "dietInTheWild": "Canada lynx have a close predator-prey relationship with the snowshoe hare.  They also eat small rodents, birds, and deer.",
+      "reproduction": "Individuals are polygamous.  Most births are from May-June.  Gestation period is 63-70 days with one to eight kittens per litter.  Larger litters occur when prey is abundant.",
+      "lifeSpan": "In the wild, Canadian lynx have lived up to 15 years, and in captivity, up to 21.",
+      "perils": "Trapping continues to be one of the greatest threats for the lynx. When trapping occurs during times of low population numbers, it makes recovery of the population extremely difficult.  The demand for pelts is declining however.  As is with every other feline population, these too face habitat loss due to destruction by humans.",
+      "protection": "There are no natural predators of the lynx. They avoid humans and hunt at night.  They can bite if necessary.",
+      "voice": "Lynx growl when threatened.",
+      "interestingFacts":
+      [
+
+        "Their large, wide-spreading feet are covered in fur, which act like snowshoes, and are effective in supporting the cat’s weight on the snow."
+      ,
+
+        "When hunting, the lynx can use its retractable claws for grabbing prey. Once it has caught the prey, a hungry lynx can eat an entire snowshoe hair, but they can also hide the rest of the meat for later. It will sometimes travel up to 19 km for a meal."
+
+      ],
+      "ecology": "The wild population is determined by snowshoe hare population.  Lynx population peaks one to two years after the cyclic 10-year peak in hare numbers.",
+      "conservationStatus": "conservationStatus: Least Concern because the Canada Lynx is widespread and abundant over its range.  Locally endangered, but generally populations are healthy.",
+      "dietAtTheZoo": "Horse meat.",
+      "atTheRacineZoo": "0.1.0 F- Lexi- DOB April 1, 2007"
+    },
+    {
+      "id": 16,
+      "name": "Columbian Red Tail Boa",
+      "type" : "Reptile",
+      "commonnames": "Red Tail",
+      "order": "Squamata",
+      "family": "Boidae",
+      "latinname": "Boa constrictor constrictor",
+      "images" : [
+        "RedTailBoa.png"
+      ],
+      "habitatAndRange": "Red tail boas are found from northern Mexico through Central America. Columbian red tail boas are found in Columbia. Boa constrictors may forage in the trees but they are mainly terrestrial, especially the larger ones, living in hollow logs, mammal burrows, etc.",
+      "description": "This boa constrictor is typically tan with approximately 20 dark dorsal saddles running the length of the body. The tail blotches are usually red, orange or brown with black edging. Laterally, there are tan, brown or black blotches (circular or diamond-shaped) spaced along the saddles. Undersides are yellowish, spotted with black.",
+      "adultSize": "Females average 7’ to 9’ in length, males 6’ to 8’. Maximum size is around 12 feet, but any length over 10’ is unusual.",
+      "dietInTheWild": "Their diet consists of rodents, birds, iguanas, and monkeys. The boa kills prey by coiling around and suffocating it.",
+      "reproduction": "Females reach sexual maturity at three years of age, males at 18 months. Gestation is 120-150 days. The female boa constrictor bears her young alive (ovoviviparous) and has been known to give birth to as many as 64 at one time, but 30 is the average. The young are about 24 inches long and resemble their parents in coloring.",
+      "lifeSpan": "Boas may live 40 years in captivity.",
+      "perils": "Birds and mammals will prey on young.",
+      "protection": "They will strike to scare away a potential predator.",
+      "interestingFacts":
+      [
+
+        "Has a keen sense of smell used to detect the presence of other animals. Boa constrictors lack temperature-sensing labial (lip) pits, but their facial nerve endings are extremely sensitive to temperature variation. As with other snakes, the boa’s loosely hinged jaws can be stretched far apart, enabling it to swallow animals with bodies much larger in diameter than the boa’s head."
+
+      ],
+      "conservationStatus": "All species of boas are endangered or restricted. B. c. constrictor is not listed on the IUCN redlist, but all Boidae spp. are under CITES appendix II. Hunting for leather and meat and the live animal trade has reduced their numbers, as has reduction of forest habitat. Captive breeding of boa constrictors is on the increase at levels which should ensure survival of the species.",
+      "dietAtTheZoo": "1 adult rat every three weeks"
+    },
+    {
+      "id": 17,
+      "name": "Degu",
+      "type" : "Mammal",
+      "commonnames": "Common Degu, Brush Tailed Rat",
+      "habitatAndRange": "Central Chile",
+      "adultSize": "Body length of 25.0 to 31.0 centimeters (9.8–12.2 in) and a weight of 170 to 300 grams (6.0 to 11 oz).",
+      "dietInTheWild": "Herbivorous. Feeding on grasses and the leaves of shrubs, will also take seeds. Degus are sugar intolerant, even to naturally occurring sugars.",
+      "reproduction": "Degus are seasonal breeders; the breeding season for wild degus begins in the Chilean autumn when there is roughly 12 hours light:12 hours darkness, with pups born in early to mid-spring.  Female degus are pregnant for approximately ninety days.  Litters contain an average of six pups, but size can range from one or two up to twelve young. Degu pups are born relatively precocial, fully furred and with eyes open, and their auditory and visual systems are functional at birth. Unlike most other rodents, male degus also take part in protecting and raising their pups until they are old enough to leave the family.",
+      "lifeSpan": "6-8 years; record 13 years",
+      "perils": "Raptors, black chested buzzards, barn owls, short-eared owls, culpeo foxes, human hunting.",
+      "protection": "Constant vigilance while foraging and living in large groups helps them survive predation. Degus flee to their burrows when threatened.",
+      "interestingFacts":
+      [
+
+        "Degus need regular sand baths to keep their coats healthy and free from grease. They should have access to this regularly, preferably two or three times a week, half an hour at a time."
+      ,
+
+        "Degus have good eye-and-paw coordination, in a study they spontaneously learned to use a tiny rake to retrieve out-of-reach seeds.Degus have also been found to spontaneously stack objects in order of decreasing size. In both cases it is the first time these behaviors have been recorded in animals other than apes and birds."
+      ,
+
+        "Another interesting area of degu research is circadian rhythm function. Though naturally diurnal, degus have the ability to show both diurnal and nocturnal rhythms if the environment permit. Degus can take cues that do not relate to day length, such as temperature, melatonin levels and even scents from other degus to adjust their rhythms."
+      ,
+
+        "Degus are also invaluable in development and aging studies. Research has shown that separation anxiety caused by separating pups from their mother from an early age for periods of half an hour or more can cause developmental and behavioral changes in later life, similar to ADHD in humans.[35] In elderly degus, neural markers have been discovered which are remarkably similar to those in humans with Alzheimer's disease, which is the first time this has been seen in a wild-type rodent."
+      ,
+
+        "Degus are highly social. They live in burrows, and, by digging communally, they are able to construct larger and more elaborate burrows than they could on their own. Degus digging together coordinate their activities, forming digging chains. Females living in the same group have been shown to nest communally; they nurse one another's young. They spend a large amount of time on the surface, where they forage for food. When foraging, their ability to detect predators is increased in larger groups, and each animal needs to spend less time in vigilance. Degus exhibit a wide array of communication techniques. They have an elaborate vocal repertoire comprising up to 15 unique sounds, and the young need to be able to hear their mother's calls if the emotional systems in their brains are to develop properly. They use their urine to scent mark, and experiments have shown that they react to one another's marks, although in males the hormone testosterone may suppress their sense of smell somewhat."
+
+      ],
+      "conservationStatus": "Least Concern",
+      "dietAtTheZoo": "Mazuri chinchilla pellets, timothy hay"
+    },
+    {
+      "id": 18,
+      "name": "Desert Tortoise",
+      "type" : "Reptile",
+      "commonnames": "desert tortoise",
+      "order": "Testudines",
+      "family": "Testudinidae",
+      "latinname": "Gopherus agassizii",
+      "images" : [
+        "DesertTortoise.png"
+      ],
+      "habitatAndRange": "Desert tortoises are found in desert areas from southern Nevada to Arizona and into Sonora, Mexico.",
+      "description": "The head of a desert tortoise is scaly, the shell is domed, and the body has thick skin. Desert tortoises also have extremely long nails, which are used for digging in the desert sand to find shelter. The upper shell has color variations from dull brown to a dull yellow. Males are typically larger than females and are shaped differently. Male tortoises have long, curved, gular horns that are used for leverage in male-male combat, heavier claws, and longer tails that facilitate copulation. Each male tortoise also has a depression in the plastron that fits around the carapace of the female, and an inward curve at the rear portion of the carapace that allows him to achieve the upright position needed for mating. Females have carapaces that curve outward and flat plastrons.",
+      "adultSize": "An adult, male desert tortoise averages around 10 -15 pounds. The upper shell of a desert tortoise ranges in length from 15 to 36 centimeters.",
+      "dietInTheWild": "They feed primarily on grasses, cactus, annual wildflowers, and some insects",
+      "reproduction": "Desert tortoises mate from May to July. The female lays 2 to 3 clutches of 2-14 eggs. Incubation is 118 days, with young hatching in mid-August to October. Young tortoises mature in 15-20 years.",
+      "lifeSpan": "50-80 years",
+      "perils": "Predators of juveniles include ravens, roadrunners, some snakes, kit foxes, bobcats, badgers, coyotes, and the spotted skunk. Predators of larger tortoises include coyotes and kit foxes that may dig tortoises out of their burrows to eat. These predators can eat the tortoise without breaking open the shell. Due to the cars present on roadways, humans are considered to be a peril to desert tortoises. Humans also cause habitat loss, which can decrease numbers in the wild.",
+      "protection": "Tortoises have a high domed shell in which they can hide when scared. The legs, which do not fit inside the shell, cover the head and the rough scales of the front legs make it practically invulnerable.",
+      "interestingFacts":
+      [
+
+        "Desert tortoises dig huge burrows where they seek refuge from the desert heat and to hibernate in the winter. Desert tortoises spend their winter in a communal burrow called a hibernaculum. In the summer, they migrate to their own personal summer territories. Desert tortoises have a projection on their plastron that the males use as a battering ram when battling for territory."
+
+      ],
+      "ecology": "The tortoises are collected illegally for the Asian food markets in larger western U.S. cities.",
+      "conservationStatus": "Vulnerable. Because of human related changes in the environment, the numbers of ravens in tortoise territory are increasing.  Ravens eat newly hatched tortoises and are a serious threat to tortoise populations.",
+      "dietAtTheZoo": "leafy greens, fruits, and mixed vegetables",
+      "atTheRacineZoo": "0.1.0 F- Myrtle- DOB September 1, 1985"
+    },
+    {
+      "id": 19,
+      "name": "Domestic Pig",
+      "type" : "Mammal",
+      "commonnames": "Domestic pig, Miniature pig, pig",
+      "order": "Artiodactyla",
+      "family": "Suidae",
+      "latinname": "Sus scrofa scrofa",
+      "habitatAndRange": "Domestic pigs are of the same species of the Wild boar, found native throughout Europe and Asia, but domestic pigs are only found in human care.",
+      "description": "As a human reared species, domestic pigs can be found in a wide variety of colors and sizes, although they all have the characteristic large ears, elongated rostrum, and rounded nose.",
+      "adultSize": "Domestic pigs can grow to a wide array of sizes.",
+      "dietInTheWild": "In the wild, pigs would eat roots, bulbs, nuts, berries, as well as insects and other small mammals.",
+      "reproduction": "Exact reproduction in domestic pigs can vary, but females will usually give birth to between 4 and 6 piglets. Females will often lactate for up to three months, but piglets will begin eating solid food at only two weeks old.",
+      "lifeSpan": "lifeSpan of domestic pigs varies widely.",
+      "interestingFacts":
+      [
+
+        "The upturned snout of a pig is actually an adaptation to help them dig for roots, tubers, and insects. Wild boars will use this snout to root through soil to find food."
+
+      ],
+      "conservationStatus": "N/A",
+      "dietAtTheZoo": "A specifically formulated “pig chow” made for miniature pigs"
+    },
+    {
+      "id": 20,
+      "name": "Eastern Gray Tree Frog",
+      "type" : "Amphibian",
+      "commonnames": "eastern grey tree frog",
+      "order": "Anura",
+      "family": "Hylidae",
+      "latinname": "Hyla versicolor",
+      "images" : [
+        "GrayTreeFrog.png"
+      ],
+      "habitatAndRange": "Gray tree frogs inhabit a wide range from southern Ontario and Maine, westward to central Texas, northwest to Manitoba, and northern Florida. Generally, the eastern gray tree frog is mostly found to the north and northeast of the range, and is common in the eastern Great Lakes region, including southern Michigan. Eastern gray tree frogs inhabit all elevations of wooded areas, near temporary and permanent waters. During the summer months, they are most often found in damp rotten logs or hollow trees. In winter, they hibernate on land under woody debris such as logs, roots, and leaf litter.",
+      "description": "The colors of a gray tree frog vary with the colors of its background and environmental factors such as season and humidity, but shades of gray are most common with black blotches on the back. Variations of brown, green, and pearl-gray colors have been noted. Green colors are more prominent during the breeding season and in yearling frogs. Usually, there is a white mark beneath the eye. The ventral skin on the hind legs, in the groin region, may appear orange to golden yellow with black speckles, and the belly is white.",
+      "adultSize": "The eastern gray tree frog measures 1.25- 2 inches in length. The record length is 2.25 in. The tadpoles are small, but colorful, 1.25-1.5 in. long.",
+      "dietInTheWild": "As tadpoles, eastern gray tree frogs begin life by grazing on algae and detritus in their pond. After metamorphosis, they prey upon most types of insects and their larvae. Mites, spiders, plant lice, harvestmen, and snails are also eaten. The eastern gray tree frog is opportunitistic and may also eat smaller frogs, including other tree frogs.",
+      "reproduction": "Eastern gray tree frogs employ their unique call from the safety of vegetation next to the shallow breeding sites, preferably in tree branches that overhang the water. The males aggressively defend and use their voice to outline their territories with extended calls.  The female only visits the breeding site to lay her eggs. During the last weeks of the breeding season, occasional calls may still be heard as the males slowly retreat from the shoreline and disappear into the foliage. Rare calls may still be heard in the trees in late summer or fall, yet they are unrelated to mating, and occur more often during rain showers. Calling males are often attacked by predators, and this results in a female-biased population.",
+      "lifeSpan": "The potential lifeSpan in captivity and the wild is unknown. It is thought they live about 7 years in captivity.",
+      "perils": "Many assorted species of birds, snakes, other frogs, and small mammals eat gray tree frogs. In the larval state, gray tree frogs are subject to predation by fish and larger amphibian larvae, such as the tiger salamander. When aquatic predators are abundant, gray tree frog tadpoles reduce their activity and feeding.",
+      "protection": "They have advanced toe pads to adhere more strongly to vertical surfaces of glass, metal, and primarily tree bark. The toe tips are flexible and grip more firmly due to a small bone or cartilage between two terminal toe bones that support the toe pad. Climbing ability is an important adaptive trait of this species, and it is central to their survival. They also avoid the attention of predators by calling after dusk and being most active in the evening and night. They use cryptic coloration and rarely leave the trees until the breeding season. Their skin is able to assume most natural colors in which it comes into contact.",
+      "voice": "In general, the sound is comprised of a resonant musical trill. The eastern gray tree frog has a slower trill. An increase in air temperature raises the rate of the trill.",
+      "interestingFacts":
+      [
+
+        "The eastern gray tree frog possesses a second chromosome set, twice the number of chromosomes as humans, it is called a tetraploid."
+
+      ],
+      "ecology": "People benefit from the substantial amount of insect pests that are eaten. We also use the presence of eastern gray tree frogs as a scientific tool to indicate the overall biodiversity and the level of contaminants in a region.",
+      "conservationStatus": "Least concern on the IUCN red list",
+      "dietAtTheZoo": "crickets",
+      "atTheRacineZoo": "0.0.3 U- Unknown-DOB Unknown"
+    },
+    {
+      "id": 21,
+      "name": "Eastern Tiger Salamander",
+      "type" : "Amphibian",
+      "commonnames": "tiger salamander",
+      "order": "Caudata",
+      "family": "Ambystomatidae",
+      "latinname": "Ambystoma tigrinum",
+      "images" : [
+        "TigerSalamander.png"
+      ],
+      "habitatAndRange": "Tiger salamanders live in grassland, prairie, and dry woodland habitats. They can be found in the central United States and the Rocky Mountains.",
+      "description": "They have a thick black body, with yellow blotches or spots, and a large head with a broad rounded snout. Their eyes are also round. The belly is usually yellowish or olive with invading dark pigment.",
+      "adultSize": "7-11 inches long",
+      "dietInTheWild": "Salamanders are not picky when it comes to food. They will commonly eat anything that moves and fits in their mouth. Their diet consists mostly of insects and other invertebrates, but adults will occasionally eat small rodents.",
+      "reproduction": "They can lay as many as 500 eggs during March to June. Salamanders mate in temporary pools, fishless ponds, stream backwaters, and lakes in the spring, as soon as the ice melts.",
+      "lifeSpan": "Usually 16 years in the wild and up to 25 years in captivity",
+      "perils": "One of the greatest threats to many amphibians is pollution in the water, since their membranous skin covering absorbs anything it touches. Destruction of wetland habitats is also a cause of concern.",
+      "interestingFacts":
+      [
+
+        "Tiger salamanders are nocturnal. They are also the state amphibian of Illinois."
+      ,
+
+        "They are utilized by ecologists to study the health of the bodies of water in which they live. Since they are capable of absorbing anything in the water through their membranous skin, they are greatly affected by contaminants in the water. If the population of salamanders is healthy, scientists have good evidence to suggest that the water is clean as well. If the population is not healthy, there may be contaminants in the water. Ecologists call them an \"indicator species\"."
+
+      ],
+      "conservationStatus": "species of least concern according to IUCN redlist",
+      "dietAtTheZoo": "Wax worms, meal worms, and crickets"
+    },
+    {
+      "id": 22,
+      "name": "Emperor Scorpion",
+      "type" : "Arthropod",
+      "commonnames": "scorpion",
+      "order": "Scorpiones",
+      "family": "Scorpionidae",
+      "latinname": "Pandinus imperator",
+      "habitatAndRange": "The emperor scorpion is usually found in tropical forests in savannas, throughout Africa. Some specific areas where it is found are Togo, Chana, Benin, Chad, Guinea, Liberia, and the Congo.",
+      "description": "They usually are a glossy black or blue, and are occasionally dark brown or green. They have two large, fat pinchers, and four pairs of legs.",
+      "adultSize": "They are the largest scorpion, and can grow to be 4-8 inches.",
+      "dietInTheWild": "They feed on insects, arachnids, mice, and lizards.",
+      "reproduction": "Female scorpions have live birth of their young, after a seven to nine month gestation period. They will often care for their young, even after the young are able to get food on their own.",
+      "lifeSpan": "On average, emperor scorpions live 8 years.",
+      "perils": "They are eaten by many things including birds, bats, small mammals, and large spiders. They are also at risk due to over collection by humans.  The non-captive population has steadily decreased, although it is assumed that the captive population is very large.",
+      "protection": "They possess large pinchers, which are useful in helping to detract potential predators. They also have a venomous sting, which can be painful, even to humans.",
+      "interestingFacts":
+      [
+
+        "Emperor scorpions are amongst the most docile scorpions, and are often handled by their owners. Their venom is relatively harmless to humans, unless the individual in allergic: however, their large pinchers can draw blood."
+      ,
+
+        "They utilize sensory hairs, found on their legs, to find prey at nighttime."
+      ,
+
+        "They are generally social as far as scorpions go, often being found in a group consisting of a mother and her offspring."
+
+      ],
+      "conservationStatus": "They are listed as threatened on the CITES II list.",
+      "dietAtTheZoo": "crickets, pinkie mice, mealworms."
+    },
+    {
+      "id": 23,
+      "name": "Emperor Tamarin",
+      "type" : "Mammal",
+      "commonnames": "tamarin",
+      "order": "primates",
+      "family": "callitrichidae",
+      "latinname": "Saguinus imperator",
+      "habitatAndRange": "Emperor tamarins are found in the southwest Amazon Basin. They are found in light, dry-bottom to dense Amazon forest.",
+      "description": "The majority of their body is black or dark-grey. However, their backs are yellow and their chests are brownish-red. They are most easily identified by their white mustaches.",
+      "adultSize": "Their body length is usually around 10 inches, but their tail alone averages 15 inches in length. They weigh 10-14 ounces once mature.",
+      "dietInTheWild": "The majority of their dietInTheWild consists of plant matter; however, tamarins have been known to eat insects, fruit, and small vertebrates as well.",
+      "reproduction": "In any given group, the two oldest males and the oldest female will reproduce each season. After a gestation period of 140-145 days, all members of the group will help care for the two young that are born.",
+      "lifeSpan": "They live to about 17 years.",
+      "perils": "Logging by humans has caused a major decrease in their habitat. Of course, they are eaten by many mammals of a larger size.",
+      "protection": "Since they are small, they are able to go to the ends of branches where larger predators cannot reach them. They are also able to leap away quickly due to their small stature.",
+      "interestingFacts":
+      [
+
+        "In a group of tamarins, two-thirds of the females will be able to see in three colors, allowing them to better search for food. The rest of the group can only see in two colors, helping better look-out for predators. They are able to utilize their tail as a fifth hand."
+
+      ],
+      "conservationStatus": "Least concern as the species is widespread, common, and there are no major threats resulting in any significant population decline.",
+      "dietAtTheZoo": "fruit, mealworms, vegetables, primate diet."
+    },
+    {
+      "id": 24,
+      "name": "Emu",
+      "type" : "Bird",
+      "commonnames": "Emu",
+      "order": "Struthioniformes",
+      "family": "Casuariidae",
+      "latinname": "Dromaius novaehollandiae",
+      "images" : [
+        "Emu.png"
+      ],
+      "habitatAndRange": "They prefer the open plains and brush areas of Australia.",
+      "description": "Emu wings are hidden behind coarse feathers that are hair-like in appearance.  Their color can be grayish-blue to brown.  The feathers tend to be long and shaggy.",
+      "adultSize": "They are approximately six feet tall, and weigh between 100-130 lbs.",
+      "dietInTheWild": "They mostly eat seeds, fruit, and young shoots.  They have been documented in the wild eating insects, rodents and lizards.",
+      "reproduction": "Emus lay between 5-20 dark green eggs. The male creates the nest and does almost all of the incubation, which lasts about 56 days. Males will guard the chicks for about seven months.",
+      "lifeSpan": "Emus live up to 6 years in the wild and 10 years in captivity",
+      "perils": "The young are sometimes hunted by dingos, foxes and feral cats; adults are hunted by man for flesh and oil that is extracted from their skin and used for medicine.",
+      "protection": "Adults can protect themselves with a powerful kick and speeds up to 20 m.p.h. Young have a different color pattern to help camouflage them from predators.",
+      "voice": "Males make a deep growling grunt. Females make a thudding, drumming sound, and chicks emit whistling peeps.",
+      "interestingFacts":
+      [
+
+        "Emus are nomadic birds that live in small groups and often roam over hundreds of miles.  They are related to the ostrich and kiwi – two other flightless birds.  The male is the main caregiver for the young of this species.  The male scoops out a hole in the ground, where one or more females deposit their eggs.  The male will sit on top of the eggs, incubating and protecting them.  Shortly before birth, the male builds a nest of twigs, bark and mud near a riverbed.  Once the chicks hatch, the male transports them to the new nest, where he holds them safely under his wing for four days.  After this period is over, the male instructs the chicks on how to hunt and gather grass and seeds.   At eight months, the father leaves the chicks to hunt for their own food."
+
+      ],
+      "ecology": "These birds have been brought to the U.S. in recent years, in an effort to raise them for meat.",
+      "conservationStatus": "Common due to the Emu farms and being bred for their meat.",
+      "dietAtTheZoo": "pellet grain, and produce",
+      "atTheRacineZoo": "0.1.0 F- Sydney- DOB July 15, 1994"
+    },
+    {
+      "id": 25,
+      "name": "Fennec Fox",
+      "type" : "Mammal",
+      "commonnames": "Fennec Foxes, Desert Fox",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "latinname": "Vulpes zerda",
+      "images" : [
+        "FennecFox.png"
+      ],
+      "habitatAndRange": "Fennec foxes live in the desert zone from Morocco and Niger to Egypt and Sudan.  They may also occur in Sinai, southern Iraq, Kuwait, and the southeastern Arabian Peninsula.  Fennec Foxes usually lives in burrows, where they spend the day, coming out at night.",
+      "description": "They are smaller than an average house cat. They are the palest and smallest of all foxes. Their coloring ranges from reddish cream, light fawn, or almost white. Fur in adults is thick and silky. It is buff-colored on the dorsal surface and white along the animal’s legs, face, ear-linings and underside. In contrast, juveniles are downy and almost exclusively white. The tip of the tail is black. The feet are heavily furred, protecting the pads from the hot desert sand.",
+      "adultSize": "Head and body is usually 9 ½ - 16 inches, the tail is approximately 7-12 inches, the ears are 3 ½ - 5 ½ inches, and the weight is around 2-3 lbs.",
+      "dietInTheWild": "Fennec foxes are omnivores, eating fruits, seeds, small rodents, birds, eggs, lizards, and insects",
+      "reproduction": "Mating occurs in January to February. Two to five young are born after a gestation of 50 – 52 days. The young are weaned after 61 – 70 days and sexually mature at 11 months.",
+      "lifeSpan": "They can live up to14 years in captivity and 6-10 years in the wild",
+      "perils": "Humans hunt the fennec foxes for pelts and the pet trade. Birds of prey and other terrestrial predators also hunt them.",
+      "protection": "Their coloration camouflages them well for their sandy environment. They are capable of digging quite rapidly into the sand. They can use their teeth and claws as protection as well.",
+      "voice": "They growl when threatened.",
+      "interestingFacts":
+      [
+
+        "The fennec fox is the smallest canid (dog-like animal) in the world, but has proportionally the largest ears.  A fennec fox’s ears have a vast network of veins that allow them some measure of heat regulation.  The fox’s large ears help them to locate prey and contain hairs that keep out sand and insects. They can hear through many centimeters of sand."
+
+      ,
+
+        "The fennec fox can dig rapidly and has gained the reputation of literally “sinking into the ground.”  Fennec foxes have patches of hair on the bottom of their feet that help to insulate them from the hot sand.  They are quite agile and capable of springing upward more than two feet into the air from a standing position and horizontally more than three feet.  Evidence suggests that the fennec foxes can survive in the desert without water for an indefinite period of time."
+
+      ],
+      "ecology": "They are predators, reducing the number of small mammals, birds, reptiles, insects, and other terrestrial invertebrates found within their home territories.  They are hunted by locals, captured for the pet trade, and kept in zoos.",
+      "conservationStatus": "Least concern, although there is no detailed information on its abundance, the species is still relatively widespread in the sandy deserts and semi-deserts of Northern Africa. At present, there are no known major range-wide threats believed to be resulting in a population decline.",
+      "dietAtTheZoo": "dry dog food, mixture of fruit and vegetables, insects, and rodents"
+    },
+    {
+      "id": 26,
+      "name": "Fossa",
+      "type" : "Mammal",
+      "commonnames": null,
+      "order": "Carnivora",
+      "family": "Eupleridae",
+      "latinname": "Cryptoprocta ferox",
+      "images" : [
+        "Fossa.png"
+      ],
+      "habitatAndRange": "The fossa is only found in the forests of Madagascar.",
+      "description": "The fossa has a reddish-brown coat and a dog-like face. They are slender bodied, and have a long tail which is used for balance. They have retractable claws, as well.",
+      "adultSize": "From tail to head, the fossa can grow to be 6 feet long and weigh 26 pounds.",
+      "dietInTheWild": "Fossas prefer lemurs above all other prey; however, they will also feed on other small and medium mammals, fish, and birds.",
+      "reproduction": "Fossas are solitary, except during breeding season. Females give birth to two to four young each year. She will make a den for the pups, and take care of them for the first year. In the first four months, the pups don’t even leave the den.",
+      "lifeSpan": "The lifeSpan is unknown in the wild, but up to 20 years in captivity.",
+      "perils": "They are the apex predator of Madagascar, so the only real danger for fossas is man. As with many animals in Madagascar, the fossa is struggling due to habitat loss. Only 10% of the original forest cover found on the island is left.",
+      "protection": "As the apex predator, fossas are quick, agile, and have sharp claws and teeth for biting and killing. There are laws to protect the fossa from further population loss, and ecotourism is slowly helping as well, since money is donated to their cause when people visit the island to see them.",
+      "interestingFacts":
+      [
+
+        "It was previously thought that fossas were nocturnal, since many scientists never saw many of them out during the day. It is now thought that there were just too few to observe, and that the animal will hunt during day or night, depending on its preference. They can travel up to 16 miles to find their next meal."
+      ,
+
+        "Fossas have scent glands that can release a stinky smell when they are frightened or irritated."
+
+      ],
+      "conservationStatus": "Vulnerable, as is it feasible that over the last 21 years (three generations) there has been a population reduction exceeding 30%, mainly due to habitat loss.",
+      "dietAtTheZoo": "Mice, chicks, and goat legs.",
+      "atTheRacineZoo": "1.0.0 1.0- Kirindy- DOB January 6, 2006"
+    },
+    {
+      "id": 27,
+      "name": "African Black Millipede",
+      "type" : "Arthropod",
+      "commonnames": "African millipede, giant millipede, African giant millipede, African giant black millipede",
+      "order": "Spirostreptida",
+      "family": "Spirostreptidae",
+      "latinname": "Archispirostreptus gigas",
+      "habitatAndRange": "African black millipedes are found in western African in tropical and sub-tropical forests.",
+      "description": "African millipedes are covered with a tough black cuticle. Like other millipedes and centipedes, its body is divided into many segments. Each of those segments has two pairs of legs. This distinguishes them from the centipede, which have only one pair of legs per segment. Although the name \"millipede\" means \"1,000 feet\", the adults of most species probably have only 200-300. Millipedes have a pair of antennae and mandibles (jaws) that resemble those of insects. They have two clusters of simple eyes, which probably only detect light and dark. Males and females look similar, but males have a pair of specialized legs on the seventh segment, used for transferring sperm. Millipedes breathe through spiracles located on the sides of their bodies.",
+      "adultSize": "The African millipede is one of the largest millipedes in the world and can reach 11 inches long and be about as thick as a human finger.",
+      "dietInTheWild": "Millipedes are detritivores and eat dead leaves, plants, algae, and mosses.",
+      "reproduction": "Adult millipedes attract mates by emitting pheromones. Some males rub their legs together (stridulation) to attract females. During breeding, males use a modified pair of legs to transfer sperm to the female. The female builds a chamber under the soil, using dung to form the walls, and lays her eggs (up to 2000) inside. The eggs will hatch in about three weeks. The juvenile millipedes are called neonates. They are white and have only a few body segments and three pairs of legs. The neonates go through many molts, adding segments and legs as they grow. Their color darkens gradually to black.",
+      "lifeSpan": "3-5 years in the wild, 7-10 years in the zoo",
+      "perils": "Predators consist of scorpions, lizards, frogs and birds.",
+      "protection": "For protection, a millipede will roll into a ball, and secret an odorous liquid from glands on their bodies that can cause red welts and sores.",
+      "interestingFacts":
+      [
+
+        "The African giant millipede is an arthropod. Arthropods comprise the largest phylum in the animal kingdom. A segmented body, segmented appendages, and an exoskeleton roughly distinguish them from other animals. Arthropods include crustaceans, insects, spiders, and their relatives, centipedes, and millipedes--and encompass more than a million species."
+
+      ,
+
+        "Decomposers, like bacteria, fungi, some insects, and millipedes, eat decaying animal and plant matter and turn it into inorganic matter. When the inorganic matter is excreted, it contains the nutrients necessary to keep the cycle moving."
+
+      ],
+      "conservationStatus": "Common",
+      "dietAtTheZoo": "fresh fruit"
+    },
+    {
+      "id": 28,
+      "name": "Masai Giraffe",
+      "type" : "Mammal",
+      "commonnames": "Giraffe",
+      "order": "Artiodactyla",
+      "family": "Giraffidae",
+      "latinname": "Giraffa tippelskirchi",
+      "images" : [
+        "MasaiGiraffe.png"
+      ],
+      "habitatAndRange": "They were formerly found throughout arid and dry savanna zones, south of the Sahara, wherever trees occurred. Although they were eliminated from most of the West African and southern Kalahari range, they are still reasonably common even outside wildlife preserves.  Masai giraffes are found in both savannas and open woodlands.",
+      "description": "They are the biggest ruminant and the tallest mammal. They have a very long neck with a short, upstanding mane, high shoulders sloping steeply to hindquarters, and long legs nearly equal in length. The head tapers to a point with a long, prehensile tongue. Giraffe’s horns, called ossicones, are made of skin covered, solid bone. Both sexes have ossicones, but the females’ are thin and tufted and the males’ are thick and bald on top. Their tail has a long tassel at the tip. Their color ranges from brown to rich chestnut (old males darker, even black), dissected into intricate tapestry by patches and blotches of lighter hair, forming an oak-leaf pattern. Each giraffe is different.",
+      "adultSize": "Males weigh between 2420-4250 pounds with a shoulder height of 9-11 feet. If you measure from the top of horns they can be as tall as 18 feet. Female Masai giraffes weigh between 1540-2600 pounds and are generally two feet shorter.",
+      "dietInTheWild": "They feed mainly on broad-leafed deciduous foliage in the rainy season and on evergreen species during other seasons. Their menu includes 100 species, but Acacia and Combretum trees are the mainstays in most areas.",
+      "reproduction": "Rainy seasons are the conception peak. Females become mature at 4 years of age. Males begin competing for mates at 7 years but continue growing, giving seniors a decided weight and height advantage. The male's head also gains weight with age, through a bone deposition process that creates the extra knobs on an old bull's head, enabling a bull to deliver ever-heavier blows during contests. Combat is rare because bulls from the same area know their place in the rank hierarchy, established through daily contests while maturing in bachelor herds. By the time a female in estrus is ready to mate, the local alpha male has usually supplanted all lesser rivals without ever coming to blows.",
+      "lifeSpan": "26 years in the wild, 36 years in captivity",
+      "perils": "From 50 to 75% of calves fall prey to lions and spotted hyenas the first months, despite hiding and the mother's determined defense.",
+      "protection": "As adults are too big to be regular prey, a mother will stand over and defend her calf against lions, which run the risk of being kicked to death by dinner plate sized hooves if they get within striking distance. Females never use their horns, and males only use theirs in contests with peers.",
+      "voice": "The idea that giraffes are mute is a myth. Though normally silent, calves bleat and make a mewing call, while cows seeking lost calves bellow, and courting bulls may emit a raucous cough. It has also been reported that giraffes can give alarm snorts, moaning, snoring, hissing, and flutelike sounds.",
+      "interestingFacts":
+      [
+
+        "Females spend just over half a 24 hour day browsing, males somewhat less (43%). Night is mostly spent lying down ruminating, especially hours after dark and before dawn. Bulls spend about 22% of the 24 hour period walking; compared to 13% for cows; the extra mileage goes into searching for cows in heat."
+
+      ,
+
+        "The giraffe is non-territorial and sociable, living in loose, open herds. At a given moment a giraffe may be in a herd composed of all males, all females, females and young, or of both sexes. There are no leaders and minimum coordination of herd movements. The fluid nature of giraffe society reflects the need to spend most of its time feeding and to move independently between variably spaced trees, and size that makes it unnecessary to bunch together for mutual security. Also height and excellent eyesight enable giraffes to maintain visual contact at long distances; a dozen may be dispersed over 1/2 mile of savanna and still be in a herd. In fact, giraffes rarely cluster together unless they happen to be attracted to the same tree, are nervous over the presence of lions, or aggregated in the open. Even at rest, herd members stay over 20 yards apart. As usual, females are more sociable than males and rarely out of sight of other females. Mothers of small calves associate most consistently, at least partly because of a mutual attraction between youngsters that result in groups of up to 9 calves. Average spacing between calves is usually less than 10yards. Males remain in maternal herds until they outgrow their resemblance to females at about 3 years, after which they join bachelor herds. They eventually leave their natal range, whereas females stay put. Home ranges of adults and subadults of the two sexes average 63 miles. Once settled, bulls have smaller ranges than cows."
+
+      ,
+
+        "A giraffe has just 2 gaits walk and gallop. The long legs and short trunk decree an ambling walk, with the entire weight supported alternately on left and right legs, as in camels. The long neck moves in synchrony to maintain balance. In galloping (top speed 37 mph), forelegs and hind legs work in pairs like a running rabbits. To drink, a giraffe must either straddle or bend its forelegs. The same is true of the okapi (the only known living relative of the giraffe), disproving the idea that the giraffe's extra long neck and legs are the reason."
+
+      ],
+      "ecology": "They are equipped to exploit a 6-foot band of foliage beyond reach of all other terrestrial browsers except the elephant. The 18-inch tongue and a modified atlas-axis joint lets the head extend vertically further to increase the height advantage. They have a narrow muzzle and flexible upper lip, along with the prehensile tongue, which enables this animal to harvest the most nutritious leaves in the quantity necessary to sustain its great bulk, approximately 75 pounds per day. Giraffes drink every 2 to 3 days when water is available, but they also extract water from green leaves.",
+      "conservationStatus": "Least concern, but a preliminary population analysis suggests that the total population could have declined. If this is substantiated, it could warrant a listing in a higher category of threat.",
+      "dietAtTheZoo": "timothy and alfalfa supplemented with fruits and vegetables",
+      "atTheRacineZoo": "2.0.0 M- Bo- DOB July 26, 2004; M- Mac- DOB Aug 11, 2005"
+    },
+    {
+      "id": 29,
+      "name": "Green Tree Python",
+      "type" : "Reptile",
+      "commonnames": "green python, Papuan tree python",
+      "order": "Squamata",
+      "family": "Boidae",
+      "latinname": "Morelia viridis",
+      "images" : [
+        "GreenTreePython.png"
+      ],
+      "habitatAndRange": "They are native to New Guinea, Indonesia, and the northern part of Australia. They live in the treetops of tropical rainforests.",
+      "description": "They are generally green, but also may be partially yellow or blue. They have a slender body, with a diamond-shaped head.",
+      "adultSize": "On average they grow to be 160-180 cm, but they can reach up to 220 cm in length.",
+      "dietInTheWild": "They eat tree lizards, birds, small mammals, and any other vertebrates that live in the trees.",
+      "reproduction": "Females lay 6-30 eggs in a tree hole. The mother will shiver around the eggs to incubate them, and she also keeps watch to protect them. After an average of 50 days, the young hatch from their eggs. They are able to survive on their own after hatching.",
+      "lifeSpan": "They can live up to 55 years old in captivity.",
+      "perils": "Young are often hunted by birds of prey.",
+      "protection": "The green body and speckled blue and yellow help camouflage the snake from anything trying to harm it, or from prey trying to hide from it.",
+      "interestingFacts":
+      [
+
+        "They lure their prey by sitting in the trees and wiggling their tail. Interested animals will come close to the tail, and the python will strike and get its next meal."
+
+      ,
+
+        "Baby pythons do not resemble their parents in coloration, but have bright yellow or red coloration. This is thought to be an adaptive characteristic, since the flowers in the trees where they are born are often bright reds and yellows. This may serve as camouflage to protect the babies from predators."
+
+      ,
+
+        "Green tree pythons are able to use their tail to help them hold on to the tree branches. This allows better maneuverability in the tree-tops."
+
+      ,
+
+        "They are also an excellent example of parallel evolution. They look and act very similarly to the green tree boa, but the tree boas give birth to live young, and the pythons do not."
+
+      ],
+      "conservationStatus": "Least concern owning to its large distribution. Although localized threats exist due to high harvesting levels for the pet trade, the impact this is having on allopatric populations is unknown.",
+      "dietAtTheZoo": "mice.",
+      "atTheRacineZoo": "2.0.0; 1.0.0- Laurel- DOB April 30, 2006; 1.0.0- Hardy- DOB March 30, 2007"
+    },
+    {
+      "id": 30,
+      "name": "Guam Rail",
+      "type" : "Bird",
+      "commonnames": null,
+      "order": "Gruiformes",
+      "family": "Rallidae",
+      "latinname": "Gallirallus owstoni",
+      "images" : [
+        "GuamRail.png"
+      ],
+      "habitatAndRange": "They live in forests, woodland, scrub, grassland, and agricultural areas. They used to live on Guam and Mariana Island; however, they have been reintroduced to Rota, northern Mariana Island, and Guam.",
+      "description": "They are almost flightless. Their upper body is olive-brown, the fore neck to breast is gray, and their under parts and remiges are black and white. The youth are less gray, and the chicks are covered with black down.",
+      "adultSize": "11 inches tall, and 6-10.7 ounces.",
+      "dietInTheWild": "Guam Rails are opportunistic omnivores, eating mollusks, insects, geckos, seeds, fish, and carrion. They often forage at the edge of fields and roads",
+      "reproduction": "They are monogamous and will breed all year long. Their nests are found in dense grass, and they lay 1-4 eggs at a time. The color of the egg is a white to pink color, with small pink or blue spots near the large end of the egg. There is an incubation period of 19 days, and the young are sexually mature at 16 weeks.",
+      "lifeSpan": "lifeSpan in the wild is unknown.",
+      "perils": "Boigas, brown tree snakes, are one of the bird’s main predators. The snake was introduced to Guam, their population growing very rapidly due to the absence of a natural predator.",
+      "protection": "Prior to the Boigas’ arrival, there were no snakes on Guam, so the Rail like other native animals there, had developed no natural defenses against this predator. Many had lost the ability to fly.",
+      "voice": "They make a loud, screeching kee-yu noise and a short series of kip notes.",
+      "interestingFacts":
+      [
+
+        "The bird is virtually flightless. They can only fly about 3 to 10 feet at a time. However, they can swim, dive, and sink using their strong leg muscles. They are also extremely good at walking through the forest silently, useful when trying to avoid a Boiga snake."
+
+      ],
+      "ecology": "Due to extensive hunting by Boigas, Guam rails became extinct in the wild, but the few that were left were put into breeding programs within the US and Guam. Humans have reintroduced them to Guam and an island north of Guam that is almost predator free. Humans have attempted to capture many snakes that are predators for the birds on Guam.",
+      "conservationStatus": "Extinct in the wild. When an animal is extinct in the wild it is known only to survive in cultivation, in captivity or as a naturalized population (or populations) well outside the past range.",
+      "dietAtTheZoo": "Capelin, mouse pinkies, hard boiled egg, Mazuri soft bill diet.",
+      "atTheRacineZoo": "1.1.0"
+    },
+    {
+      "id": 31,
+      "name": "Hartmann’s Mountain Zebra",
+      "type" : "Mammal",
+      "commonnames": "Hartmann’s Mountain Zebra, Mountain Zebra",
+      "order": "Perissodactyla",
+      "family": "Equidae",
+      "latinname": "Equus zebra hartmannae",
+      "habitatAndRange": "They are found in hot, rocky habitats as high as 6000 feet above sea level. Only small pockets remain in the mountains of Namibia and South Africa",
+      "description": "Smaller than other species of zebra, Hartmann’s Mountain Zebras have a stocky build with a white body and deep brown stripes. They have hard, pointed hooves that help them climb through their rocky mountainous habitat.",
+      "adultSize": "Adults can get to 2.1 m (8 ft. 6 in.) long and weight up to 372 kg (820 lbs).",
+      "dietInTheWild": "Hartmann’s Mountain Zebras are herbivorous, feeding primarily on grass but also occasionally on leaves.",
+      "reproduction": "One adult male Hartmann’s Mountain Zebra will form a small breeding herd with up to five female and their young, and these herds will often remain stable over many years. These zebras are iteroparous, meaning births happen throughout the year. They have a gestation period of about one year, and independence at one year of age.",
+      "lifeSpan": "Hartmann’s Mountain Zebras live to 20 years in the wild, but can live up to 30 years in zoos.",
+      "interestingFacts":
+      [
+
+        "When zebras can’t find water, they use their hooves and snout to dig for water underground."
+
+      ,
+
+        "Zebra stripes are like fingerprints-no two are exactly the same and they can be used to identify individuals."
+
+      ],
+      "conservationStatus": "Vulnerable",
+      "dietAtTheZoo": "Primarily grains"
+    },
+    {
+      "id": 32,
+      "name": "Kenyan Sand Boa",
+      "type" : "Reptile",
+      "commonnames": "East African sand boa",
+      "order": "Squamata",
+      "family": "Boidae",
+      "latinname": "Gonglyophis colubrinus",
+      "images" : [
+        "KenyanSandBoa.png"
+      ],
+      "habitatAndRange": "Eastern coast of North Africa, from Egypt to Kenya.  Sand boas prefer an arid desert and semi-desert, where the soil is sandy enough for the snake to burrow. These snakes are often found in farmer’s fields.",
+      "description": "The Kenyan sand boa is a heavy-bodied constrictor reaching up to three feet in length.  Color ranges from tan and yellow (Egyptian population) to brown and orange (Sudan/ Ethiopia/ Somalia). Males are smaller than females.",
+      "behavior": "Little is known about their habits in the wild due to their small size, nocturnal behavior, and underground lifestyles, making them difficult to observe.  Captive specimens breed in June or July in the Northern hemisphere and bear 6-20 live young.",
+      "dietInTheWild": "Kenyan sand boas mainly feed on eggs, large insects (locusts, grasshoppers, etc.), lizards, and occasionally small mammals (mice, etc.).",
+      "reproduction": "Like most boas, Kenyan sand boas give birth to live young (they are ovoviviparous). Females typically bear 12 to 20 babies, but may bear as many as 32. The young are independent from birth.",
+      "lifeSpan": "Unknown in the wild. Captive specimens may live 20 years or more.",
+      "interestingFacts":
+      [
+
+        "Unlike many snakes, Kenyan sand boas give birth to live young instead of laying eggs. (In this reproductive mode, called “ovovivipary,” eggs are incubated within the female’s body. The young hatch inside the female, and are immediately released into the outside world.)"
+
+      ],
+      "conservationStatus": "Too little data exists on wild populations to determine conservationStatus. This species is well established and widely bred in captivity.",
+      "zooDiet": "mice",
+      "atTheRacineZoo": "0.1.0 F- Fossil- DOB July 15, 1997"
+    },
+    {
+      "id": 33,
+      "name": "Leopard Gecko",
+      "type" : "Reptile",
+      "commonNames": "Leopard Gecko",
+      "latinName": "Eublepharis macularius",
+      "habitatAndRange": "Leopard Geckos can be found in the rocky, dry grasslands and deserts of Asia throughout southern Afghanistan, Pakistan, north-west India and parts of Iran. ",
+      "adultSize": "Adult geckos are about 20.5 to 27.5 cm (8.1 to 10.9 inches) in length and weigh about 45 to 65 grams.",
+      "dietInTheWild": "Leopard geckos feed on live crickets, wax worms, mealworms, super worms, and other insects. When food is scarce in the desert, they can rely on their ability to store excess fat in their tails.",
+      "reproduction": "They are also known to have temperature-dependent sex determination (TSD). Research shows that more females can be produced in predominantly cool temperatures (about 26–30 °C (79–86 °F)) and very warm temperatures (about 34–35 °C (93–95 °F). It was recorded that males can be produced at the intermediate temperatures (about 31–33 °C (88–91 °F)). Leopard geckos will breed typically in the summer. Females can store sperm over the course of their breeding season, so they can produce up to 3 clutches from one or two copulations, therefore, the male is not needed for reproductive success after the first or second copulation. She can lay about 6 to 8 clutches, which consists of two eggs in each clutch. They will normally lay two eggs approximately 21 to 28 days after mating. After 45 to 60 days, droplets of moisture will appear on the shell and the shell will begin to shrink and partially collapse. These are indications that the eggs will hatch. Baby leopard geckos will have an “egg tooth,” a calcareous tip at the end of its snout to help break their egg shell. Their “egg tooth” will fall off within one to two days.",
+      "lifeSpan": "Can live up to 30 years in captivity. 15-20 years as average pets.",
+      "perils": "Leopard geckos have predators, such as snakes, frogs, or foxes and other large reptiles.",
+      "protection": "Their keen sense of hearing and sight help them escape from them during the night. Their skin helps camouflage themselves from their predators. Their sense of taste and smell also helps them with survival. The shedding of their skin also removes any scent markers left behind for potential predators to discover. When they feel threatened, startled, or scared, leopard geckos hiss to ward off predators. Also, they stay in underground holes and burrows during the daytime, not only avoid the heat, but to also avoid the risk of getting eaten. Leopard geckos also have the ability to voluntarily detach their tails if it is attacked, grabbed by the tail, bitten during copulation, or nipped by another during feeding. This is called caudal autotomy.",
+      "interestingFacts":
+      [
+
+        "Leopard geckos are ectothermic. They absorb warmth and energy during the day as they are sleeping, so they can hunt and digest food at night. In addition, they have short legs, which enable them to be quick and agile while their small nails allow them to climb twigs and rocks. Leopard geckos have openings on either side of their head as ears. A tympanic membrane covers and protects it. They use their ears to locate their prey. Healthy leopard geckos have thick, fleshy tails that can regenerate."
+
+      ],
+      "conservationStatus": "Very Common, threatened mainly by human encroachment",
+      "dietAtTheZoo": "Crickets, reptile pellets",
+      "atTheRacineZoo": "M-Cheese DOB"
+    },
+    {
+      "id": 34,
+      "name": "Lesser Adjutant Stork",
+      "type" : "Bird",
+      "commonNames": "Lesser Adjutant Stork",
+      "order": "Ciconiiformes",
+      "family": "Ciconiidae",
+      "latinName": "Leptoptilos javanicus",
+      "images" : [
+        "LesserStork.png"
+      ],
+      "habitatAndRange": "The Lesser Adjutant Stork has an extensive range spanning across southeast Asia. They live in forested wetland and mangrove forests, and require both trees in which to build their nests as well as wetlands for foraging. They have been extirpated from many areas throughout their range due to unregulated harvesting of their eggs as well as loss of habitat.",
+      "description": "A large stork with a dark grey back and a white underbelly. They have a featherless head and neck. Their head and neck tend to be a yellowish color with a pale forehead and red tinged cheeks, but breeding males may exhibit a stronger reddish tint to the sides of the head. They have long beaks well adapted to foraging in wetlands.",
+      "adultSize": "Lesser Adjutant Storks reach just over four feet tall on average with a wing span of just over two feet.",
+      "dietInTheWild": "As foragers, Lesser Adjutant Stork will eat just about any kind of animal, dead or alive. Living prey includes insects, frogs, rodents, and reptile and bird eggs and hatchlings.",
+      "reproduction": " Lesser Adjutant Stork nest in colonies in the trees, but for the most part tend to live a more solitary life than other storks, with fewer than 20 nests per colony and living alone outside of breeding season. Prime colony locations are relatively free of disturbance, near marshy habitat, and reasonably close to good food sources. Platform nests built in trees will house two to four white eggs that hatch in 28-30 days. Males and females will work together to raise chicks.",
+      "interestingFacts":
+      [
+
+        "When choosing mates, Lesser Adjutant Storks will clatter their bills at each other as part of their mating ritual."
+
+      ],
+      "conservationStatus": "Vulnerable with population decreasing",
+      "dietAtTheZoo": "fish, meat, and chicks"
+    },
+    {
+      "id": 35,
+      "name": "Lesser Hedgehog Tenrec",
+      "type" : "Mammal",
+      "commonNames": "Lesser Hedgehog Tenrec, Lesser Tenrec, Lesser Madagascar Hedgehog Tenrec",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "latinName": "Echinops telfairi",
+      "habitatAndRange": "Found in dry forests and grasslands through southern Madagascar.",
+      "description": "Lesser Hedgehog Tenrecs look very similar to hedgehogs, with a fuzzy pale underbelly and a back covered in course brown spines. They are much smaller than hedgehogs, with a more elongated snout.",
+      "adultSize": "Adult Lesser Hedgehog Tenrecs will only reach about seven inches in length.",
+      "dietInTheWild": "Lesser Hedgehog Tenrecs are insectivores, hunting at night using their phenomenal senses of smell and hearing.",
+      "reproduction": "Female tenrecs have a short gestation period of only 49 days and will give birth to anywhere from one to ten young. Offspring will spend the first month of their life with their mother before becoming independent.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "Despite their similar appearance to hedgehogs, the Lesser Hedgehog Tenrec is not related to hedgehogs at all! Its closest relatives are the golden moles, but it is actually found in a group called Afrotheria that contains tenrecs, elephants, aardvarks, dewgongs, hyrax, elephants and manatees."
+
+      ],
+      "conservationStatus": "Least concern",
+      "dietAtTheZoo": "Specially formulated pellets and live insects"
+    },
+    {
+      "id": 36,
+      "name": "Llama",
+      "type" : "Mammal",
+      "commonNames": "Llama",
+      "order": "Artiodactyla",
+      "family": "Camelidae",
+      "latinName": "Lama glama",
+      "images" : [
+        "Llama.png"
+      ],
+      "habitatAndRange": "Llamas have a native range all along the Andes Mountains, especially the Altiplano of southeast Peru and western Bolivia. In the Altiplano region, the northern reaches are reasonably temperate and mountainous, whereas the south is drier, desert-like and inhospitable. They can be found commercially throughout North America, Europe and Australia. Llamas live in high arid environments formed by grasses no greater than 4,000 meters above sea level. The high regions are covered with low growth, including various shrubs stunted trees and grasses. Llamas tend to live in very dry climates and get most of the moisture from their food",
+      "description": "Llamas have long necks, limbs, rounded muzzles, protruding lower incisors, and a cleft upper lip. They have long shaggy pelage which varies greatly in color. A common coat pattern is reddish brown fur with mottled patches of white or yellow.",
+      "adultSize": "Average height: 5-6 feet and weigh between 280- 450 lbs.",
+      "dietInTheWild": "Llamas eat halophyte plants including shrubs and grasses. Llamas also eat low shrubs, lichens, and mountain vegetation. Camelids consume about 2 to 3 gallons of water, and 1.8% of their body weight in dry food (grass, hay) per day.",
+      "reproduction": "Females become fertile within 2-3 years old. Males can copulate with up to 30 females. Gestation period is 11 months. Copulation is done in a kush, lying down, position.",
+      "lifeSpan": "Average domesticated life is 15 years old. Some llamas may get up to 20 years old.",
+      "interestingFacts":
+      [
+
+        "Since the llama has been domesticated, the conservation status is unknown. Llamas have an unusually high content of hemoglobin in their bloodstream, which is an adaptation for surviving in an oxygen-poor, high altitude environment. Lamas have distinctive teeth. Adult llamas retain only one upper incisor, and the lower incisors clip vegetation against hardened gums."
+
+      ],
+      "ecology": "Llama is an important source of meat; it is either consumed fresh or salted and made into jerky (chaqui). Their fiber is used to manufacture roped and packing bags. Their skin is used for leather goods and their bones make instruments for lumes.",
+      "conservationStatus": "Common",
+      "dietAtTheZoo": "Flakes of hay"
+    },
+    {
+      "id": 37,
+      "name": "Madagascar Hissing Cockroach",
+      "type" : "Arthropod",
+      "order": "Blattodea",
+      "family": "Blaberidae",
+      "latinName": "Gromphadorhina portentosa",
+      "habitatAndRange": "The Madagascar hissing cockroach is native to the island of Madagascar, located off the coast of Africa. It is found living in large colonies among the underbrush on forest floors.",
+      "description": "The Madagascar hissing cockroach is brown, with orange markings on its abdomen. It has small holes (spiracles) for breathing, along its back. When fully grown, the male and female cockroaches look different. The male grows two humps on the front of its body for use in ramming other males when establishing or defending its territory.",
+      "adultSize": "2-3 inches",
+      "dietInTheWild": "rotting vegetation",
+      "reproduction": "Cockroach mating can occur year-round, but only if the climate is warm. When a female is ready to mate, she emits a special scent to attract males. The female lays her fertilized eggs in a long yellowish egg case called an ootheca. The ootheca will be kept inside the body for at least 6 months. Once the time arrives, the mother will have 15-40 cockroach babies called nymphs. Nymphs are flat and ¼ to ½ inch long. They stay with their mother for about 6 months after hatching. Nymphs will molt six times in six months before becoming a sexually mature adult.",
+      "lifeSpan": "They typically live 1-2 years.",
+      "perils": "Birds, mammals, reptiles, amphibians and even other insects will eat the giant cockroach. Not only does the hissing cockroach have to watch out for these predators, but it also has to deal with a parasite that feeds on its body called a cockroach mite.",
+      "protection": "The hissing cockroach forces air out quickly from the spiracle and makes a hissing sound similar to a snake.",
+      "voice": "The cockroach makes a hissing sound when threatened or to establish dominance between males.",
+      "interestingFacts":
+      [
+
+        "The cockroach is nocturnal and generally active at night. Cockroaches are able to withstand much higher doses of radiation than humans because their cells only divide when they molt. Cell division is the stage when cells are most vulnerable to the damage from ionizing radiation. Compared to other insects, such as fruit flies, their radiation tolerance is not particularly remarkable. They can survive up to a week after losing their head, but will die from dehydration."
+
+      ],
+      "ecology": "Most cockroaches are thought of as a pest; however, they are extremely important in cleaning dead, rotting organisms from the forest floor. They are a major consumer of the rotting vegetation that is found all around the rainforest. Without them, a large amount of the nutrients would not cycle back into the ground.",
+      "conservationStatus": "They are not listed on the IUCN redlist.",
+      "dietAtTheZoo": "fresh fruit",
+      "atTheRacineZoo": "Population Varies"
+    },
+    {
+      "id": 38,
+      "name": "Marine Toad",
+      "type" : "Amphibian",
+      "commonNames": "cane toad, giant neotropical toad, giant toad",
+      "order": "Anura",
+      "family": "Bufonidae",
+      "latinName": "Bufo marinus",
+      "images" : [
+        "MarineToad.png"
+      ],
+      "habitatAndRange": "The marine toad is indigenous to North and South America, ranging from the Rio Grande Valley in southern Texas to the central Amazon and south-eastern Peru. This range includes both tropical and semi-arid environments. ",
+      "description": "The skin of the marine toad is dry and warty. It has distinct ridges above the eyes, which run down the snout. Marine toads can be grey, brown, red-brown or olive in color, with varying patterns. A large, parotid gland lies behind each eye. The ventral surface is creamy and may have blotches in shades of black or brown. The pupils are horizontal and the irises golden. The toes have fleshy webbing at their base, and the fingers are free of webbing. ",
+      "adultSize": "The marine toad ranges in size from 4-6 inches, and the females are larger then the males.",
+      "dietInTheWild": " Most frogs identify prey by their movements, but toads can also locate food using their sense of smell. Therefore, they are not limited to living prey and can eat plants and carrion, along with the normal frog prey of small vertebrates and a range of invertebrates. They are active primarily at night and can range far from water.",
+      "reproduction": " Breeding occurs from early spring to autumn, usually during or immediately after the rain. Typically eggs are laid in temporary pools or roadside ditches in two strings that float at the surface or are wrapped around submerged objects. Marine toads can lay eggs in waters of low to moderate salinity. Estimates for egg production by a female in a single breeding season vary from 10,000 to 32,000. Eggs hatch in approximately three days. Tadpoles metamorphose in 45-55 days.",
+      "lifeSpan": "10-15 years in the wild and 20 years in captivity",
+      "perils": "Many species prey on the marine toad; broad-snouted caiman, the banded cat-eyed snake, the eel, various species of killifish, the jungle perch, some species of catfish and some species of ibis.",
+      "protection": "The marine toad secrets toxins that are poisonous to animals that may come in contact with the toad. Young do not secrete effective amounts of the poison and often do not reach adulthood. ",
+      "interestingFacts":
+      [
+
+        "Adult marine toads possess enlarged parotoid glands behind the eyes and other glands across the back. When threatened, the marine toad secretes a milky-white fluid known as bufotoxin from these glands. Bufotoxin contains components that are toxic to many animals. There are many reported deaths of animals, and even reported deaths of humans, after consumption of marine toads. A marine toad is capable of inflating its lungs, puffing up and lifting its body off the ground to appear taller and larger to a predator."
+      ,
+
+        "Marine Toads have been introduced all over the world to control pest populations and are now considered to be the pests. They are invasive in many of these countries."
+
+      ],
+      "conservationStatus": "of least concern. The species is considered an ecological threat, but it has not been given top priority in the areas that are most susceptible at the moment. Australia is one of the places where the marine toads are beginning to present a threat to the biodiversity of the natural wildlife; however, the toads have not been found to quickly decrease biodiversity, and therefore are not a priority.",
+      "dietAtTheZoo": "24 crickets 3 times a week, a pinky mouse once a week, 6 wax worms once a week.",
+      "atTheRacineZoo": "M- Kermit- DOB Jan 1, 2008"
+    },
+    {
+      "id": 39,
+      "name": "Meerkat",
+      "type" : "Mammal",
+      "commonNames": "Meerkat",
+      "order": "Carnivora",
+      "family": "Herpestidae (mongooses)",
+      "latinName": "Suricata suricatta",
+      "habitatAndRange": "The range is across southern Africa, including the Namib Desert and the countries of Angola, Namibia, and Southern Botswana. Meerkat habitat includes desert and semi-desert. meerkats are also found in other dry open areas, grasslands, scrub, and rangeland.",
+      "description": "The meerkat body length is 10-17 inches with a tail length of 6-11 inches. Weight can range from 2-5 pounds. Their coloring is pale brown on the underside and face and silver-brown on upperparts. There are dark rings around the eyes and on the tip of the tail and 8 dark bands on the far back. Meerkats have a long body with a rounded belly and long hind legs. The front feet have heavy, long powerful claws for digging burrows and foraging. Meerkats are diurnal and very social.",
+      "adultSize": "Meerkats weigh around 2 pounds. The tail adds 17.5-25 cm to the total length of the animal.",
+      "dietInTheWild": "Meerkats often forage by digging and turning over rocks and logs. They are cooperative foragers with a varied diet, which helps them to survive when food is scarce. Their diet consists of insects, spiders, small mammals and reptiles, eggs, roots and bulbs. Insects make up the bulk of the diet. Foraging is done near the burrow, but groups may travel up to 6 km on their home range using different burrows as shelter when food is hard to find.",
+      "reproduction": "Births occur in warm wet seasons, after a gestation of about 11 weeks. Two to five young are born in a grass-lined nursery chamber in the burrow. There is one litter per year. Young are weaned at 7-9 weeks and reach sexual maturity at one year. Meerkats share parental duties, one adult usually stays near the burrow to guard young (even when not their own) while the others forage.",
+      "lifeSpan": "In captivity, meerkats can live up to 12 years.",
+      "perils": "Their main predators are raptors, big cats, and other large carnivores.",
+      "protection": "Meerkat groups always have one or more “sentries” that stand guard near the burrow. The sentries stand on good vantage points, like mounds, rocks, or bushes, and look for danger, especially aerial predators. Cheeps or clucks are given as warning signals. Sharp barks or growls denote urgent danger and send all members diving for the safety of the burrow.",
+      "voice": "There are at least 10 different vocalizations ranging from threatening growls to short alarm barks.",
+      "interestingFacts":
+      [
+
+        "Meerkats live in social units called groups or troops. These units may contain up to 30 members. More commonly, the groups are made up of 2-3 family units and average 10-15 individuals. One family unit consists of a pair of adults and their young. Females are usually larger and dominant over the males. Groups mark their burrows and territory with feces and secretions from the anal glands. Outsiders are repulsed and encounters between groups are highly antagonistic. During breeding seasons, however, there is recruitment of new members, and males or females may change groups."
+
+      ,
+
+        "Meerkats live in a system of burrows. Burrows are either excavated new or made by enlarging the burrows of ground squirrels. Excavated burrows are usually 5 m in diameter, containing 2-3 levels up to 1.5 m deep. There are approximately 15 entrance/exit holes. A group’s home range may contain up to 5 different burrows."
+
+      ,
+
+        "In the morning meerkats like to sunbathe and groom. They seem to enjoy basking in the sun. Meerkats are sensitive to cold. Because they tame readily and are affectionate, meerkats are often kept as pets in South African homes. They are kept for the same reason as house cats—to kill mice and rats around the home."
+
+      ],
+      "conservationStatus": "not threatened",
+      "dietAtTheZoo": "Feline diet, fruit/starch, veggies, adult light cat food",
+      "atTheRacineZoo": "M- Terra- DOB April 3, 2008; M- Aero- DOB April 3, 2008; M- Blaze- DOB April 3, 2008; M- Hydro- DOB April 3, 2008; M- Jack- DOB Sept. 2, 2008"
+    },
+    {
+      "id": 40,
+      "name": "Mexican Red-Kneed Tarantula",
+      "type" : "Arthropod",
+      "order": "Araneae",
+      "family": "Theraphosidae",
+      "latinName": "Brachypelma smithi",
+      "habitatAndRange": "They are found along the Pacific coast of Mexico and in South America. They live in scrublands and deserts, making their homes in burrows lined with their silk.",
+      "description": "They are black with bright red knees. Their bodies are covered in tiny hairs, and they have eight legs.",
+      "adultSize": "On average, they grow to be 5 inches, and weigh .06-.19 lbs.",
+      "dietInTheWild": "They eat frogs, small birds, other insects, and mice.",
+      "reproduction": "Between July and September, the females lay between 400 and 1000 eggs. The females are capable of mating at 2 years old. Unfortunately for the males, the females generally will eat them after mating. The eggs are laid in a silk cocoon, and the baby spiders will hatch 6 to 8 weeks later.",
+      "lifeSpan": "The red-kneed tarantula can live from 10-25 years.",
+      "perils": "They are preyed upon by lizards, snakes, spider-eating birds, and wasps. The pet trade is another cause for concern, since many are taken out of the wild to stay in human homes. ",
+      "protection": "They are able to rub their back legs together to loosen hair. This falls into the predators eyes, causing irritation. They are also capable of releasing venom, through their hollow fangs.",
+      "interestingFacts":
+      [
+
+        "They have palps on the ends of their legs that help them sense the environment around them. They also use sensory hairs to feel around at nighttime. Although they have eight eyes that allow them to see both behind and in front of them, their eyesight is not very good. They are nocturnal."
+
+      ,
+
+        "The tarantula cannot digest its food, but must inject its prey with venom, killing the prey and then dissolving the insides. This allows the tarantula to suck out the now dissolved nutrients without having to use inside digestion."
+
+      ],
+      "conservationStatus": "Lower risk/near threatening (due to pet trade), will potentially move further up in priority if pet trade continues unchecked. ",
+      "dietAtTheZoo": "pinky mice.",
+      "atTheRacineZoo": "U- Thor- DOB Unknown"
+    },
+    {
+      "id": 41,
+      "name": "New Caledonia Giant Gecko",
+      "type" : "Reptile",
+      "commonNames": "New Caledonian Giant Gecko, Leach’s giant gecko",
+      "order": "Squamata",
+      "family": "Gekkonidae",
+      "latinName": "Rhacodactylus leachianus",
+      "habitatAndRange": "New Caledonian Giant Geckos are endemic to the Caledonian islands off the east coast of Australia.",
+      "description": "New Caledonian Giant Geckos have a wider body than some other gecko species, and have wide variation in color between individuals, from greens to grays and browns.",
+      "adultSize": "Growing to over a foot, these are the largest living geckos in the world.",
+      "dietInTheWild": "New Caledonian Giant Geckos are largely insectivorous, but will also eat small vertebrates, fruit, and nectar.",
+      "reproduction": "New Caledonian Giant Geckos lay eggs like most reptiles. Females will lay only a couple eggs in each nest, but can lay up to 10 separate clutches in a year.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "All New Caledonian Giant Geckos are arboreal, but while males tend to stay near tree trunks and lower branches, females live high up in the canopy."
+
+      ],
+      "conservationStatus": "Least concern",
+      "dietAtTheZoo": "A variety of insects, supplemented with plants"
+    },
+    {
+      "id": 42,
+      "name": "Orangutan",
+      "type" : "Mammal",
+      "commonNames": "Red Ape, old man of the forest",
+      "order": "Primates",
+      "family": "Pongidae",
+      "latinName": "Pongo pygmaeus",
+      "images" : [
+        "Orangutan.png"
+      ],
+      "habitatAndRange": "Orangutans are found only in the islands of Sumatra and Borneo. They are forest dwellers that are usually found in lowland swamps but can range from elevations up to 1500 meters. ",
+      "description": "The hairy coat is rather thin and shaggy. The color is dark rufous or reddish brown. The forehead is high and the snout bulging. The skull profile is more sloping than that of the gorilla. Cheek pads are present in adults. These represent localized deposits of subcutaneous fat, bound by connective tissue, and covered by unmodified skin with scanty and irregular hairs. The mouth protrudes, and the lips are thin. The small ears have no hair. The legs are short and relatively weak, but the hands and arms are powerful.",
+      "adultSize": "The head- body length is generally 31-38 inches, with a height of 45-54 inches. Females average 88-110 lbs, while males average 130-200 lbs.",
+      "dietInTheWild": "They eat mainly fruit, especially that of the durian. They have seasonal movements that correspond with the ripening of these fruits. They will also feed on leaves, seeds, bark, eggs, and young birds.",
+      "reproduction": "Copulation is performed with the male and female facing each other, hanging by the arms from a tree branch. Gestation can take anywhere from 233 to 263 days, and typically one offspring is born, although twinning sometimes occurs. Newborn infants weigh around 1.5 kg. Babies nurse every 3 to 4 hours, and begin to take soft food from their mothers' lips at 4 months. A young orangutan clings to its mother's abdomen by entwining its fingers in her fur, until it is a year old. Then, it begins to ride on her back, which it may continue to do until 2.5 years of age. An infant will scream loudly if separated from its mother. The young are not weaned until they are 3 1/2 years old. The interbirth interval is about 4 years, but can be much longer if conditions are poor. Sexual maturity is achieved at 7 years, by which time, females have attained their adult size. Males continue to grow until they are 10 years old, and they do not have the physical and social maturity required for successful mating until about 14 years of age.",
+      "lifeSpan": "In the wild, orangutans will live up to 27 years; however, in captivity they can live 30 to 40 years.",
+      "perils": "Their main perils are habitat loss and poaching by man.",
+      "protection": "Orangutans are great climbers and can disappear into the canopy of the forest. They are also incredibly strong.",
+      "voice": "Orangutans have a vocal repertoire of about 13 sounds. Within a small social group, they communicate with lip smacking. They scream when scared, and males sometimes roar. They seem to grind their teeth when frustrated. Males also emit a long series of loud groans, which can be heard by a human up to 1 kilometer away. This vocalization may serve to space males apart.",
+      "interestingFacts":
+      [
+
+        "Among the primates, orangutans are the second largest only to gorillas. A pair of orangutans that were in captivity for 48 and 49 years were estimated to be 58 and 59 years old when they died, which is the longest known longevity of any nonhuman primate. They have the same number of teeth as humans. They are also highly intelligent, using branches and leaves as tools. They will test the depth of water using branches, or chew up a leaf to utilize it as a sponge."
+
+      ],
+      "Folklore": "Orangutans were called “old man of the forest” by the natives, and were often accused of abducting young, pretty girls from local villages.",
+      "ecology": "They have greatly reduced in number over the past century. Orangutans are important seed dispersers for many species of tropical fruit trees. Increasingly, they also economically benefit Sumatra and Borneo by attracting eco-tourism.",
+      "conservationStatus": "Endangered",
+      "dietAtTheZoo": "fruit, vegetables, romaine lettuce, monkey chow, and yogurt",
+      "atTheRacineZoo": "M- Max- DOB May 6, 1986; F- Jenny- DOB May 15, 1985"
+    },
+    {
+      "id": 43,
+      "name": "Ornate Box Turtle",
+      "type" : "Reptile",
+      "commonNames": "Ornate Box Turtle",
+      "order": "Testudines",
+      "family": "Emydidae",
+      "latinName": "Terrapene ornata",
+      "images" : [
+        "OrnateBoxTurtle.png"
+      ],
+      "habitatAndRange": "They are found in Indiana to southeastern Wyoming, south through Texas and into the coastal prairies of Louisiana. In Wisconsin, this species is limited to the southwestern part of the state, primarily in areas where broad deep sand deposits have settled out within the original Wisconsin River floodplain. In Wisconsin, ornate box turtles are strictly associated with sandy soils, dry prairies and oak savannahs. They prefer southern and western exposures, where temperatures are higher and soils are drier. This species requires deep sandy soil to burrow into for hibernation in winter. Ornates will use oak savannahs and edges of oak woods in the summer to avoid excessively warm temperatures.",
+      "description": "Although in the same family as the huge Galapagos tortoise, the ornate box turtle has a hand painted look about it, thus the name. Conspicuous yellow dashes crest its dark brown or black carapace (upper shell) and radiate from the center of each shell segment down the sides, like fine brush strokes. The ornate’s plastron (lower shell) is brown with radiating yellow lines, a characteristic that distinguishes ornates from all other box turtles. Adult males typically have a more solid colored head that can vary from slate blue to dark green to gold, and they have bright red eyes. The foreleg scales are often colored bright red, yellow, or orange. The males are equipped with a sharply curved first claw on their hind feet – used to grasp the female during breeding. Females have lighter tan or faded yellow spots on a light brown head, and brown eyes. Jaws are often lined with pale yellow, the upper jaw being slightly notched at the front edge.",
+      "adultSize": "It is only 5-8 inches long",
+      "dietInTheWild": "Ornates are omnivorous, eating spiderwort, ground cherries, prickly pear cactus, blackberries, grass, beetles, grasshoppers, and caterpillars.",
+      "reproduction": "The female lays 2-8 eggs in a flask-shaped nest 2-3” deep and 3-4” wide that is dug in sandy soil. Incubation is approximately 60 – 70 days.",
+      "lifeSpan": "Ornates typically live 30-40 years. A few have reached 75-100 years old.",
+      "perils": "The ornate box turtle is the only strictly terrestrial (land dwelling) turtle species in Wisconsin. The high-domed shell serves as a helmet to shield its fleshy body from predators such as skunks, raccoons, opossums, foxes, raptors, and snakes.",
+      "protection": "When threatened, the turtles literally box themselves in. Tucking head and limbs inside, special hinges draw the plastron up tightly against the carapace. But, unfortunately, turtle shells are no defense against the wheels of automobiles, and these have taken their toll on turtle populations.",
+      "interestingFacts":
+      [
+
+        "Turtles are toothless but have sharp, horny jaws. Box turtles emerge from winter hibernation in early to late April. During hot weather they seek shade and are most active after a rainfall. Ornate box turtles are slow to mature but may live 40 years or more."
+
+      ,
+
+        "Fall triggers hibernation, and ornates dig burrows with their front and hind feet, or they can occasionally use tunnels excavated by small mammals. Even during active months, box turtles take shelter in burrows on cool nights and hot days. In Wisconsin, ornates may burrow as much as 5.5 ft deep to avoid frost, although the average hibernation depth is about 3.25 ft. For this reason, they are restricted to dry prairies or savannahs with loose sand that is easy to burrow into."
+
+      ],
+      "ecology": "Guarded only with its shell, the box turtle is an easy target for pet suppliers and casual collectors, both of which have taken their toll on population numbers. Humans are the most successful predator of adult turtles. Their habitats have become more fragmented by roads and development. Deaths due to automobiles and losses due to collection have increased. The development of irrigation systems over the past 30 years has allowed much of the previously unproductive sandy soil along the lower Wisconsin River floodplain to be converted from dry prairie to productive agricultural land for corn, soybeans, and potatoes and is another major factor in the ornate’s endangered status. Since being added to the original Wisconsin Endangered and Threatened Species List in 1972, possession of ornate box turtles is by permit only for scientific research and educational purposes. Unfortunately, the laws protecting this species can be difficult to enforce, and pet collecting still drains the wild population. The ornate’s slow maturity and high hatchling mortality make recovery of its population numbers nearly impossible without human intervention. Left in the wild, a box turtle may produce more than 200 eggs in its lifetime, but in captivity they are not given the chance to contribute their offspring.",
+      "conservationStatus": "Over all the ornate box turtle is not endangered, but it is of lower risk, and it is near threatened. (IUCN red list). The Racine Zoo has a Head Start program, where the Zoo raises the hatchlings and then the WI DNR releases them somewhere in Wisconsin, when they are old enough. ",
+      "dietAtTheZoo": "mixed raw vegetables, greens, pinkies, crickets, and vitamin/mineral supplements "
+    },
+    {
+      "id": 44,
+      "name": "African Penguin",
+      "type" : "Bird",
+      "commonNames": "black-footed penguin, African penguin, jackass penguin",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "latinName": "Spheniscus demersus",
+      "images" : [
+        "AfricanPenguin.png"
+      ],
+      "habitatAndRange": "The African penguin is found only off the coast of South Africa. They live in the warmer latitudes between twenty and forty degrees south. This is not the only penguin species that lives in warmer climates. When they aren't in the tropical waters hunting for food, they live on the rocky shores where they reproduce and take care of their young.",
+      "description": "The African penguin ranges from 30 to 100 cm in height. They are black on their dorsal side, face, flippers, and the top of their head. Their entire ventral side and lateral parts of the head and torso are white. Along the chest and sides are black horseshoe-shaped stripes. The body of the African penguin is shaped like a bowling pin, and its feet are webbed.",
+      "adultSize": "Ave. 18” tall, 5-6 lbs.",
+      "dietInTheWild": "The entire diet of the African penguin is a marine diet. The penguin is known to eat twenty-five species of fish, eighteen species of crustaceans, three species of squid, and one species of polychaete. Forty-two percent of its diet is made up of fish.",
+      "reproduction": "They breed on twenty-four islands offshore between Namibia and Port Elizabeth, South Africa. On the mainland, there are colonies of penguins at Betty's Bay and Simonstown, South Africa, and in Namibia. The colonies, called rookeries, contain thousands of penguins in each one. There is not much vegetation on these shores so they must make their nests from hardened guano. The young are cared for by both parents, in nests that the adults make or in burrows that they find. Penguins are monogamous, and they may mate for life. These penguins use a special fold of skin extending from the stomach to cover the eggs and keep them warm. When laying eggs, they will lay 2-3 eggs, which will hatch after 39-42 days. After hatching, the offspring are fed by regurgitation and watched over for eight weeks. The incubation period starts anywhere from mid-November to early December and continues for five weeks. The babies are gray when born, but get black and white camouflage after 2 years.",
+      "lifeSpan": "They can live to an average of 10 years in the wild. They can live longer than 20 years in captivity.",
+      "perils": "Harvesting of eggs for human consumption, reduction of the penguin's food supply by commercial fishing, oil pollution from oil tankers, and oil tankers illegally cleaning out their tanks have all taken their toll on African penguin populations. Large-scale removal of guano in the 19th century had decreased the ability of penguins to construct nests through burrowing. This led to increased competition for breeding space with larger animals, such as seals. Predators that threaten the penguins on the mainland are leopards, genets, and domestic dogs and cats. Penguins are also threatened due to human disturbances, and can only be protected on the mainland when properly fenced and protected in their colonies.",
+      "protection": "The nest they burrow protects them from the hot sun and predators. Also staying in a big group gives protection from predators.",
+      "voice": "Individuals communicate to one another by squawking. The African Penguin gets its name from its loud braying call, which sounds like a donkey bray.",
+      "interestingFacts":
+      [
+
+        "In order to stay cool, African penguins spend most of the day in the water and spend the cool night on land. If they are unable to reach the water, as is the case when watching over the eggs, the African Penguin can dissipate heat through its flippers, feet, and open beak.The coloration of the feathers is very useful in confusing predators. The white on the belly is camoflauge for predators from below, and the black on the back protects the penguins from predators above."
+
+      ],
+      "ecology": "The penguin produces guano which is excavated from the shores, processed, and made into fertilizer, which is then sold around the world. Another economic use people have for penguins is with their skins, which are used as gloves and other leather goods.",
+      "conservationStatus": "Endangered due to a very rapid population decline. This decline is probably the result of commercial fisheries and shifts in prey populations.",
+      "dietAtTheZoo": "Herring, caplin, 15-30 fish/day"
+    },
+    {
+      "id": 45,
+      "name": "Prehensile-tailed Skink",
+      "type" : "Reptile",
+      "commonNames": "Prehensile tailed Skink, Solomon Islands skink, monkey-tailed skink",
+      "order": "Squamata",
+      "family": "Scincidae",
+      "latinName": "Corucia zebrata",
+      "habitatAndRange": "Prehensile tailed Skinks are endemic to the Soloman islands, northeast of Australia. They are arboreal and prefer live in hot, humid rainforests.",
+      "description": "Grey-green in color, Prehensile tailed Skinks have broad, flat heads and long sharp claws used for clinging to tree branches. They also have an elongated prehensile tail.",
+      "adultSize": "They can grow to be about 1.5 feet from snout to tail",
+      "dietInTheWild": "Prehensile tailed Skinks are the only fully herbivorous skink, with the pothos plant being a favorite food in the wild.",
+      "reproduction": "Prehensile tailed Skinks reach sexual maturity at two years of age. Eggs will hatch inside the mother, and are born viviparously after about six months. One of few reptiles that exhibit paternal care, both parents will defend offspring for another six months after birth.",
+      "lifeSpan": "About 15 years of age",
+      "interestingFacts":
+      [
+
+        "Prehensile tailed Skinks are one of the only reptiles that live in a family group, and while they will exhibit aggression to outsiders, they will defend other members of their family group."
+
+      ,
+
+        "Prehensile tailed Skinks are named for their tail’s ability to grasp branches. While they can’t hang by their tail, it is helpful for balance while foraging in the treetops."
+
+      ],
+      "conservationStatus": "Not assessed, but likely endangered",
+      "dietAtTheZoo": "A variety of fresh fruit, vegetables, and greens"
+    },
+    {
+      "id": 46,
+      "name": "Red Kangaroo",
+      "type" : "Mammal",
+      "commonNames": "plains kangaroo, blue flier",
+      "order": "Marsupialia",
+      "family": "Macropodidae",
+      "latinName": "Macropus rufus",
+      "images" : [
+        "RedKangaroo.png"
+      ],
+      "habitatAndRange": "They are found in the inland plains, throughout most of Australia. They are also found in semi-arid plains, shrub lands, grasslands, woodlands, and open forest areas.",
+      "description": "Their coats are usually coarse and thick. Males of this species have a reddish coat, while the females come in both a blue-grey color and a red color phase. They have enlarged hind quarters that are very muscular. The tail is tapered, which helps the kangaroo balance while jumping. It can also be used as a third leg, while sitting or walking.",
+      "adultSize": "Red kangaroos continue to grow throughout their lifespan. The length of the head and body is between 800 and 1600 mm. The tail is 700 to 1100 mm. They can weigh anywhere between 23 and 70 kg.",
+      "dietInTheWild": "They graze on grass and selected, short, green plants, eating during the night and sleeping during the heat of the day.",
+      "reproduction": "Most of the young are born in the winter. The red kangaroo breeds year round and has delayed implantation. Normal gestation is 33 days. The single young leaves the pouch permanently at about 235 days of age, but he or she continues to suckle until 12 months old. Joeys are born as small, bean-sized, hairless babies that climb up and into the safety of the pouch.",
+      "lifeSpan": "12-18 years in the wild, 28 years in captivity",
+      "perils": "man, dingos",
+      "protection": "Boomers, or male kangaroos, aren't much for fighting to protect the herd - when trouble comes; the whole herd scatters off in all directions! But when it comes to breeding rights, boomers will kick box! The two opponents clasp arms and try to kick each other in the belly.",
+      "interestingFacts":
+      [
+
+        "They are the largest living marsupials. The tail is strong enough to support the entire weight of the animal. At a slow pace their leaps range from 1.2 to 1.9 meters while at an increased pace they may leap 9 or more meters. One grey kangaroo jumped nearly 13.5 meters on a flat! The females have a blue hue to their coat, so they earned the nickname of “blue flier”."
+
+      ],
+      "ecology": "In Australia, they are thought to be a pest and to compete with livestock for food. They have been hunted by natives and early settlers for meat and hides.",
+      "conservationStatus": "Lower risk that is of least concern",
+      "dietAtTheZoo": "Herbivore pellets, vegetables and fruit"
+    },
+    {
+      "id": 47,
+      "name": "Red-Eyed Tree Frog",
+      "type" : "Amphibian",
+      "commonNames": "red-eyed leaf frog",
+      "order": "Anura",
+      "family": "Hylidae",
+      "latinName": "Agalychnis callidryas",
+      "habitatAndRange": "They are found in tropical lowlands from southern Mexico, throughout Central America, and in northern South America.",
+      "description": "The dorsal surface is green and its ventral surface is white. The sides of the frog are purple or blue, with vertical white stripes and orange toes. Young frogs are typically brown in color and turn greener as they mature, although adult frogs can change their color depending on mood and environment. Both females and males have bulging orangy red eyes with vertically narrowed pupils, resembling the eyes of domestic cats. Red-eyed tree frogs have soft, fragile skin on their belly, and the skin on their back is thicker and rougher.",
+      "adultSize": "1.5-2.75 inches long",
+      "dietInTheWild": "They hide in the rain forest canopy and ambush crickets, flies, and moths with their long, sticky tongues.",
+      "reproduction": "Breeding occurs from October to March, usually near temporary or permanent ponds. The frogs breed while in an embrace called amplexus. The male mounts and locks onto the back of the female. The male then fertilizes the 30-50 pale eggs as the female lays them on a leaf over standing water. In 5 days, the tadpoles wiggle their way down the leaf to the water below. It then takes the tadpoles 75-80 days to metamorphose into a frog.",
+      "lifeSpan": "5 years in the wild ",
+      "perils": " They are prey to bats, snakes, and birds.",
+      "protection": "that eat red-eyed tree frogs are nocturnal hunters that use keen eyesight to find prey. The shocking colors of this frog may over-stimulate a predator's eyes, creating a confusing ghost image that remains behind as the frog jumps away.",
+      "interestingFacts":
+      [
+
+        "A group of red-eyed tree frogs is called an army. Red-eyed tree frogs are not poisonous and rely on camouflage to protect them. During the day, they remain motionless, cover their blue sides with their back legs, tuck their bright feet under their belly, and shut their red eyes. Thus, they appear almost completely green and well hidden among the foliage. Their eyes seem to glow in the dark."
+
+      ],
+      "conservationStatus": "Red-eyed tree frogs are not endangered. However, their habitat is shrinking at an alarming rate, and their highly recognizable image is often used to promote the cause of saving the world's rain forests.",
+      "dietAtTheZoo": "18 pinhead crickets daily",
+      "atTheRacineZoo": "U- No names- DOB Jan. 1, 2008"
+    },
+    {
+      "id": 48,
+      "name": "Red-tailed Hawk",
+      "type" : "Bird",
+      "commonNames": "Red-tail, Red-tailed Hawk",
+      "order": "Falconiformes",
+      "family": "Accipitridae",
+      "latinName": "Buteo jamaicensis",
+      "habitatAndRange": "One of the most widespread hawks in North America, Red-tailed Hawks can be found from Canada south through central America, and from coast to coast through the continent. They inhabit a variety of habitats – anywhere they can perch in elevated trees to watch for prey and have open spaces in which to hunt – places like forest edges, rainforests, agricultural fields and even city parks.",
+      "description": "A large hawk with a wide variety of plumage. Characteristic is the size as well as the cream colored chest with brown speckles throughout. They have a deep brown to red back and often have a distinctive red tail that gives them their name.",
+      "adultSize": "Red-tailed Hawks can be over two feet in length with a wingspan of about four feet.",
+      "dietInTheWild": "As excellent hunters, red-tailed hawks swoop down from the trees to catch small mammals in their sharp talons. Prey is usually small mammals, but they will also sometimes catch reptiles and other birds.",
+      "reproduction": "Red-tailed Hawks will often mate for life, choosing a mate when they become sexually mature at about three years of age. When courting, they will soar in circles together in the sky. Nests, built up in trees, will hold 1-5 eggs that will hatch in about one month after incubation by the parents. Eggs are laid about one every other day, and will hatch at the same offset rate. Fledglings are flighted at around 45 days old, and will spend up to 10 weeks learning how to hunt from their parents.",
+      "lifeSpan": "Up to 30 years in zoos",
+      "interestingFacts":
+      [
+
+        "By eating seed predators such as mice and moles, Red-tailed Hawks are a friend to farmers by helping to protect their crops."
+
+      ,
+
+        "The degradation of large forest habitats has actually benefited the red-tailed hawk, as more forest edges leads to more potential territory. They are also one of the best raptors at adapting to urban life. In fact, one New York City hawk, dubbed “Pale Male” captured the hearts of the city and inspired the book, 'Red-tails in Love'."
+
+      ],
+      "conservationStatus": "Least Concern",
+      "dietAtTheZoo": "Meat"
+    },
+    {
+      "id": 49,
+      "name": "Rhinoceros Iguana",
+      "type" : "Reptile",
+      "commonNames": "Rhinoceros Iguana, Rhino Iguana",
+      "order": "Squamata",
+      "family": "Iguanidae",
+      "latinName": "Cyclura cornuta",
+      "habitatAndRange": "Rhinoceros Iguanas are endemic to Caribbean island of Hispaniola. They live in dry, arid environments such as desert or scrublands.",
+      "description": "Gray-brown to or green-brown, they are distinguished by their “horns,” enlarged scales on their head that give them their name. Males tend be larger with horns that are larger relative to their body than females.",
+      "adultSize": "Rhinoceros Iguanas can grow to over four feet long and weigh up to twenty pounds.",
+      "dietInTheWild": "Rhinoceros Iguanas are largely herbivorous, feeding on a variety of seasonal fruits, but will occasionally eat small invertebrates.",
+      "reproduction": "Not much is known about reproduction, although they are thought to have a polygynous mating system. Males are also incredibly aggressive and territorial, and will intimidate other males with head movements. After mating, females will lay a nest. Some females will guard the nest for several weeks to prevent egg predation, and eggs will hatch after four months.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "Feeding on fruit with often indigestible seeds, rhinoceros iguanas are important seed dispersers for many local plants."
+
+      ],
+      "conservationStatus": "Vulnerable",
+      "dietAtTheZoo": "A variety of fresh fruit, vegetables, and greens"
+    },
+    {
+      "id": 50,
+      "name": "Straw-Colored Fruit Bat",
+      "type" : "Mammal",
+      "commonNames": "little fruit bat, yellow fruit bat",
+      "order": "Chiroptera",
+      "family": "Pteropodidae",
+      "latinName": "Eidolon helvum",
+      "images" : [
+        "FruitBat.png"
+      ],
+      "habitatAndRange": "Straw-colored fruit bats are found in Sub-Saharan Africa and on African islands, including Madagascar. These bats live in savannahs and forests. They prefer tall trees and have been found living up to 6562 ft. in altitude. This species is the most widely distributed of the African fruit bats.",
+      "description": "The hairs on the neck are woollier than those on the body. Coloration is yellowish brown or brownish above and olive or brownish below. In the males there are cinnamon colored hairs on the glandular side of the neck.",
+      "adultSize": "Length of the body and head is about 190 to 215 mm. The tail is 5 to 20 mm. The length of the forearm is 114 to 132 mm.",
+      "dietInTheWild": "Ripe fruits",
+      "reproduction": "This species is gregarious, usually roosting in colonies of 20 to several hundred. Breeding occurs from September through November, and females give birth around February. Females may also give birth during the dry season as well, but during the wet season, almost every female gives birth. A single young is born per female. Newborns weigh approximately 50 grams.",
+      "lifeSpan": "The known longevity record for straw-colored fruit bats is 21 years and 10 months. However, they average 10-15 years.",
+      "perils": "Predation usually does not have a significant impact on colonies, although owls, eagles, buzzards, snakes, or genets may take the bats. It is common for a large numbers of bats to be shot in pest eradication attempts or as food.",
+      "protection": "Straw-colored fruit bats utilize camouflage, and have sharp teeth that are used for defense.",
+      "voice": "chattering sounds",
+      "interestingFacts":
+      [
+
+        "The wings are used in climbing about branches in the roosts. These bats cannot echolocate, but find food though vision and sense of smell. They are nocturnal, flying out as a group at night time to search for fruit in forests or fruit plantations."
+      ,
+        "They are considered a pest in certain areas of Africa, due to their habit of raiding fruit plantations. Although they eat mainly fruit, they will also eat the pollen from flowers, if available. Their fruit and flower diet makes them a valuable part of the ecosystem. They help with both pollination and seed dispersal in the areas where they live."
+
+      ],
+      "Folklore": "Bats often have a bad reputation of spreading disease like rabies, or for sucking blood. Most bats are actually a great help to humans by eating large numbers of insects, or in the case of the fruit bat, helping to pollinate fruit trees.",
+      "ecology": "In some areas these bats are hunted and eaten by humans, but in other areas they are protected. Many farmers in Africa think of the bats as a threat to the introduced pine plantations, because the bats gnaw the bark. However, these bats do not actually cause harm to the trees. They are actually more bothersome due to their fruit eating in fruit plantations.",
+      "conservationStatus": "Near Threatened on the IUCN red list with a population in decline. Their most common threat is hunting for medicine and bush meat in West and Central Africa.",
+      "dietAtTheZoo": "mixed fruit"
+    },
+    {
+      "id": 51,
+      "name": "Striped Skunk",
+      "type" : "Mammal",
+      "commonNames": "skunk",
+      "order": "Carnivora",
+      "family": "Mustelidae (weasels, mink, ferrets, badger, wolverines)",
+      "latinName": "Mephitis mephitis",
+      "images" : [
+        "Skunk.png"
+      ],
+      "habitatAndRange": "Striped skunks occur throughout most of the United States and Canada and as far south as northern Mexico. Their habitats include farmland, grassland, forest and urban areas. They shelter in underground burrows or crevices. Skunks will also find shelter under buildings, occupied or abandoned. Skunks with northern ranges will hibernate over the winter.",
+      "description": "Skunks are nocturnal, active from dusk through the night. Body length is 13-18 inches, with a 7-10 inch long tail. They can weigh from 4-18 pounds. The body is black, with white on the head and nape of the neck that splits into 2 dorsal white stripes. The bushy tail is a mix of black and white. There is considerable variation in coloring especially on the tail. Skunks have sharp teeth for catching prey and long claws for digging.",
+      "adultSize": "They have a body length of 13-18 in, and weigh about 4-18 lbs., depending on the skunk.",
+      "dietInTheWild": "Skunks are opportunistic omnivores. They consume mainly small rodents and insects but also reptiles, amphibians, eggs, fruit and seeds. They use their long claws to dig up rodents, eggs and other food.",
+      "reproduction": "Mating occurs from February to April with a 59-77 day gestation period. Usually only one litter is born per season unless the first is unsuccessful. Litter size can range from 1-10, with the average size being 4-5. Babies are born with black and white hair and can spray their musk before they can walk! Young are weaned at 8-10 weeks and are independent by fall. The young follow the mother in a single file line everywhere until they are about 6 months old. The mother teaches them how to hunt, dig for food, and defend themselves.",
+      "lifeSpan": "Striped skunks live about 3 years in the wild and an average of 6-8 in captivity.",
+      "perils": "Most animals avoid skunks, and they have few natural predators. They are seen as pests by humans, because they can attack poultry and damage beehives. Also, people fear themselves or pets being sprayed. Skunks are reportedly the principal carrier of rabies in North America. Sometimes, they are hunted for skins.",
+      "protection": "Skunks will spray musk only as a last resort, as there is not an endless supply. The first thing a skunk will do when threatened is stomp its feet, hiss, and it may even make a fake charge. If this fails to deter a predator, the skunk will raise its tail as a final warning, then turn around in a u-shape and spray the attacker with musk. The musk is harmless to skin, but it irritates the eyes and nose and can cause temporary blindness and nausea.",
+      "voice": "The striped skunk is usually a silent animal, but makes some sounds like low churrings, shrill screeches and bird-like twitters.",
+      "interestingFacts":
+      [
+
+        "Skunks can be seen as beneficial to humans because they destroy rodent and insect pests. Musk is stored in pouches beneath the tail and is produced in the anal glands. The tips of the pouches act as nozzles like on a hose. Muscles around the pouches push the fluid out and help to aim the direction of the spray. Skunks can spray their musk accurately at objects up to 15 feet away! The musk is discharged as a spray or a stream of drops. The smell can be detected from up to 2.5 km down wind. Only bleach or special deodorizers can get the smell off clothes, while tomato juice or vinegar can be used on skin or hair along with special deodorizing washes. Skunks usually don’t move fast but can when they have to; they are fast enough to catch snakes. Hooded skunks, which also occur in the United States and have a more southwestern range, can even kill rattlesnakes!"
+
+      ],
+      "ecology": "Because they are willing to eat anything once, they are adapted to living in a variety of places. Humans do not typically like them because they are a carrier of rabies and have the smelly spray.",
+      "conservationStatus": "Lower risk which is of least concern.",
+      "dietAtTheZoo": "assorted fruits and veggies, omnivore nuggets, hardboiled eggs. Our skunk gets wax worms and crickets for enrichment too."
+    },
+    {
+      "id": 52,
+      "name": "Sudan Plated Lizard",
+      "type" : "Reptile",
+      "commonNames": "Sudan Plated Lizard, Great plated lizard",
+      "order": "Squamata",
+      "family": "Gerrhosauridae",
+      "latinName": "Gerrhosaurus major",
+      "habitatAndRange": "Found in semi-arid or savanna habitats south of the Sahara desert in eastern and southeastern Africa.",
+      "description": "Sudan Plated Lizards have a grayish colored back with a dark brown belly and are “plated” in square, keeled scales along the back that resemble armor. ",
+      "adultSize": "Sudan Plated Lizards can grow to over two feet in length, although their tail is often twice the length of the body itself.",
+      "dietInTheWild": "Sudan Plated Lizards are omnivores, feeding on insects, small vertebrates, and plants.",
+      "reproduction": "Females will typically lay two eggs at a time, but will sometimes lay as many as four eggs. After 3-4 months, the eggs will hatch.",
+      "lifeSpan": "About 10 years of age",
+      "interestingFacts":
+      [
+
+        "To stay cool, Sudan Plated Lizards will spend much of their days in burrows. Their burrow will often be shared with other reptiles."
+
+      ],
+      "conservationStatus": "No data",
+      "dietAtTheZoo": "A variety of insects, supplemented with plants"
+    },
+    {
+      "id": 53,
+      "name": "Tawny Frogmouth",
+      "type" : "Bird",
+      "commonNames": "Tawny Frogmouth",
+      "order": "Caprimulgiformes",
+      "family": "Podargidae",
+      "latinName": "Podargus strigoides",
+      "habitatAndRange": "Found perched in trees throughout the continent of Australia.",
+      "description": "Tawny Frogmouths are mottled brown and white patches throughout, with tufts of feathers jutting up from the beak. They have large, broad heads, yellow eyes, and their mouth can open wide like a net.",
+      "adultSize": "Tawny Frogmouths can reach nearly two feet in height.",
+      "dietInTheWild": "Tawny Frogmouths get their name from their large mouth, which opens wide to catch insects. At night, these birds will fly down from their perch and fly through the air, consuming any insects that",
+      "reproduction": "Males and females will share nesting duties, and each Tawny Frogmouth nest will contain 1-2 eggs.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "To hide from predators, Tawny Frogmouths will close their eyes, flatten their feathers and point their beak skyward, creating an incredible likeness of the branches they perch in."
+
+      ],
+      "conservationStatus": "Least concern",
+      "dietAtTheZoo": "Mice"
+    },
+    {
+      "id": 54,
+      "name": "Umbrella Cockatoo",
+      "type" : "Bird",
+      "commonNames": "white cockatoo, white crested cockatoo, U2",
+      "order": "Psittaciformes",
+      "family": "Cacatuidae",
+      "latinName": "Cacatua alba",
+      "images" : [
+        "UmbrellaCockatoo.png"
+      ],
+      "habitatAndRange": "They are found in forests and open woodland, mangroves, swamps, and agricultural areas. They are particularly common around the edge of clearings and rivers. They spend most of their time in the tree canopy. They are found in the forests and farmlands of the Moluccan Islands near Australia.",
+      "description": "It is a large white bird with blunt-ended feathers. It has yellowish coloration on the underside of its wings and tail. Its backward-bending crest gives it the name “umbrella cockatoo”. The crest is fan-shaped when erect. The beak and legs are dark grey. Both sexes have a pale blue eye-ring, but males have a dark brown iris and females have a reddish iris. Females usually have a smaller head and beak than males.",
+      "adultSize": "14-17 inches tall",
+      "dietInTheWild": "Umbrella cockatoos eat fruits, seeds, berries, nuts, and some insects. Insects are favored when rearing young.",
+      "reproduction": "The female will lay 2-3 eggs. The eggs are then incubated by both parents for 27-28 days. The chicks leave the nest after approximately 14 weeks.",
+      "lifeSpan": "The average is 30-50 years, but some live past 70 years of age.",
+      "perils": "Umbrella cockatoos are eaten by many birds of prey and terrestrial carnivores. They are also threatened by logging, since umbrella cockatoos utilize large trees for nesting. The pet trade has also significantly decreased their numbers in the wild.",
+      "protection": "To protect themselves from predators, umbrella cockatoos have a sharp beak and startle coloration under their wings and tail",
+      "voice": "They can learn to mimic our voice. A cockatoo will screech when threatened, or ignored.",
+      "interestingFacts":
+      [
+
+        "Cockatoos are very intelligent birds, and enjoy mechanical puzzles. This also makes them master escape artists, able to undo almost any latch. All cockatoos have a bald spot on their head, surrounded by a crest of feathers. Their bills, made of hardened keratin, are extremely strong and can crack open many nuts with ease. Cockatoos sometimes use their beak as an extra “hand” to help them climb. A cockatoo’s tongue is often used as a “finger”, to maneuver items into their beak. Cockatoos have a soft down beneath their feathers, which serves to trap air and provide insulation. The down also sheds a thick powder, which the birds use to waterproof and clean their outer feathers. All cockatoos have four toed feet. Two toes point forward and two point backward, allowing the bird to get a good grip on a branch."
+
+      ],
+      "conservationStatus": "Vulnerable. Logging in their home territory and the pet trade has caused their numbers to decline. It is believed that the wild population cannot sustain the demands of the pet trade.",
+      "dietAtTheZoo": "parrot pellets, sunflower seeds, peanuts, fruits, and vegetables",
+      "atTheRacineZoo": "M- Miranda- DOB June 28, 1991"
+    },
+    {
+      "id": 55,
+      "name": "Common Wallaroo",
+      "type" : "Mammal",
+      "commonNames": "euro, hill wallaroo",
+      "order": "Diprotodontia",
+      "family": "Macropodidae",
+      "latinName": "Macropus robustus",
+      "images" : [
+        "Wallaroo.png"
+      ],
+      "habitatAndRange": "They have diverse habitats throughout their range, but they are usually found where there are stoney rises, rocky hills, and/or rock overhangs. Wallaroos are found throughout most of Australia, with the exception of Tasmania.",
+      "description": "Wallaroos are a kangaroo-like marsupial with both size and color varying across their range. Color ranges from a dark gray to a reddish color. Fur has a distinctly shaggy appearance to it. They are mostly solitary and crepuscular (active at dawn and dusk).",
+      "adultSize": "The adult size varies from individual to individual, but they are usually 44-78 in long for the head and body, and the tail is 21-35 in. They can weigh anywhere from 14-103 lbs.",
+      "dietInTheWild": "They graze primarily on grasses and shrubs. The common wallaroo can survive well on low protein food and without free-flowing water. They will actively dig for water even up to a meter deep.",
+      "reproduction": "Females are sexually mature at 15 months. Gestation is about 33 days with a pouch life of 8-9 months.",
+      "lifeSpan": "15-20 years on average.",
+      "perils": "Their main predators are dingos and humans. Baby wallaroos are also threatened by large birds.",
+      "protection": "They are most likely to flee but can kick if threatened.",
+      "voice": "When disturbed, they will utter a loud hiss associated with exhalation.",
+      "interestingFacts":
+      [
+
+        "They are mainly crepuscular. They can conserve water by hiding it in hallows under granite boulders during the hottest part of the day. Wallaroos are the kangaroo best adapted for dry climate. They are easily distinguished from other types of kangaroos by their bare, black snouts."
+
+      ],
+      "ecology": "Well adapted to aridity, it can maintain itself and even breed successfully on pastures of low protein content, and it can survive without frequent access to free water if it has access to refuges from solar radiation and to food plants of sufficient water content.",
+      "conservationStatus": "One subspecies considered vulnerable, three subspecies are not threatened. All protected by Australian Law.",
+      "dietAtTheZoo": "HMS grain, various produce, and hay"
+    },
+    {
+      "id": 56,
+      "name": "West Caucasian Tur",
+      "type" : "Mammal",
+      "commonNames": "Western Tur",
+      "order": "Cetartiodactyla",
+      "family": "Bovidae",
+      "latinName": "Capra caucasica",
+      "images" : [
+        "WestCaucTur.png"
+      ],
+      "habitatAndRange": "They are predominately found in the Great Caucasus Mountains in Russia and Georgia. Their range is extremely limited. They are usually found in alpine and subalpine habitats, between 800 and 4000 feet above sea level.",
+      "description": "In summer, their coats are a reddish-brown, but in winter, they dull to a grayish-brown. Both males and females have beards, although the females’ beards are usually less prominent than the males. Both sexes also have horns, which are thicker and longer in the males than in the females. They have short legs and stocky bodies.",
+      "adultSize": "The male body length is 150-165 cm, while the females are usually 120-140 cm long. Males usually weigh 65-80 kg, and females usually weigh 50-60 kg.",
+      "dietInTheWild": "They feed on over 100 different species of plants, but favor grasses primarily. In the winter, when grasses are hard to find, the tur will feed on shrubs and trees.",
+      "reproduction": "The mating season is between November and January. Only during this time do the turs live in groups of mixed sexes. After a 150 to 160 day gestation period, the female gives birth to one calf.",
+      "lifeSpan": "They generally live to 12 years in the wild. They can live up to 19 years.",
+      "perils": "Harsh winters take a toll on this species, as well as hunting expeditions that are focused solely on turs by humans. They also face competition for food from domesticated livestock. They are also preyed upon by the wolf and lynx.",
+      "protection": "Their long horns are extremely effective for defending themselves. The tur is also able to out maneuver humans in the high elevations where they find their homes.",
+      "interestingFacts":
+      [
+
+        "The turs migrate from higher elevations to lower elevations, during the winter. This is because the deep snow of the high mountains makes it difficult for them to walk, and causes them to be exhausted and less likely to be able to flee a predator. Once the snow melts in the higher elevations, the turs will migrate back, escaping insects, and to feed on the new vegetation growth. They can run quickly over short distances, which would aid in evading a predator. To vocalize, turs use a sharp, intermittent whistling, which sounds a lot like a sneeze."
+
+      ],
+      "conservationStatus": "listed as endangered on the IUCN redlist.",
+      "dietAtTheZoo": "Grass, hay, alfalfa",
+      "atTheRacineZoo": "Tavek- DOB May 18, 2005"
+    },
+    {
+      "id": 57,
+      "name": "Western Fox Snake",
+      "type" : "Reptile",
+      "commonNames": "fox snake",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "latinName": "Pantherophis vulpinus",
+      "images" : [
+        "WesternFoxSnake.png"
+      ],
+      "habitatAndRange": "Fox snakes prefer open habitat such as marshes, prairies, savannas, sedge meadows and old fields. They are also found in pine and oak woodlands adjacent to open pastures or fields. Boundaries are confined to the Midwestern states. They are found through the entire state of Wisconsin, except for a few counties in northern and southeastern Wisconsin. They are always found close to water.",
+      "description": "It is a blotched snake having spots anywhere between light brown and black. The head varies from brown to reddish. The reddish head causes the fox snake to often be mistaken for a copperhead by humans. The belly is yellow and checkered with black. Scales are weakly keeled. The dark spots are rich brown, usually edged with black or dark brown. The head has a dark transverse line anterior to eyes and a dark line from the eye to the angle of the jaw. The lines on the head fade away with age.",
+      "adultSize": "Between 36-56 inches long. The record is 70.5 inches.",
+      "dietInTheWild": "They often eat small mammals, eggs, and the occasional bird. Fox snakes kill their prey by constriction.",
+      "reproduction": "Fox snakes mate from April to July, and the female lays her eggs from late June to early August. Females can lay 8-27 eggs. Their young are about 10-13 inches long at birth.",
+      "lifeSpan": "It is uncertain how long fox snakes live in the wild. The oldest recorded in a zoo was just over 6 years of age. It is likely that fox snakes can live longer than 6 years, as their closest relatives often exceed a decade in age.",
+      "perils": "They are preyed upon by birds of prey, some mammals, and humans. Humans have been known to kill fox snakes because they are mistaken for the copperhead snake.",
+      "protection": "The fox snake’s name comes from the musky or skunk-like odor it emits when it is disturbed. It also coils, vibrates its tail in leaf litter, and strikes to scare away predators, which makes it seem like a rattlesnake.",
+      "voice": "Fox snakes are also often mistaken for rattlesnakes, as they often rattle their tails in dry leaves, grasses or against objects when disturbed.",
+      "interestingFacts":
+      [
+
+        "Fox snakes live in dens, old tree stumps, leaf litter, or under logs. They hibernate in groups, and can be found in places like old wells. This snake is the most frequently encountered snake in people's homes, especially if the house has an old rock foundation where the snake(s) may be hunting for food or hibernating in the basement. Fox snakes are often mistaken for copperheads because of the coloration on their head. This is unfortunate since copperheads do not occur in Wisconsin. Their pointed tail distinguishes them (and all other Wisconsin snakes with pointed tails) as a non-venomous species in Wisconsin."
+
+      ],
+      "ecology": "The fox snake helps keep the pests populations down. The western fox snake, which often inhabits agricultural lands, is beneficial to the farmer due to its diet of rodents and small rabbits.",
+      "conservationStatus": "Least Concern on the IUCN redlist (2007).",
+      "dietAtTheZoo": "Mice",
+      "atTheRacineZoo": "F- Neenah- DOB March 1, 2007"
+    },
+    {
+      "id": 58,
+      "name": "Western Screech Owl",
+      "type" : "Bird",
+      "commonNames": "scritch owl, little grey owl",
+      "order": "Strigiformes",
+      "family": "Strigidae",
+      "latinName": "Megascops kennicottii (formerly Otus kennicotti)",
+      "images" : [
+        "ScreechOwl.png"
+      ],
+      "habitatAndRange": "This owl is found in woodlands, deserts, riparian forests, parks or large gardens in suburban areas. These owls are distributed in western North America, from southeast Alaska to western Texas and Mexico.",
+      "description": "They are squat-looking owls that sit erect with their plumage fluffed out, feet and legs obscured, and distinct ear tufts raised. The iris is bright yellow, and the bill is gray to black, with tufts of bristly feathers around its base. The facial disk is bordered by black. The toes are yellow. Plumage is either mainly grayish or reddish-brown, variegated dark and light, resembling a furrowed tree bark pattern.",
+      "adultSize": "They have a body length of 8-9 inches, weight of 5-9 ounces, and a wingspan of 18-24 inches.",
+      "dietInTheWild": "The western screech owl is nocturnal and eats insects, small mammals, birds, and some reptiles and amphibians. Their hunting strategy is to wait on a perch and then swoop down onto approaching prey. If needed, they can also chase their target for short distances or walk along the ground searching for food. ",
+      "reproduction": "The Western screech owl nests in natural tree cavities, old woodpecker holes, Giant Saguaro Cactus, man-made nest boxes, or holes in cliffs. The female lays 3 - 7 eggs that are incubated for 26 days. Both parents feed the young owls. The young will leave the nest in about a month, but will be tended by the parents for another 5 - 6 weeks. Statistically, about 40 percent of young owls survive the first year.",
+      "lifeSpan": "10-13 years in the wild",
+      "perils": "Western screech owls can fall prey to other owls, hawks, mink, weasels, raccoons, skunks, squirrels, snakes, and crows. Western screech owls are dependent on deciduous woodlands or open mixed forests that have suitable nesting sites and sufficient prey densities. Removal of riparian forest in drier regions has caused population declines because most prey densities are highest in riparian zones. However, this adaptable owl can survive in wooded suburban areas and city parks as long as they are not directly persecuted. Populations fluctuate depending on prey availability.",
+      "protection": "When threatened, the bird stretches its body and tightens its feathers in order to look like a broken branch. Once detected, the bird will take flight. This owl is very aggressive when defending a nest site and may attack humans.",
+      "voice": "The Western screech-owl does not screech, but instead uses a trill of hoots similar to a fast bouncing ball. Other calls are a soft 'cr-r-oo-oo-oo-oo' given as a greeting call and a sharp bark given when excited.",
+      "interestingFacts":
+      [
+
+        "Screech owls are one of the most common owls in the United States. The western screech owl is likely to be confused with the Eastern screech owl and whiskered screech owl. These owls can be distinguished by bill color (Eastern screech owls have gray-green bills while Western screech owls have gray to black bills) and their different calls. Western and Eastern screech owls only occur together locally in eastern Colorado and southern Texas. They do not migrate."
+
+      ],
+      "ecology": "During direct flight, the Western screech owl flies fairly rapidly with a steady wing beat of about 5 strokes/second. It rarely glides or hovers, but may fly bat-like with erratic movements when maneuvering through wooded areas. The wings are broad, and the head is held tucked in, which gives flying birds a stubby appearance. ",
+      "conservationStatus": "A species of least concern according to the IUCN Redlist.",
+      "dietAtTheZoo": "one mouse daily",
+      "atTheRacineZoo": "B- Alvis- DOB Unknown, young adult"
+    },
+    {
+      "id": 59,
+      "name": "Tufted Deer",
+      "type" : "Mammal",
+      "commonNames": "Western Tufted Deer",
+      "order": "Cetartiodactyla",
+      "family": "Cervidae",
+      "latinName": "Elaphodus cephalophus",
+      "images" : [
+        "TuftedDeer.png"
+      ],
+      "habitatAndRange": "Tufted deer live in forests and rainforests at high altitudes; their habitats are always near water. They are found in northeast Burma as well as southern and central China. They live at elevations of 300 to 4,000 meters. ",
+      "description": "Dark gray or brown in color with a dark gray head and neck. Their underbelly, tips of ears, lips, and underside of the tail is white and their fur is coarse. They get their name from the tuft of hair that is on their forehead.",
+      "adultSize": "They can weigh from 37 to 110 Ibs and can grow up to five feet long. The males are slightly larger than the females.",
+      "dietInTheWild": "Western Tufted Deer eat leaves, twigs, fruits, grasses, bark and other types of vegetation; they are grazers and browsers.",
+      "reproduction": "Tufted Deer mate in late fall and early winter. Their babies are born in the summer after a gestation period of 180 days. Typically the female will give birth to one or two fawns every year. The fawn(s) will depend on their mother for 6 months. Tufted Deer reach sexual maturity at 18 months.",
+      "lifeSpan": "Up to 15 years in human care",
+      "interestingFacts":
+      [
+
+        "Tufted Deer do not have upper incisors. Instead, they have long canines that look like fangs. Males will use these canines to fight with other males."
+
+      ,
+
+        "To attract a mate, the male will bark to the female. They will also bark when alarmed."
+
+      ,
+
+        "Tufted Deer generally do not live in herds, they are usually solitary species."
+
+      ],
+      "conservationStatus": "They are not currently endangered, but they are threatened by deforestation. ",
+      "dietAtTheZoo": "Alfalfa, hay, and other grains"
+    },
+    {
+      "id": 60,
+      "name": "White-Handed Gibbon ",
+      "type" : "Mammal",
+      "commonNames": "lar gibbon, common gibbon",
+      "order": "Primates",
+      "family": "Pongidae",
+      "latinName": "Hylobates lar",
+      "images" : [
+        "WhiteHandedGibbon.png"
+      ],
+      "habitatAndRange": "Gibbons inhabit rain forests, from sea level to about 2400 meters elevation. Gibbons also inhabit semi evergreen forests which tend to be wet and humid. The white-handed gibbon is found in different parts of southeast Asia, the countries of Burma, China, Indonesia, Malaysia, North Sumatra, and Thailand.",
+      "description": "Like the other apes, the white handed gibbon lacks a tail. Sometimes there are differences in color between the male and females. This species has white hands and feet, and the face is encircled by white. They tend to have truncal erectness (like other primates), which is specially used for climbing, sitting, or hanging to feed, with long arms, that are the length of their body.",
+      "adultSize": "The length of head and body is 456 to 635mm. The weight of the white-handed gibbon is 5 to 8 kg.",
+      "dietInTheWild": "They eat mainly fruits, leaves, and bulbs, with occasional insects, young birds, and eggs.",
+      "reproduction": "Usually one young is born after a gestation of 200 to 212 days. A single young is produced every two to three years. Babies cling around the mother’s body like a belt.",
+      "lifeSpan": "Some have lived more than 43 years in captivity. ",
+      "perils": "They are predominately threatened by habitat loss and the pet trade (injuries/death during the capture or during transportation.)",
+      "protection": "Intruders are warned of the group’s presence by the “hoo-hoo-hoo” calls, which are loud and carry long distances. ",
+      "voice": "'hoo-hoo-hoo' known as the female great call.",
+      "interestingFacts":
+      [
+
+        "Hylobates means “dweller in the trees” and these animals are the most agile of all other mammals. They do most of their traveling through the trees. They usually walk upright with the arms held high for balance. They do not swim."
+
+      ],
+      "ecology": "On a small scale they provide some food for humans. Gibbons are not often used for biological medical research. They are occasionally captured for the pet trade.",
+      "conservationStatus": "Endangered, as it is believed to have undergone a decline or more than 50% in the last three generations (45 years) due to rampant forest loss, and loss of mature individuals due to hunting.",
+      "dietAtTheZoo": "fruit, vegetables, citrus, monkey chow, and romaine lettuce",
+      "atTheRacineZoo": "F- Robin- DOB August 14, 1979; M- Yule- DOB May 28, 1966"
+    },
+    {
+      "id": 61,
+      "name": "Woodchuck",
+      "type" : "Mammal",
+      "commonNames": "Woodchuck, Groundhog",
+      "order": "Rodentia",
+      "family": "Sciuridae",
+      "latinName": "Marmota monax",
+      "habitatAndRange": "Woodchucks are found from Alaska across Canada. They are also found through the eastern US south to central Georgia and as far west as Oklahoma. They can be found in a variety of habitats, but strongly prefer wooded areas.",
+      "description": "A large, stocky rodent, Woodchucks vary in color from gray to deep brown fur that is interspersed with white-tipped guard hairs.",
+      "adultSize": "Woodchucks can weigh over ten pounds and grow to over two feet in height.",
+      "dietInTheWild": "Lesser Hedgehog Tenrecs are insectivores, hunting at night using their phenomenal senses of smell and hearing.",
+      "reproduction": "Males will emerge from hibernation earlier in the spring than females to begin to establish territories, and males will often mate with multiple females in a breeding season. After a one month gestation period, female Woodchucks will usually give birth to between three and five pups. These pups will spend about two months with their mother before heading out on their own, and will become sexually mature at one year old.",
+      "lifeSpan": "In the wild, Woodchucks will only live about 2-6 years, but can live to be 10 years old in zoos.",
+      "interestingFacts":
+      [
+
+        "Woodchucks love to burrow, and in addition to being great at chewing and digging ,they also have rounded ears that can cover the ear canal to protect their ears from dirt while digging."
+
+      ],
+      "conservationStatus": "Least concern",
+      "dietAtTheZoo": "Fruits, vegetables, greens, and specially formulated biscuits"
+    },
+    {
+      "id": 62,
+      "name": "Yellow Anaconda",
+      "type" : "Reptile",
+      "commonNames": "Yellow Anaconda, Anaconda",
+      "order": "Squamata",
+      "family": "Boidae",
+      "latinName": "Eunectes notaeus",
+      "habitatAndRange": "Nearly all Yellow Anacondas can be found near slow-moving water, swamps, or marsh, although they will search for food in forests in the dry season. They are found throughout northeastern South America.",
+      "description": "Yellowish-green in color, they have overlapping spots around the entire body, and camouflage well in murky forest swamplands.",
+      "adultSize": "Smaller than their cousin the Green Anaconda, Yellow Anacondas still reach a hearty twelve feet in length.",
+      "dietInTheWild": "Yellow Anacondas are generalist carnivores, and will eat any animals they can find of appropriate size. Younger anacondas will feed on birds, small mammals, reptiles, and occasional fish, but larger anacondas can take larger prey, including deer, peccaries, or capybara.",
+      "reproduction": "After mating, females will incubate eggs in their bodies, giving birth to young that hatch internally (known as ovoviviparity). Following a six month incubation period, mothers will give birth to anywhere from 4 to 80 young, that are then left to fend for themselves.",
+      "lifeSpan": "About 20 years of age",
+      "interestingFacts":
+      [
+
+        "While Yellow Anacondas of both sexes will typically only will mate with one other snake in a given year, they have been known to form breeding balls that consist of multiple males competing for a single female. These breeding balls can stay together for over a month."
+
+      ],
+      "conservationStatus": "Threatened due to hunting",
+      "dietAtTheZoo": "Currently mice and chicks due to her small size."
+    },
+    {
+      "id": 63,
+      "name": "Yellow-Crowned Amazon",
+      "type" : "Bird",
+      "commonNames": "Yellow Crowned Amazon, Yellow Fronted Amazon, Yellow crowned Amazon, Yellow Headed Amazon",
+      "order": "Psittaciformes",
+      "family": "Aratingidae",
+      "latinName": "Amazona ochrocephala",
+      "images" : [
+        "YellowCrownedAmazon.png"
+      ],
+      "habitatAndRange": "Yellow-crowned amazons are from South America. The yellow-crowned Amazon originates in South America and is commonly seen in Trinidad, Colombia, French Guiana, Guyana, Surinam, Northern Brazil and Venezuela. They are generally found in dry forest areas, and sometimes in rainforests and tropical rainforests, at altitudes up to 700 m. They also can be found in urban areas. ",
+      "description": "The yellow-crowned Amazon is a handsome parrot. Like most Amazons, their plumage is predominantly green. Orange irises mark their eyes, and they have multiple rainbow markings. Their bodies are covered in a variety of different colors, from purple to yellow. Their feet, however, are grey.",
+      "adultSize": "They are medium sized Amazons, averaging 14 inches (36cm) in length, with a wingspan of eight to eight and a half inches (198 - 220 mm). Males and Females exhibit no noticeable differences.",
+      "dietInTheWild": "They feed on seeds, nuts and fruits.",
+      "reproduction": "The yellow crowned Amazon has been bred in small numbers in captivity. After the courtship period, the hen typically lays three to four eggs. The eggs hatch after an incubation period of 26 to 28 days. Hatchlings take about three months before they can leave the nest.",
+      "lifeSpan": "up to 80 years",
+      "perils": "Their predominate perils are the pet trade and habitat loss",
+      "protection": "Amazons can utilize their strong beak and flight to protect themselves.",
+      "voice": "Many are excellent talkers. Talking ability varies between birds, and there are no guarantees that a bird will talk. The yellow-crowned Amazon is known for his loud voice. All Amazons are loud, but it is likely that the yellow-crowned is the loudest.",
+      "interestingFacts":
+      [
+
+        "The yellow-crowned Amazon is a very popular parrot in today's households. They are one of the most affectionate Amazons, giving as much love and attention to their owners as their owners bestow upon them. The yellow-crowned also has a great love of chewing. His love of chewing can lead to destructive behavior, if he is not given plenty of toys suitable for it. Yellow-crowned Amazons mate for life."
+
+      ],
+      "ecology": "Known to be excellent talkers, the yellow headed subspecies is in strong demand within the pet trade. In the wild, they can cause damage to crops and orchards.",
+      "conservationStatus": "Least concern (IUCN red list)",
+      "dietAtTheZoo": "mixed fruit, vegetables and seeds",
+      "atTheRacineZoo": "M- Buster- DOB January 1, 1986; F- Abby- DOB July 15 1981"
+    }
+  ]
+}

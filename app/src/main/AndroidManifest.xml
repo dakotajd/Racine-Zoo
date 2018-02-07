@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.uwp.appfactory.racinezoo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/NoActionBarShadowTheme">
+
+
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_api_key"/>
+
+        <meta-data
+            android:name="com.google.android.nearby.messages.API_KEY"
+            android:value="PLACE HOLDER" />
+
+
+        <activity android:name=".Navigation.NavigationActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="portrait"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".DetailScreen.DetailActivity"
+                  android:screenOrientation="portrait"
+                  android:parentActivityName=".Navigation.NavigationActivity"
+            >
+
+        </activity>
+        <activity android:name=".InfoScreen.InfoDetailActivity"
+            android:screenOrientation="portrait"/>
+
+
+   <activity android:name=".DetailScreen.DetailPager"
+       android:screenOrientation="portrait"
+       />
+
+
+    </application>
+
+</manifest>

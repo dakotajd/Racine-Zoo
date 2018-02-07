@@ -1,0 +1,302 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/info_hour"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/hour_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/hour" />
+
+        <TextView
+            android:id="@+id/hour_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/hours_admissions"
+            android:textSize="17dp"
+            android:layout_toRightOf="@+id/hour_icon"
+            android:layout_toEndOf="@+id/hour_icon"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_direction"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/direction_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/hour_icon"
+            android:layout_alignStart="@+id/hour_icon"
+            android:layout_below="@+id/hour_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/directions" />
+
+        <TextView
+            android:id="@+id/direction_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/directions"
+            android:textSize="17dp"
+            android:layout_below="@+id/hour_text"
+            android:layout_alignLeft="@+id/hour_text"
+            android:layout_alignStart="@+id/hour_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_show"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/shows_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/direction_icon"
+            android:layout_alignStart="@+id/direction_icon"
+            android:layout_below="@+id/direction_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/shows_activity" />
+
+        <TextView
+            android:id="@+id/shows_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/shows_activities"
+            android:textSize="17dp"
+            android:layout_below="@+id/direction_text"
+            android:layout_alignLeft="@+id/direction_text"
+            android:layout_alignStart="@+id/direction_text" />
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/separate"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@+id/shows_text"
+        android:background="@android:color/darker_gray"/>
+
+    <LinearLayout
+        android:id="@+id/info_about"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/about_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/shows_icon"
+            android:layout_alignStart="@+id/shows_icon"
+            android:layout_below="@+id/separate"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/about_zoo" />
+
+        <TextView
+            android:id="@+id/about_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/about_the_zoo"
+            android:textSize="17dp"
+            android:layout_below="@+id/separate"
+            android:layout_alignLeft="@+id/shows_text"
+            android:layout_alignStart="@+id/shows_text" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/info_privacy"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/privacy_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/about_icon"
+            android:layout_alignStart="@+id/about_icon"
+            android:layout_below="@+id/about_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/privacy" />
+
+        <TextView
+            android:id="@+id/privacy_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/privacy_policy"
+            android:textSize="17dp"
+            android:layout_below="@+id/about_text"
+            android:layout_alignLeft="@+id/about_text"
+            android:layout_alignStart="@+id/about_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_admin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/admin_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/privacy_icon"
+            android:layout_alignStart="@+id/privacy_icon"
+            android:layout_below="@+id/privacy_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/admin" />
+
+        <TextView
+            android:id="@+id/admin_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/administration"
+            android:textSize="17dp"
+            android:layout_below="@+id/privacy_text"
+            android:layout_alignLeft="@+id/privacy_text"
+            android:layout_alignStart="@+id/privacy_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_food"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/food_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/admin_icon"
+            android:layout_alignStart="@+id/admin_icon"
+            android:layout_below="@+id/admin_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/food" />
+
+        <TextView
+            android:id="@+id/food_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/food_shopping"
+            android:textSize="17dp"
+            android:layout_below="@+id/admin_text"
+            android:layout_alignLeft="@+id/admin_text"
+            android:layout_alignStart="@+id/admin_text" />
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/separate2"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@+id/shows_text"
+        android:background="@android:color/darker_gray"/>
+
+    <LinearLayout
+        android:id="@+id/info_contact"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true">
+        <ImageView
+            android:id="@+id/contact_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/food_icon"
+            android:layout_alignStart="@+id/food_icon"
+            android:layout_below="@+id/separate2"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/contact" />
+
+        <TextView
+            android:id="@+id/contact_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/contact_us"
+            android:textSize="17dp"
+            android:layout_below="@+id/separate2"
+            android:layout_alignLeft="@+id/food_text"
+            android:layout_alignStart="@+id/food_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_explore_mode"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:background="?android:attr/selectableItemBackground">
+        <ImageView
+            android:id="@+id/explore_icon"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/hour_icon"
+            android:layout_alignStart="@+id/hour_icon"
+            android:layout_below="@+id/hour_icon"
+            android:layout_margin="10dp"
+            android:background="@drawable/circle_bg"
+            android:padding="5dp"
+            android:src="@drawable/directions" />
+
+        <TextView
+            android:id="@+id/explore_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/explore"
+            android:textSize="17dp"
+            android:layout_below="@+id/hour_text"
+            android:layout_alignLeft="@+id/hour_text"
+            android:layout_alignStart="@+id/hour_text" />
+
+        <Switch
+            android:id="@+id/explore_mode_switch"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingEnd="16dp"
+            android:paddingRight="16dp"/>
+        </LinearLayout>
+
+
+
+
+
+</LinearLayout>

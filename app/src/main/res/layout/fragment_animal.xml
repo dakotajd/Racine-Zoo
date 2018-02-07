@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+              android:orientation="horizontal"
+             android:id="@+id/animal_list_frame"
+    >
+
+    <ListView
+        android:paddingTop="20dp"
+        android:clipToPadding="false"
+        android:id="@+id/animal_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        />
+    <edu.uwp.appfactory.racinezoo.CustomView.SideSelector
+        android:id="@+id/side_selector"
+        android:layout_width="25dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:background="@drawable/selector_bg"
+        android:layout_margin="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+
+        />
+
+</FrameLayout>
